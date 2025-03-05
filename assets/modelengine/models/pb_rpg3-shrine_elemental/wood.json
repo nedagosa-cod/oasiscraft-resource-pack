@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/rpg3_shrine2"},"elements":[{"from":[0.5,0.5,8.2],"to":[15.5,15.5,8.2],"faces":{"south":{"uv":[8.625,0.0,10.5,1.875],"tintindex":0,"rotation":0,"texture":"#0"},"north":{"uv":[7.625,8.5,9.5,10.375],"tintindex":0,"rotation":0,"texture":"#0"}},"rotation":{"origin":[8.0,8.0,8.0],"angle":45.0,"axis":"z"}}],"display":{"gui":{"rotation":[30,225,0]}}}

@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/gold_nugget"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "oasiscraft:item/gold_nugget/oasis_coin_a"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "oasiscraft:item/gold_nugget/oasis_coin_b"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "oasiscraft:item/gold_nugget/oasis_coin_c"
+    }
+  ]
+}

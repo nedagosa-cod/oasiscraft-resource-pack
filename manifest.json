@@ -1,0 +1,95 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "(By KatyushaNugget) Better Improved Spider Remastered Collection",
+        "name": "BetterSpiderRemastered[BedrockPort]",
+        "uuid": "9b69b00b-500f-4801-7008-533be48f93bc",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 13, 0]
+    },
+    "modules": [
+        {
+            "description": "(By KatyushaNugget) Better Improved Spider Remastered Collection",
+            "type": "resources",
+            "uuid": "34b00b85-0f7d-467c-96bb-69d4202d3b65",
+            "version": [0, 0, 1]
+        }
+    ],
+    "subpacks": [
+		{
+			"folder_name": "SpiderPlayer M Only",
+			"name": "SpiderPlayer M Only",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "SpiderPlayer F Only",
+			"name": "SpiderPlayer F Only",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "SpiderPlayer",
+			"name": "SpiderPlayer",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "ArachneBig M Only",
+			"name": "ArachneBig M Only",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "ArachneBig F Only",
+			"name": "ArachneBig F Only",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "ArachneBig",
+			"name": "ArachneBig",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "ArachneSmall M Only",
+			"name": "ArachneSmall M Only",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "ArachneSmall F Only",
+			"name": "ArachneSmall F Only",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "ArachneSmall",
+			"name": "ArachneSmall",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "HammerBig",
+			"name": "HammerBig",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "HammeSmall",
+			"name": "HammerSmall",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "SpiderBig",
+			"name": "SpiderBig",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "SpiderSmall",
+			"name": "SpiderSmall",
+			"memory_tier": 0
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	}
+}

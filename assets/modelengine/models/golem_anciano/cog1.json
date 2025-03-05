@@ -1,0 +1,1 @@
+{"textures":{"0":"modelengine:entity/blitzcrank"},"elements":[{"from":[7.99,-5.0,-2.0],"to":[7.99,17.0,20.0],"faces":{"east":{"uv":[0.0,7.1111116,2.4444444,9.555556],"tintindex":0,"rotation":0,"texture":"#0"},"west":{"uv":[2.4444444,7.1111116,0.0,9.555556],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[30,225,0]}}}

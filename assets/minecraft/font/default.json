@@ -1,0 +1,375 @@
+{
+  "providers": [
+    {
+      "file": "along:font/back.png",
+      "chars": [""],
+      "height": 256,
+      "ascent": 31,
+      "type": "bitmap"
+    },
+    {
+      "file": "along:font/tooltip_top.png",
+      "chars": ["뀐"],
+      "height": 23,
+      "ascent": 19,
+      "type": "bitmap"
+    },
+    {
+      "type": "bitmap",
+      "file": "along:font/GUI_razas.png",
+      "ascent": 14,
+      "height": 222,
+      "chars": ["‰"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:font/space_split.png",
+      "ascent": -32768,
+      "height": -6,
+      "chars": ["☙"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:font/toplore.png",
+      "height": 180,
+      "ascent": 80,
+      "chars": ["💨"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (17).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["𝇇"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (10).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▥"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (22).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▤"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (40).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▦"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (5).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▧"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (14).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▨"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (70).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▩"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (156).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["░"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (161).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▒"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (186).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▓"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (216).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["⟡"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (218).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["◇"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (284).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["⬚"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (282).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["▢"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (320).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["⿴"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/xp.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["※"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/xp.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["※"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/world.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["★"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/warning.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["⚠"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/unlock.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🔓"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/swords.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["⚔"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/stop_sign.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🛑"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/star.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["☆"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/script_text.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["📜"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/script.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["✎"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/potion.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🧪"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/music_play.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🎵"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/missing.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["❓"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/magnifier.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🔍"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/lock.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🔒"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/light.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["💡"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/item.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["📦"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/inventory.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🎒"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/information.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["ℹ"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/hourglass.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["⏳"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/help.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["❔"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/heart.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["❤"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/glow.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["✨"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/exclamation.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["❗"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/comment.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["💬"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/coins.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["💰"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/chest.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🗃"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/checkmark.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["✔"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/character_dialogue.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🗣"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/character.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["👤"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/add.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["➕"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/accept.png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["✅"]
+    },
+    {
+      "type": "bitmap",
+      "file": "along:icons/icon (5).png",
+      "ascent": 9,
+      "height": 9,
+      "chars": ["🔘"]
+    }
+  ]
+}

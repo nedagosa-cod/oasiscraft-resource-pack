@@ -1,0 +1,16 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 54321 },
+      "model": "oasiscraft:item/diamond_sword/nocsy_dragon_sword"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "oasiscraft:item/diamond_sword/class_warrior_sword"
+    }
+  ]
+}
