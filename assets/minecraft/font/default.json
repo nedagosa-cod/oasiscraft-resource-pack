@@ -370,6 +370,246 @@
       "ascent": 9,
       "height": 9,
       "chars": ["🔘"]
-    }
+    },
+    [
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (10).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♠"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (14).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♣"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (16).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♦"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (18).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♥"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (19).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♜"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (24).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♞"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (51).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♛"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (53).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♚"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (61).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["♟"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (66).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["⚀"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (75).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["⚁"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (83).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["⚂"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (87).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["⚃"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (88).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["⚄"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (89).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["⚅"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (99).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["☀"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (100).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["☁"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (155).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["☂"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (156).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["☃"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (159).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["☄"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (161).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["★"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (167).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["☆"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (172).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✦"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (173).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✧"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (180).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✪"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (212).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✶"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (217).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✵"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (227).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["❄"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (244).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["❆"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (256).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["❈"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (261).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["❉"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (264).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["❊"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (286).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✺"]
+      },
+      {
+        "type": "bitmap",
+        "file": "along:icons/icon (358).png",
+        "ascent": 9,
+        "height": 9,
+        "chars": ["✹"]
+      }
+    ]
   ]
 }
