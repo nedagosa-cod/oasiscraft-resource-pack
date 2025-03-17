@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0":"item/diamond/simbolo_culebra"
+        "layer0": "item/diamond/simbolo_culebra"
     }
 }

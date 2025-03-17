@@ -1,8 +1,22 @@
 {
   "providers": [
     {
+      "file": "along:font/runasGUI.png",
+      "chars": ["≈"],
+      "height": 256,
+      "ascent": 31,
+      "type": "bitmap"
+    },
+    {
       "file": "along:font/back.png",
       "chars": [""],
+      "height": 256,
+      "ascent": 31,
+      "type": "bitmap"
+    },
+    {
+      "file": "along:font/panel_tiendas.png",
+      "chars": ["〆"],
       "height": 256,
       "ascent": 31,
       "type": "bitmap"
@@ -609,6 +623,30 @@
       "ascent": 9,
       "height": 9,
       "chars": ["✹"]
-    }
+    },
+    { "type": "bitmap", "file": "along:icons/runa (1).png", "ascent": 9, "height": 9, "chars": ["☉"] },
+    { "type": "bitmap", "file": "along:icons/runa (2).png", "ascent": 9, "height": 9, "chars": ["☌"] },
+    { "type": "bitmap", "file": "along:icons/runa (3).png", "ascent": 9, "height": 9, "chars": ["☍"] },
+    { "type": "bitmap", "file": "along:icons/runa (4).png", "ascent": 9, "height": 9, "chars": ["☑"] },
+    { "type": "bitmap", "file": "along:icons/runa (5).png", "ascent": 9, "height": 9, "chars": ["☒"] },
+    { "type": "bitmap", "file": "along:icons/runa (6).png", "ascent": 9, "height": 9, "chars": ["☘"] },
+    { "type": "bitmap", "file": "along:icons/runa (7).png", "ascent": 9, "height": 9, "chars": ["☢"] },
+    { "type": "bitmap", "file": "along:icons/runa (8).png", "ascent": 9, "height": 9, "chars": ["☣"] },
+    { "type": "bitmap", "file": "along:icons/runa (9).png", "ascent": 9, "height": 9, "chars": ["☤"] },
+    { "type": "bitmap", "file": "along:icons/runa (10).png", "ascent": 9, "height": 9, "chars": ["☥"] },
+    { "type": "bitmap", "file": "along:icons/runa (11).png", "ascent": 9, "height": 9, "chars": ["☦"] },
+    { "type": "bitmap", "file": "along:icons/runa (12).png", "ascent": 9, "height": 9, "chars": ["☧"] },
+    { "type": "bitmap", "file": "along:icons/runa (13).png", "ascent": 9, "height": 9, "chars": ["☨"] },
+    { "type": "bitmap", "file": "along:icons/runa (14).png", "ascent": 9, "height": 9, "chars": ["☩"] },
+    { "type": "bitmap", "file": "along:icons/runa (15).png", "ascent": 9, "height": 9, "chars": ["☫"] },
+    { "type": "bitmap", "file": "along:icons/runa (16).png", "ascent": 9, "height": 9, "chars": ["☬"] },
+    { "type": "bitmap", "file": "along:icons/runa (17).png", "ascent": 9, "height": 9, "chars": ["☭"] },
+    { "type": "bitmap", "file": "along:icons/runa (18).png", "ascent": 9, "height": 9, "chars": ["☮"] },
+    { "type": "bitmap", "file": "along:icons/runa (19).png", "ascent": 9, "height": 9, "chars": ["☯"] },
+    { "type": "bitmap", "file": "along:icons/runa (20).png", "ascent": 9, "height": 9, "chars": ["☸"] },
+    { "type": "bitmap", "file": "along:icons/runa (21).png", "ascent": 9, "height": 9, "chars": ["☽"] },
+    { "type": "bitmap", "file": "along:icons/runa (22).png", "ascent": 9, "height": 9, "chars": ["☾"] },
+    { "type": "bitmap", "file": "along:icons/runa (23).png", "ascent": 9, "height": 9, "chars": ["♁"] },
+    { "type": "bitmap", "file": "along:icons/runa (24).png", "ascent": 9, "height": 9, "chars": ["♆"] }
   ]
 }
