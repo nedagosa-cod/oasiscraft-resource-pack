@@ -54,7 +54,7 @@
     },
     {
       "predicate": { "custom_model_data": 10011 },
-      "model": "minecraft:item/diamond_sword/nocsy_dragon_sword"
+      "model": "oasiscraft:item/diamond_sword/nocsy_dragon_sword"
     }
   ]
 }

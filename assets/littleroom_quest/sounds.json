@@ -1,0 +1,17 @@
+{
+   "littleroom.quest.accept":{
+		 "sounds": [
+			"littleroom/quest/quest_accept"
+		 ]
+	},
+   "littleroom.quest.complete":{
+		 "sounds": [
+			"littleroom/quest/quest_complete"
+		 ]
+	},
+   "littleroom.quest.greetings":{
+		 "sounds": [
+			"littleroom/quest/greetings"
+		 ]
+	}
+}

@@ -1,0 +1,102 @@
+{
+   "littleroom.yokai.oni.idle":{
+		 "sounds": [
+			"littleroom/yokai/oni/idle"
+		 ]
+	},
+	"littleroom.yokai.oni.death":{
+		 "sounds": [
+			"littleroom/yokai/oni/death"
+		 ]
+	},
+	"littleroom.yokai.oni.growl":{
+		 "sounds": [
+			"littleroom/yokai/oni/growl"
+		 ]
+	},
+	"littleroom.yokai.oni.punch":{
+		 "sounds": [
+			"littleroom/yokai/oni/punch"
+		 ]
+	},
+	"littleroom.yokai.oni.swing":{
+		 "sounds": [
+			"littleroom/yokai/oni/swing"
+		 ]
+	},
+	"littleroom.yokai.oni.hit":{
+		 "sounds": [
+			"littleroom/yokai/oni/hit"
+		 ]
+	},
+	"littleroom.yokai.oni.rage":{
+		 "sounds": [
+			"littleroom/yokai/oni/rage"
+		 ]
+	},
+	"littleroom.yokai.vanish":{
+		 "sounds": [
+			"littleroom/yokai/vanish"
+		 ]
+	},
+	"littleroom.yokai.tengu.sword":{
+		 "sounds": [
+			"littleroom/yokai/tengu/sword"
+		 ]
+	},
+	"littleroom.yokai.tengu.teleport":{
+		 "sounds": [
+			"littleroom/yokai/tengu/teleport"
+		 ]
+	},
+	"littleroom.yokai.tengu.hit":{
+		 "sounds": [
+			"littleroom/yokai/tengu/hit"
+		 ]
+	},
+	"littleroom.yokai.tengu.grunt":{
+		 "sounds": [
+			"littleroom/yokai/tengu/grunt"
+		 ]
+	},
+	"littleroom.yokai.tengu.laugh":{
+		 "sounds": [
+			"littleroom/yokai/tengu/laugh"
+		 ]
+	},
+	"littleroom.yokai.kappa.laugh":{
+		 "sounds": [
+			"littleroom/yokai/kappa/laugh"
+		 ]
+	},
+	"littleroom.yokai.kappa.grunt":{
+		 "sounds": [
+			"littleroom/yokai/kappa/grunt"
+		 ]
+	},
+	"littleroom.yokai.kappa.growl":{
+		 "sounds": [
+			"littleroom/yokai/kappa/growl"
+		 ]
+	},
+	"littleroom.yokai.kappa.die":{
+		 "sounds": [
+			"littleroom/yokai/kappa/die"
+		 ]
+	},
+	"littleroom.yokai.yurei.crying":{
+		 "sounds": [
+			"littleroom/yokai/yurei/crying"
+		 ]
+	},
+	"littleroom.yokai.yurei.startle":{
+		 "sounds": [
+			"littleroom/yokai/yurei/startle"
+		 ]
+	},
+	"littleroom.yokai.yurei.swipe":{
+		 "sounds": [
+			"littleroom/yokai/yurei/swipe"
+		 ]
+	}
+}

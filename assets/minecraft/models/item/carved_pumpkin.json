@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 7650 },
+      "model": "item/carved_pumpkin/nocsy_dragon_helmet"
+    }
+  ]
+}

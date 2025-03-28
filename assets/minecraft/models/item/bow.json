@@ -49,6 +49,246 @@
       "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 1 },
       "model": "oasiscraft:item/bow/class_archer_bow_2"
     },
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "iasurvival:ia_auto_gen/black_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10000 },
+      "model": "iasurvival:ia_auto_gen/black_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10000 },
+      "model": "iasurvival:ia_auto_gen/black_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10000 },
+      "model": "iasurvival:ia_auto_gen/black_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/red_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/red_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/red_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/red_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/green_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/green_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/green_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/green_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/blue_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/blue_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/blue_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/blue_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/purple_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/purple_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/purple_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/purple_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "iaalchemy:ia_auto_gen/astral_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10006 },
+      "model": "iaalchemy:ia_auto_gen/astral_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10006 },
+      "model": "iaalchemy:ia_auto_gen/astral_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10006 },
+      "model": "iaalchemy:ia_auto_gen/astral_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10007 },
+      "model": "voxelspawns_bows:item/vs_longbow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10007 },
+      "model": "voxelspawns_bows:item/vs_longbow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10007 },
+      "model": "voxelspawns_bows:item/vs_longbow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10007 },
+      "model": "voxelspawns_bows:item/vs_longbow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10008 },
+      "model": "voxelspawns_bows:item/vs_compositebow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10008 },
+      "model": "voxelspawns_bows:item/vs_compositebow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10008 },
+      "model": "voxelspawns_bows:item/vs_compositebow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10008 },
+      "model": "voxelspawns_bows:item/vs_compositebow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10009 },
+      "model": "voxelspawns_bows:item/vs_frostbow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10009 },
+      "model": "voxelspawns_bows:item/vs_frostbow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10009 },
+      "model": "voxelspawns_bows:item/vs_frostbow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10009 },
+      "model": "voxelspawns_bows:item/vs_frostbow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10010 },
+      "model": "voxelspawns_bows:item/vs_prismarinebow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10010 },
+      "model": "voxelspawns_bows:item/vs_prismarinebow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10010 },
+      "model": "voxelspawns_bows:item/vs_prismarinebow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10010 },
+      "model": "voxelspawns_bows:item/vs_prismarinebow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10011 },
+      "model": "voxelspawns_bows:item/vs_elvenbow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10011 },
+      "model": "voxelspawns_bows:item/vs_elvenbow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10011 },
+      "model": "voxelspawns_bows:item/vs_elvenbow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10011 },
+      "model": "voxelspawns_bows:item/vs_elvenbow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10012 },
+      "model": "voxelspawns_bows:item/vs_asiabow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10012 },
+      "model": "voxelspawns_bows:item/vs_asiabow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10012 },
+      "model": "voxelspawns_bows:item/vs_asiabow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10012 },
+      "model": "voxelspawns_bows:item/vs_asiabow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10013 },
+      "model": "voxelspawns_bows:item/vs_goldbow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10013 },
+      "model": "voxelspawns_bows:item/vs_goldbow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10013 },
+      "model": "voxelspawns_bows:item/vs_goldbow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10013 },
+      "model": "voxelspawns_bows:item/vs_goldbow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10014 },
+      "model": "voxelspawns_bows:item/vs_magicbow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10014 },
+      "model": "voxelspawns_bows:item/vs_magicbow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10014 },
+      "model": "voxelspawns_bows:item/vs_magicbow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10014 },
+      "model": "voxelspawns_bows:item/vs_magicbow_2"
+    },
     { "predicate": { "custom_model_data": 10015 }, "model": "item/bow" }
   ]
 }

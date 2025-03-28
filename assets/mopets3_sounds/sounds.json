@@ -1,0 +1,68 @@
+{
+  "samus.firecat_attack": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/firecat_attack"
+    ]
+  },
+  "samus.firecat_fire": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/firecat_fire"
+    ]
+  },
+  "samus.firecat_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/firecat_idle"
+    ]
+  },
+  "samus.frostgoat_attack": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/frostgoat_attack"
+    ]
+  },
+  "samus.frostgoat_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/frostgoat_idle"
+    ]
+  },
+  "samus.healingflower_heal": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/healingflower_heal"
+    ]
+  },
+  "samus.healingflower_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/healingflower_idle"
+    ]
+  },
+  "samus.magneticbot_pull": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/magneticbot_pull"
+    ]
+  },
+  "samus.speedrex_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/speedrex_idle"
+    ]
+  },
+  "samus.speedrex_roar": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/speedrex_roar"
+    ]
+  },
+  "samus.magneticbot_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/mopets3/magneticbot_idle"
+    ]
+  }
+}

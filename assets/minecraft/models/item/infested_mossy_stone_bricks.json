@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/mossy_stone_bricks",
+	"textures": {
+		"all": "item/infested_mossy_stone_bricks"
+	}
+}

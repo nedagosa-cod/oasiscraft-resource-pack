@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rpgmobs_1:rpgmob1_texture/crimson_feather"
+  }
+}
+

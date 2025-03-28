@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cracked_stone_bricks",
+	"textures": {
+		"all": "item/infested_cracked_stone_bricks"
+	}
+}

@@ -1,0 +1,57 @@
+{
+  "oasis.tutorial.background": {
+    "sounds": [
+      "oasis/server/background"
+    ]
+  },
+  "oasis.tutorial.jungle": {
+    "sounds": [
+      "oasis/tutorial/jungle"
+    ]
+  },
+  "oasis.tutorial.adam_adamn": {
+    "sounds": [
+      "oasis/tutorial/adam_adamn"
+    ]
+  },
+  "oasis.tutorial.adam_cuentame-mas": {
+    "sounds": [
+      "oasis/tutorial/adam_cuentame-mas"
+    ]
+  },
+  "oasis.tutorial.adam_cuentame-mas2": {
+    "sounds": [
+      "oasis/tutorial/adam_cuentame-mas2"
+    ]
+  },
+  "oasis.tutorial.adam_cuentame-mas3": {
+    "sounds": [
+      "oasis/tutorial/adam_cuentame-mas3"
+    ]
+  },
+  "oasis.portlux.bienvenido_al_banco": {
+    "sounds": [
+      "oasis/portlux/bienvenido_al_banco"
+    ]
+  },
+  "oasis.portlux.en_que _puedo_ayudarte": {
+    "sounds": [
+      "oasis/portlux/en_que _puedo_ayudarte"
+    ]
+  },
+  "oasis.portlux.no_ves_q_estoy_ocupado": {
+    "sounds": [
+      "oasis/portlux/no_ves_q_estoy_ocupado"
+    ]
+  },
+  "oasis.portlux.que_tal_como_vas": {
+    "sounds": [
+      "oasis/portlux/que_tal_como_vas"
+    ]
+  },
+  "oasis.portlux.un_placer_conocerte": {
+    "sounds": [
+      "oasis/portlux/un_placer_conocerte"
+    ]
+  }
+}

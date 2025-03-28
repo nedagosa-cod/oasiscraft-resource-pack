@@ -1,0 +1,108 @@
+{
+  "samus.orc_attack": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_attack1",
+	  "samus/orc/orc_attack2"
+    ]
+  },
+  "samus.orc_giant_attack": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_giant_attack1",
+	  "samus/orc/orc_giant_attack2"
+    ]
+  },
+  "samus.orc_giant_groundsmash": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_giant_groundsmash"
+    ]
+  },
+  "samus.orc_giant_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_giant_idle"
+    ]
+  },
+  "samus.orc_giant_lift": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_giant_lift"
+    ]
+  },
+  "samus.orc_giant_roar": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_giant_roar"
+    ]
+  },
+  "samus.orc_idle": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_idle"
+    ]
+  },
+  "samus.orc_king_attack": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_attack1",
+	  "samus/orc/orc_king_attack2"
+    ]
+  },
+  "samus.orc_king_glaive": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_glaive1",
+	  "samus/orc/orc_king_glaive2",
+	  "samus/orc/orc_king_glaive3"
+    ]
+  },
+  "samus.orc_king_heavyswing": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_heavyswing"
+    ]
+  },
+  "samus.orc_king_roar": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_roar"
+    ]
+  },
+  "samus.orc_king_spin": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_spin"
+    ]
+  },
+  "samus.orc_king_summon": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_summon"
+    ]
+  },
+  "samus.orc_king_summon_sound": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_king_summon_sound"
+    ]
+  },"samus.orc_minion_swing": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_minion_swing"
+    ]
+  },
+  "samus.orc_warrior_swing": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_warrior_swing"
+    ]
+  },
+  "samus.orc_giant_throw": {
+    "category": "master",
+    "sounds": [
+      "samus/orc/orc_giant_throw"
+    ]
+  }
+}

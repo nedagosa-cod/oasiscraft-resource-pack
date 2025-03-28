@@ -1,0 +1,733 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "littleroom_npcpack3:bard_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "littleroom_npcpack3:bard_lute"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "littleroom_npcpack3:fisherman_disguise"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "littleroom_npcpack3:lumberjack_beanie"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "littleroom_npcpack3:lumberjack_disguise"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "littleroom_npcpack3:queen_wig"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "littleroom_npcpack3:roman_soldier_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "littleroom_npcpack3:jester_staff"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "littleroom_yokai:tengumask"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "littleroom_yokai:onimask"
+    },
+    {
+      "predicate": { "custom_model_data": 26 },
+      "model": "littleroom_yokai:kappamask"
+    },
+    {
+      "predicate": { "custom_model_data": 27 },
+      "model": "littleroom_yokai:yureimask"
+    },
+    {
+      "predicate": { "custom_model_data": 28 },
+      "model": "littleroom_yokai:ofuda"
+    },
+    {
+      "predicate": { "custom_model_data": 5600 },
+      "model": "oasiscraft:item/orc_model/orc_skull"
+    },
+    {
+      "predicate": { "custom_model_data": 5601 },
+      "model": "oasiscraft:item/orc_model/orc_stone"
+    },
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "_iainternal:ia_auto_gen/icon_left_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "_iainternal:ia_auto_gen/icon_right_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "_iainternal:ia_auto_gen/icon_search"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "_iainternal:ia_auto_gen/icon_cancel"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "_iainternal:ia_auto_gen/icon_arrow_chest"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "_iainternal:ia_auto_gen/icon_back_orange"
+    },
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "_iainternal:ia_auto_gen/icon_next_orange"
+    },
+    {
+      "predicate": { "custom_model_data": 10007 },
+      "model": "iafestivities:christmas/decorative_candy_cane"
+    },
+    {
+      "predicate": { "custom_model_data": 10008 },
+      "model": "iasurvival:ia_auto_gen/blaze_powder_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10009 },
+      "model": "iaalchemy:ia_auto_gen/nether_alchemy_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10010 },
+      "model": "iafestivities:christmas/christmas_wreath"
+    },
+    {
+      "predicate": { "custom_model_data": 10011 },
+      "model": "iasurvival:ia_auto_gen/iron_dirt_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10012 },
+      "model": "iasurvival:ia_auto_gen/cassiterite_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10013 },
+      "model": "iasurvival:ia_auto_gen/dark_amethyst_prism_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10014 },
+      "model": "iasurvival:ia_auto_gen/coal_dirt_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10015 },
+      "model": "iasurvival:ia_auto_gen/aqua_aura_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10016 },
+      "model": "iasurvival:ia_auto_gen/turquoise_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10017 },
+      "model": "iasurvival:ia_auto_gen/spinel_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10018 },
+      "model": "iasurvival:ia_auto_gen/forgotten_crying_obsidian"
+    },
+    {
+      "predicate": { "custom_model_data": 10019 },
+      "model": "iasurvival:ia_auto_gen/dark_amethyst_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10020 },
+      "model": "iafestivities:christmas/christmas_tree"
+    },
+    {
+      "predicate": { "custom_model_data": 10021 },
+      "model": "mcicons:ia_auto_gen/icon_left_gray"
+    },
+    {
+      "predicate": { "custom_model_data": 10022 },
+      "model": "mcicons:ia_auto_gen/icon_left_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 10023 },
+      "model": "mcicons:ia_auto_gen/icon_right_gray"
+    },
+    {
+      "predicate": { "custom_model_data": 10024 },
+      "model": "mcicons:ia_auto_gen/icon_right_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 10025 },
+      "model": "mcicons:ia_auto_gen/icon_up_gray"
+    },
+    {
+      "predicate": { "custom_model_data": 10026 },
+      "model": "mcicons:ia_auto_gen/icon_up_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 10027 },
+      "model": "mcicons:ia_auto_gen/icon_down_gray"
+    },
+    {
+      "predicate": { "custom_model_data": 10028 },
+      "model": "mcicons:ia_auto_gen/icon_down_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 10029 },
+      "model": "mcicons:ia_auto_gen/icon_next_white"
+    },
+    {
+      "predicate": { "custom_model_data": 10030 },
+      "model": "mcicons:ia_auto_gen/icon_next_orange"
+    },
+    {
+      "predicate": { "custom_model_data": 10031 },
+      "model": "mcicons:ia_auto_gen/icon_back_white"
+    },
+    {
+      "predicate": { "custom_model_data": 10032 },
+      "model": "mcicons:ia_auto_gen/icon_back_orange"
+    },
+    {
+      "predicate": { "custom_model_data": 10033 },
+      "model": "mcicons:ia_auto_gen/icon_cancel"
+    },
+    {
+      "predicate": { "custom_model_data": 10034 },
+      "model": "mcicons:ia_auto_gen/icon_confirm"
+    },
+    {
+      "predicate": { "custom_model_data": 10035 },
+      "model": "mcicons:ia_auto_gen/icon_lock"
+    },
+    {
+      "predicate": { "custom_model_data": 10036 },
+      "model": "mcicons:ia_auto_gen/icon_unlock"
+    },
+    {
+      "predicate": { "custom_model_data": 10037 },
+      "model": "mcicons:ia_auto_gen/icon_web"
+    },
+    {
+      "predicate": { "custom_model_data": 10038 },
+      "model": "mcicons:ia_auto_gen/icon_ender_chest"
+    },
+    {
+      "predicate": { "custom_model_data": 10039 },
+      "model": "mcicons:ia_auto_gen/icon_refresh"
+    },
+    {
+      "predicate": { "custom_model_data": 10040 },
+      "model": "mcicons:ia_auto_gen/icon_time_day"
+    },
+    {
+      "predicate": { "custom_model_data": 10041 },
+      "model": "mcicons:ia_auto_gen/icon_time_midnight"
+    },
+    {
+      "predicate": { "custom_model_data": 10042 },
+      "model": "mcicons:ia_auto_gen/icon_time_night"
+    },
+    {
+      "predicate": { "custom_model_data": 10043 },
+      "model": "mcicons:ia_auto_gen/icon_time_noon"
+    },
+    {
+      "predicate": { "custom_model_data": 10044 },
+      "model": "mcicons:ia_auto_gen/icon_time_sunrise"
+    },
+    {
+      "predicate": { "custom_model_data": 10045 },
+      "model": "mcicons:ia_auto_gen/icon_time_sunset"
+    },
+    {
+      "predicate": { "custom_model_data": 10046 },
+      "model": "mcicons:ia_auto_gen/icon_toggle_off"
+    },
+    {
+      "predicate": { "custom_model_data": 10047 },
+      "model": "mcicons:ia_auto_gen/icon_toggle_on"
+    },
+    {
+      "predicate": { "custom_model_data": 10048 },
+      "model": "mcicons:ia_auto_gen/icon_arrow_chest"
+    },
+    {
+      "predicate": { "custom_model_data": 10049 },
+      "model": "mcicons:ia_auto_gen/icon_plus"
+    },
+    {
+      "predicate": { "custom_model_data": 10050 },
+      "model": "mcicons:ia_auto_gen/icon_color_picker"
+    },
+    {
+      "predicate": { "custom_model_data": 10051 },
+      "model": "mcicons:ia_auto_gen/icon_comment"
+    },
+    {
+      "predicate": { "custom_model_data": 10052 },
+      "model": "mcicons:ia_auto_gen/icon_search"
+    },
+    {
+      "predicate": { "custom_model_data": 10053 },
+      "model": "iasurvival:ia_auto_gen/customization_table"
+    },
+    {
+      "predicate": { "custom_model_data": 10054 },
+      "model": "iasurvival:ia_auto_gen/gold_dirt_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10055 },
+      "model": "iasurvival:ia_auto_gen/ruby_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10056 },
+      "model": "iasurvival:ia_auto_gen/spinel_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10057 },
+      "model": "iaalchemy:item/mysterious_stone"
+    },
+    {
+      "predicate": { "custom_model_data": 10058 },
+      "model": "iaalchemy:ia_auto_gen/mysterious_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10059 },
+      "model": "iasurvival:ia_auto_gen/end_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10060 },
+      "model": "iasurvival:ia_auto_gen/nice_stone"
+    },
+    {
+      "predicate": { "custom_model_data": 10061 },
+      "model": "iaalchemy:item/energy_converter"
+    },
+    {
+      "predicate": { "custom_model_data": 10062 },
+      "model": "iasurvival:ia_auto_gen/cassiterite_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10063 },
+      "model": "iasurvival:ia_auto_gen/dark_amethyst_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10064 },
+      "model": "iafestivities:christmas/christmas_candle"
+    },
+    {
+      "predicate": { "custom_model_data": 10065 },
+      "model": "iaalchemy:item/alchemy_candles"
+    },
+    {
+      "predicate": { "custom_model_data": 10066 },
+      "model": "iaalchemy:item/energy_extractor"
+    },
+    {
+      "predicate": { "custom_model_data": 10067 },
+      "model": "iasurvival:ia_auto_gen/aqua_aura_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10068 },
+      "model": "iasurvival:ia_auto_gen/restoration_table"
+    },
+    {
+      "predicate": { "custom_model_data": 10069 },
+      "model": "iasurvival:ia_auto_gen/nice_wood"
+    },
+    {
+      "predicate": { "custom_model_data": 10070 },
+      "model": "iasurvival:ia_auto_gen/modern_quartz"
+    },
+    {
+      "predicate": { "custom_model_data": 10071 },
+      "model": "iafestivities:halloween/decorative_pumpkin"
+    },
+    {
+      "predicate": { "custom_model_data": 10072 },
+      "model": "iasurvival:ia_auto_gen/modern_sandstone"
+    },
+    {
+      "predicate": { "custom_model_data": 10073 },
+      "model": "iasurvival:ia_auto_gen/crystal_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10074 },
+      "model": "iasurvival:ia_auto_gen/ruby_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 10075 },
+      "model": "iasurvival:ia_auto_gen/turquoise_block"
+    },
+    {
+      "predicate": { "custom_model_data": 10076 },
+      "model": "iasurvival:ia_auto_gen/modern_stone"
+    },
+    {
+      "predicate": { "custom_model_data": 10077 },
+      "model": "magicalfurnitures:item/couchmagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10078 },
+      "model": "magicalfurnitures:item/vasemagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10079 },
+      "model": "magicalfurnitures:item/tablemagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10080 },
+      "model": "magicalfurnitures:item/couchsmallmagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10081 },
+      "model": "magicalfurnitures:item/chairmagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10082 },
+      "model": "magicalfurnitures:item/cabientmagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10083 },
+      "model": "magicalfurnitures:item/tablesmallmagical"
+    },
+    {
+      "predicate": { "custom_model_data": 10084 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_weaponshelf"
+    },
+    {
+      "predicate": { "custom_model_data": 10085 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_anvil"
+    },
+    {
+      "predicate": { "custom_model_data": 10086 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_bed"
+    },
+    {
+      "predicate": { "custom_model_data": 10087 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_carpet"
+    },
+    {
+      "predicate": { "custom_model_data": 10088 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_chair_double"
+    },
+    {
+      "predicate": { "custom_model_data": 10089 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_chair_single"
+    },
+    {
+      "predicate": { "custom_model_data": 10090 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_cupboard"
+    },
+    {
+      "predicate": { "custom_model_data": 10091 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white"
+    },
+    {
+      "predicate": { "custom_model_data": 10092 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white_hang"
+    },
+    {
+      "predicate": { "custom_model_data": 10093 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_furnace"
+    },
+    {
+      "predicate": { "custom_model_data": 10094 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_grindstone"
+    },
+    {
+      "predicate": { "custom_model_data": 10095 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_shopsign"
+    },
+    {
+      "predicate": { "custom_model_data": 10096 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_table_big"
+    },
+    {
+      "predicate": { "custom_model_data": 10097 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_table_mini"
+    },
+    {
+      "predicate": { "custom_model_data": 10098 },
+      "model": "elitecreature:blacksmith_decoration_v1/blacksmith_toolrack"
+    },
+    {
+      "predicate": { "custom_model_data": 10099 },
+      "model": "elitecreatures:medieval_market_decoration_v2/barrel_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10100 },
+      "model": "elitecreatures:medieval_market_decoration_v2/barrel_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10101 },
+      "model": "elitecreatures:medieval_market_decoration_v2/board_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10102 },
+      "model": "elitecreatures:medieval_market_decoration_v2/boardsign_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10103 },
+      "model": "elitecreatures:medieval_market_decoration_v2/box_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10104 },
+      "model": "elitecreatures:medieval_market_decoration_v2/cargo_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10105 },
+      "model": "elitecreatures:medieval_market_decoration_v2/cargo_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10106 },
+      "model": "elitecreatures:medieval_market_decoration_v2/chair_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10107 },
+      "model": "elitecreatures:medieval_market_decoration_v2/chair_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10108 },
+      "model": "elitecreatures:medieval_market_decoration_v2/crate_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10109 },
+      "model": "elitecreatures:medieval_market_decoration_v2/crate_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10110 },
+      "model": "elitecreatures:medieval_market_decoration_v2/crate_3"
+    },
+    {
+      "predicate": { "custom_model_data": 10111 },
+      "model": "elitecreatures:medieval_market_decoration_v2/crate_4"
+    },
+    {
+      "predicate": { "custom_model_data": 10112 },
+      "model": "elitecreatures:medieval_market_decoration_v2/marketstall_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10113 },
+      "model": "elitecreatures:medieval_market_decoration_v2/marketstall_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10114 },
+      "model": "elitecreatures:medieval_market_decoration_v2/marketstall_3"
+    },
+    {
+      "predicate": { "custom_model_data": 10115 },
+      "model": "elitecreatures:medieval_market_decoration_v2/marketstall_4"
+    },
+    {
+      "predicate": { "custom_model_data": 10116 },
+      "model": "elitecreatures:medieval_market_decoration_v2/shelf_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10117 },
+      "model": "elitecreatures:medieval_market_decoration_v2/table_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10118 },
+      "model": "elitecreatures:medieval_market_decoration_v2/table_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10119 },
+      "model": "elitecreatures:fountain_decoration_v1/fountain_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10120 },
+      "model": "elitecreatures:fountain_decoration_v1/fountain_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10121 },
+      "model": "elitecreatures:fountain_decoration_v1/fountain_3"
+    },
+    {
+      "predicate": { "custom_model_data": 10122 },
+      "model": "elitecreatures:fountain_decoration_v1/fountain_4"
+    },
+    {
+      "predicate": { "custom_model_data": 10123 },
+      "model": "elitecreatures:fountain_decoration_v1/fountain_5"
+    },
+    {
+      "predicate": { "custom_model_data": 10124 },
+      "model": "elitecreatures:fountain_decoration_v1/fountain_6"
+    },
+    {
+      "predicate": { "custom_model_data": 10125 },
+      "model": "elitecreature:forest_decoration_v1/forest_barrel_01"
+    },
+    {
+      "predicate": { "custom_model_data": 10126 },
+      "model": "elitecreature:forest_decoration_v1/forest_barrel_beer"
+    },
+    {
+      "predicate": { "custom_model_data": 10127 },
+      "model": "elitecreature:forest_decoration_v1/forest_camp_meat"
+    },
+    {
+      "predicate": { "custom_model_data": 10128 },
+      "model": "elitecreature:forest_decoration_v1/forest_camp_pot"
+    },
+    {
+      "predicate": { "custom_model_data": 10129 },
+      "model": "elitecreature:forest_decoration_v1/forest_cargo"
+    },
+    {
+      "predicate": { "custom_model_data": 10130 },
+      "model": "elitecreature:forest_decoration_v1/forest_clothsline"
+    },
+    {
+      "predicate": { "custom_model_data": 10131 },
+      "model": "elitecreature:forest_decoration_v1/forest_flag"
+    },
+    {
+      "predicate": { "custom_model_data": 10132 },
+      "model": "elitecreature:forest_decoration_v1/forest_glass"
+    },
+    {
+      "predicate": { "custom_model_data": 10133 },
+      "model": "elitecreature:forest_decoration_v1/forest_lantern"
+    },
+    {
+      "predicate": { "custom_model_data": 10134 },
+      "model": "elitecreature:forest_decoration_v1/forest_log_with_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 10135 },
+      "model": "elitecreature:forest_decoration_v1/forest_storage_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 10136 },
+      "model": "elitecreature:forest_decoration_v1/forest_stump"
+    },
+    {
+      "predicate": { "custom_model_data": 10137 },
+      "model": "elitecreature:forest_decoration_v1/forest_table"
+    },
+    {
+      "predicate": { "custom_model_data": 10138 },
+      "model": "elitecreature:forest_decoration_v1/forest_table_big"
+    },
+    {
+      "predicate": { "custom_model_data": 10139 },
+      "model": "elitecreature:forest_decoration_v1/forest_table_small"
+    },
+    {
+      "predicate": { "custom_model_data": 10140 },
+      "model": "elitecreature:forest_decoration_v1/forest_tent"
+    },
+    {
+      "predicate": { "custom_model_data": 10141 },
+      "model": "elitecreatures:medieval_market_decoration_v1/barrel"
+    },
+    {
+      "predicate": { "custom_model_data": 10142 },
+      "model": "elitecreatures:medieval_market_decoration_v1/barrelberry"
+    },
+    {
+      "predicate": { "custom_model_data": 10143 },
+      "model": "elitecreatures:medieval_market_decoration_v1/barrelsword"
+    },
+    {
+      "predicate": { "custom_model_data": 10144 },
+      "model": "elitecreatures:medieval_market_decoration_v1/boardsign"
+    },
+    {
+      "predicate": { "custom_model_data": 10145 },
+      "model": "elitecreatures:medieval_market_decoration_v1/campfire_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10146 },
+      "model": "elitecreatures:medieval_market_decoration_v1/campfire_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10147 },
+      "model": "elitecreatures:medieval_market_decoration_v1/cargo_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10148 },
+      "model": "elitecreatures:medieval_market_decoration_v1/cargo_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10149 },
+      "model": "elitecreatures:medieval_market_decoration_v1/cart_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10150 },
+      "model": "elitecreatures:medieval_market_decoration_v1/cart_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10151 },
+      "model": "elitecreatures:medieval_market_decoration_v1/chair"
+    },
+    {
+      "predicate": { "custom_model_data": 10152 },
+      "model": "elitecreatures:medieval_market_decoration_v1/crate"
+    },
+    {
+      "predicate": { "custom_model_data": 10153 },
+      "model": "elitecreatures:medieval_market_decoration_v1/earthenware"
+    },
+    {
+      "predicate": { "custom_model_data": 10154 },
+      "model": "elitecreatures:medieval_market_decoration_v1/fishtub"
+    },
+    {
+      "predicate": { "custom_model_data": 10155 },
+      "model": "elitecreatures:medieval_market_decoration_v1/marketstall_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10156 },
+      "model": "elitecreatures:medieval_market_decoration_v1/marketstall_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10157 },
+      "model": "elitecreatures:medieval_market_decoration_v1/marketstall_3"
+    },
+    {
+      "predicate": { "custom_model_data": 10158 },
+      "model": "elitecreatures:medieval_market_decoration_v1/marketstall_4"
+    },
+    {
+      "predicate": { "custom_model_data": 10159 },
+      "model": "elitecreatures:medieval_market_decoration_v1/pole"
+    },
+    {
+      "predicate": { "custom_model_data": 10160 },
+      "model": "elitecreatures:medieval_market_decoration_v1/shark"
+    },
+    {
+      "predicate": { "custom_model_data": 10161 },
+      "model": "elitecreatures:medieval_market_decoration_v1/shelf_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10162 },
+      "model": "elitecreatures:medieval_market_decoration_v1/shelf_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10163 },
+      "model": "elitecreatures:medieval_market_decoration_v1/table_1"
+    },
+    {
+      "predicate": { "custom_model_data": 10164 },
+      "model": "elitecreatures:medieval_market_decoration_v1/table_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10165 },
+      "model": "elitecreatures:medieval_market_decoration_v1/waterwell"
+    },
+    { "predicate": { "custom_model_data": 10166 }, "model": "item/paper" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stone_sword"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 5600 },
+      "model": "oasiscraft:item/stone_sword/orc_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 5601 },
+      "model": "oasiscraft:item/stone_sword/orc_club"
+    },
+    {
+      "predicate": { "custom_model_data": 5602 },
+      "model": "oasiscraft:item/stone_sword/orc_glaive"
+    }
+  ]
+}

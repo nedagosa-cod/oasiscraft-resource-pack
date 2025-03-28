@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/arrow"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 5600 },
+      "model": "oasiscraft:item/orc_model/orc_arrow"
+    }
+  ]
+}

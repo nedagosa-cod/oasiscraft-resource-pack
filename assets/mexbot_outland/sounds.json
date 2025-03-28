@@ -1,0 +1,57 @@
+{
+   "mexbot.outland.alar_idle":{
+		 "sounds": [
+			"mexbot/outland/alar_idle"
+		 ]
+	},
+   "mexbot.outland.alar_spawn":{
+		 "sounds": [
+			"mexbot/outland/alar_spawn"
+		 ]
+	},
+   "mexbot.outland.darkportal_idle":{
+		 "sounds": [
+			"mexbot/outland/darkportal_idle"
+		 ]
+	},
+   "mexbot.outland.footstep":{
+		 "sounds": [
+			"mexbot/outland/footstep"
+		 ]
+	},
+   "mexbot.outland.raven_death":{
+		 "sounds": [
+			"mexbot/outland/raven_death"
+		 ]
+	},
+   "mexbot.outland.raven_longscream":{
+		 "sounds": [
+			"mexbot/outland/raven_longscream"
+		 ]
+	},
+   "mexbot.outland.raven_scream":{
+		 "sounds": [
+			"mexbot/outland/raven_scream"
+		 ]
+	},
+   "mexbot.outland.raven_spawn":{
+		 "sounds": [
+			"mexbot/outland/raven_spawn"
+		 ]
+	},
+   "mexbot.outland.tiger_scream":{
+		 "sounds": [
+			"mexbot/outland/tiger_scream"
+		 ]
+	},
+   "mexbot.outland.ravenlord_mount_spawn":{
+		 "sounds": [
+			"mexbot/outland/ravenlord_mount_spawn"
+		 ]
+	},
+   "mexbot.outland.tiger_spawn":{
+		 "sounds": [
+			"mexbot/outland/tiger_spawn"
+		 ]
+	}
+}

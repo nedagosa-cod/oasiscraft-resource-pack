@@ -5,6 +5,19 @@
     {
       "predicate": { "custom_model_data": 1 },
       "model": "oasiscraft:item/diamond_axe/class_paladin_hammer"
-    }
+    },
+    {
+      "predicate": { "custom_model_data": 10000 },
+      "model": "iasurvival:ia_auto_gen/bronze_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/ruby_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/dark_amethyst_axe"
+    },
+    { "predicate": { "custom_model_data": 10003 }, "model": "item/diamond_axe" }
   ]
 }
