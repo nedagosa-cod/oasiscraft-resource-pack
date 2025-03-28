@@ -3,8 +3,8 @@
   "parent": "nocsy_dragon_sword",
   "texture_size": [128, 128],
   "textures": {
-    "0": "oasiscraft:item/nocsy/nocsy_dragon_sword",
-    "particle": "oasiscraft:item/nocsy/nocsy_dragon_sword"
+    "0": "nocsy/nocsy_dragon_sword",
+    "particle": "nocsy/nocsy_dragon_sword"
   },
   "elements": [
     {
