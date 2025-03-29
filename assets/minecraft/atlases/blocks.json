@@ -1,39 +1,153 @@
 {
 	"sources": [
-		{ "source": "entity", "prefix": "entity/", "type": "directory" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/water_still", "sprite": "magic_store:furnitures/blacksmith_pack/water_still", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/campfire_fire", "sprite": "magic_store:furnitures/blacksmith_pack/campfire_fire", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/campfire_log_lit", "sprite": "magic_store:furnitures/blacksmith_pack/campfire_log_lit", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/grinding_stone", "sprite": "magic_store:furnitures/blacksmith_pack/grinding_stone", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/grinding_stone", "sprite": "magic_store:furnitures/blacksmith_pack/grinding_stone", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/water_still", "sprite": "magic_store:furnitures/blacksmith_pack/water_still", "type": "single" },
-		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" }
+	  { "source": "entity", "prefix": "entity/", "type": "directory" },
+	  {"type": "directory", "source": "items", "prefix": "items/"},
+	  {
+		"resource": "magic_store:furnitures/blacksmith_pack/blacksmith",
+		"sprite": "magic_store:furnitures/blacksmith_pack/blacksmith",
+		"type": "single"
+	  },
+	  {
+		"resource": "magic_store:furnitures/blacksmith_pack/water_still",
+		"sprite": "magic_store:furnitures/blacksmith_pack/water_still",
+		"type": "single"
+	  },
+	  {
+		"resource": "magic_store:furnitures/blacksmith_pack/campfire_fire",
+		"sprite": "magic_store:furnitures/blacksmith_pack/campfire_fire",
+		"type": "single"
+	  },
+	  {
+		"resource": "magic_store:furnitures/blacksmith_pack/campfire_log_lit",
+		"sprite": "magic_store:furnitures/blacksmith_pack/campfire_log_lit",
+		"type": "single"
+	  },
+	  {
+		"resource": "magic_store:furnitures/blacksmith_pack/grinding_stone",
+		"sprite": "magic_store:furnitures/blacksmith_pack/grinding_stone",
+		"type": "single"
+	  },
+	  { "type": "single", "resource": "iawearables:hat/mining_helmet" },
+	  { "type": "single", "resource": "iawearables:back/red_backpack" },
+	  { "type": "single", "resource": "iafestivities:halloween/pumpkin" },
+	  { "type": "single", "resource": "_iainternal:icons/icon_next_orange" },
+	  {
+		"type": "single",
+		"resource": "magic_store:furnitures/blacksmith_pack/blacksmith"
+	  },
+	  { "type": "single", "resource": "iawearables:hat/glasses" },
+	  { "type": "single", "resource": "iafestivities:christmas/candy" },
+	  { "type": "single", "resource": "entity/villager/profession/farmer" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:christmas/christmas_candle/leaves"
+	  },
+	  { "type": "single", "resource": "_iainternal:icons/icon_cancel" },
+	  { "type": "single", "resource": "iawearables:hat/biker_helmet" },
+	  { "type": "single", "resource": "iafestivities:halloween/witch_hat" },
+	  { "type": "single", "resource": "_iainternal:icons/icon_arrow_chest" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/bones_backpack/bone"
+	  },
+	  {
+		"type": "single",
+		"resource": "iaalchemy:furniture/mysterious_stone/symbols"
+	  },
+	  { "type": "single", "resource": "iawearables:back/white_cat_tail" },
+	  { "type": "single", "resource": "iawearables:back/black_backpack" },
+	  { "type": "single", "resource": "iawearables:back/purple_backpack" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/bones_backpack/skull"
+	  },
+	  { "type": "single", "resource": "iafestivities:halloween/pumpkin_side" },
+	  {
+		"type": "single",
+		"resource": "magic_store:furnitures/blacksmith_pack/water_still"
+	  },
+	  { "type": "single", "resource": "iawearables:hat/cat_ears" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin_side"
+	  },
+	  { "type": "single", "resource": "iawearables:back/blue_backpack" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/pumpkin_stem_connected"
+	  },
+	  { "type": "single", "resource": "iawearables:back/demoniac_black_wings" },
+	  { "type": "single", "resource": "_iainternal:icons/icon_search" },
+	  { "type": "single", "resource": "iawearables:back/demoniac_blue_wings" },
+	  { "type": "single", "resource": "iafestivities:halloween/bat_wings" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:christmas/christmas_wreath"
+	  },
+	  { "type": "single", "resource": "iawearables:back/black_cat_tail" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin_stem_connected"
+	  },
+	  { "type": "single", "resource": "_iainternal:icons/icon_left_blue" },
+	  { "type": "single", "resource": "iawearables:hat/cool_sunglasses" },
+	  { "type": "single", "resource": "iawearables:back/demoniac_purple_wings" },
+	  {
+		"type": "single",
+		"resource": "magic_store:furnitures/blacksmith_pack/campfire_fire"
+	  },
+	  { "type": "single", "resource": "iawearables:back/turquoise_backpack" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:christmas/christmas_tree/red_orb"
+	  },
+	  { "type": "single", "resource": "entity/enderdragon/dragon" },
+	  {
+		"type": "single",
+		"resource": "iawearables:back/demoniac_turquoise_wings"
+	  },
+	  { "type": "single", "resource": "iawearables:back/brown_backpack" },
+	  { "type": "single", "resource": "iawearables:hat/deadmau5_hat" },
+	  {
+		"type": "single",
+		"resource": "magic_store:furnitures/blacksmith_pack/campfire_log_lit"
+	  },
+	  {
+		"type": "single",
+		"resource": "iafestivities:christmas/christmas_candle/fire"
+	  },
+	  { "type": "single", "resource": "iawearables:back/all_black_cat_tail" },
+	  { "type": "single", "resource": "iafestivities:halloween/axe_hat" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/cave_spider_backpack"
+	  },
+	  { "type": "single", "resource": "iawearables:back/demoniac_red_wings" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:christmas/christmas_tree/leaves"
+	  },
+	  { "type": "single", "resource": "iafestivities:halloween/spider_backpack" },
+	  {
+		"type": "single",
+		"resource": "magic_store:furnitures/blacksmith_pack/grinding_stone"
+	  },
+	  { "type": "single", "resource": "iawearables:hat/cigar" },
+	  { "type": "single", "resource": "_iainternal:icons/icon_back_orange" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin"
+	  },
+	  {
+		"type": "single",
+		"resource": "iafestivities:christmas/christmas_tree/green_orb"
+	  },
+	  { "type": "single", "resource": "iawearables:hat/ruby_pickaxe_hat" },
+	  { "type": "single", "resource": "_iainternal:icons/icon_right_blue" },
+	  {
+		"type": "single",
+		"resource": "iafestivities:halloween/decorative_pumpkin/fire"
+	  }
 	]
-}
+  }
+  
