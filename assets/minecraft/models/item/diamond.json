@@ -1,800 +1,872 @@
 {
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "item/diamond"
-  },
-  "overrides": [
-    {
-      "predicate": { "custom_model_data": 1 },
-      "model": "oasiscraft:item/diamond/1"
-    },
-    {
-      "predicate": { "custom_model_data": 2 },
-      "model": "oasiscraft:item/diamond/2"
-    },
-    {
-      "predicate": { "custom_model_data": 3 },
-      "model": "oasiscraft:item/diamond/3"
-    },
-    {
-      "predicate": { "custom_model_data": 4 },
-      "model": "oasiscraft:item/diamond/4"
-    },
-    {
-      "predicate": { "custom_model_data": 5 },
-      "model": "oasiscraft:item/diamond/5"
-    },
-    {
-      "predicate": { "custom_model_data": 6 },
-      "model": "oasiscraft:item/diamond/6"
-    },
-    {
-      "predicate": { "custom_model_data": 7 },
-      "model": "oasiscraft:item/diamond/7"
-    },
-    {
-      "predicate": { "custom_model_data": 8 },
-      "model": "oasiscraft:item/diamond/8"
-    },
-    {
-      "predicate": { "custom_model_data": 9 },
-      "model": "oasiscraft:item/diamond/9"
-    },
-    {
-      "predicate": { "custom_model_data": 10 },
-      "model": "oasiscraft:item/diamond/q_start"
-    },
-    {
-      "predicate": { "custom_model_data": 11 },
-      "model": "oasiscraft:item/diamond/q_started"
-    },
-    {
-      "predicate": { "custom_model_data": 12 },
-      "model": "oasiscraft:item/diamond/q_reward"
-    },
-    {
-      "predicate": { "custom_model_data": 13 },
-      "model": "oasiscraft:item/diamond/PersonalInventory"
-    },
-    {
-      "predicate": { "custom_model_data": 14 },
-      "model": "oasiscraft:item/diamond/oasis_coin_A"
-    },
-    {
-      "predicate": { "custom_model_data": 9001 },
-      "model": "oasiscraft:item/diamond/amuleto_chaman"
-    },
-    {
-      "predicate": { "custom_model_data": 9002 },
-      "model": "oasiscraft:item/diamond/amuleto_rojo"
-    },
-    {
-      "predicate": { "custom_model_data": 9003 },
-      "model": "oasiscraft:item/diamond/anillo_basico"
-    },
-    {
-      "predicate": { "custom_model_data": 9004 },
-      "model": "oasiscraft:item/diamond/anillo_cafeoro"
-    },
-    {
-      "predicate": { "custom_model_data": 9005 },
-      "model": "oasiscraft:item/diamond/anillo_real"
-    },
-    {
-      "predicate": { "custom_model_data": 9006 },
-      "model": "minecraft:item/diamond/arpa_oro"
-    },
-    {
-      "predicate": { "custom_model_data": 9007 },
-      "model": "oasiscraft:item/diamond/bumerang_amarillo"
-    },
-    {
-      "predicate": { "custom_model_data": 9008 },
-      "model": "oasiscraft:item/diamond/collar_oro"
-    },
-    {
-      "predicate": { "custom_model_data": 9009 },
-      "model": "oasiscraft:item/diamond/corazon_humano"
-    },
-    {
-      "predicate": { "custom_model_data": 9010 },
-      "model": "oasiscraft:item/diamond/corneta_oro"
-    },
-    {
-      "predicate": { "custom_model_data": 9011 },
-      "model": "oasiscraft:item/diamond/cuerda_larga"
-    },
-    {
-      "predicate": { "custom_model_data": 9012 },
-      "model": "oasiscraft:item/diamond/espejo_magico"
-    },
-    {
-      "predicate": { "custom_model_data": 9013 },
-      "model": "oasiscraft:item/diamond/estatua_azul"
-    },
-    {
-      "predicate": { "custom_model_data": 9014 },
-      "model": "oasiscraft:item/diamond/flema_verde"
-    },
-    {
-      "predicate": { "custom_model_data": 9015 },
-      "model": "oasiscraft:item/diamond/guantes_cuero"
-    },
-    {
-      "predicate": { "custom_model_data": 9016 },
-      "model": "oasiscraft:item/diamond/guantes_diamante"
-    },
-    {
-      "predicate": { "custom_model_data": 9017 },
-      "model": "oasiscraft:item/diamond/guantes_hierro"
-    },
-    {
-      "predicate": { "custom_model_data": 9018 },
-      "model": "oasiscraft:item/diamond/guantes_netherita"
-    },
-    {
-      "predicate": { "custom_model_data": 9019 },
-      "model": "oasiscraft:item/diamond/guantes_oro"
-    },
-    {
-      "predicate": { "custom_model_data": 9020 },
-      "model": "oasiscraft:item/diamond/lagrimas_angel"
-    },
-    {
-      "predicate": { "custom_model_data": 9021 },
-      "model": "oasiscraft:item/diamond/llave_vieja"
-    },
-    {
-      "predicate": { "custom_model_data": 9022 },
-      "model": "oasiscraft:item/diamond/piedra_runa"
-    },
-    {
-      "predicate": { "custom_model_data": 9023 },
-      "model": "oasiscraft:item/diamond/sand_clock"
-    },
-    {
-      "predicate": { "custom_model_data": 9024 },
-      "model": "oasiscraft:item/diamond/simbolo_culebra"
-    },
-    {
-      "predicate": { "custom_model_data": 9025 },
-      "model": "oasiscraft:item/diamond/algodon_blanco"
-    },
-    {
-      "predicate": { "custom_model_data": 9026 },
-      "model": "oasiscraft:item/diamond/diamante_naciendo"
-    },
-    {
-      "predicate": { "custom_model_data": 9027 },
-      "model": "oasiscraft:item/diamond/flauta_horizontal"
-    },
-    {
-      "predicate": { "custom_model_data": 9028 },
-      "model": "oasiscraft:item/diamond/flor_loto"
-    },
-    {
-      "predicate": { "custom_model_data": 9029 },
-      "model": "oasiscraft:item/diamond/hilo_aguja"
-    },
-    {
-      "predicate": { "custom_model_data": 9030 },
-      "model": "oasiscraft:item/diamond/libro_magico"
-    },
-    {
-      "predicate": { "custom_model_data": 9031 },
-      "model": "oasiscraft:item/diamond/mensaje_carta"
-    },
-    {
-      "predicate": { "custom_model_data": 9032 },
-      "model": "oasiscraft:item/diamond/mensaje_importante"
-    },
-    {
-      "predicate": { "custom_model_data": 9033 },
-      "model": "oasiscraft:item/diamond/monedero_cuero"
-    },
-    {
-      "predicate": { "custom_model_data": 9034 },
-      "model": "oasiscraft:item/diamond/pergamino_cifrado"
-    },
-    {
-      "predicate": { "custom_model_data": 9035 },
-      "model": "oasiscraft:item/diamond/polvo_netherita"
-    },
-    {
-      "predicate": { "custom_model_data": 9036 },
-      "model": "oasiscraft:item/diamond/raices_arbol"
-    },
-    {
-      "predicate": { "custom_model_data": 9037 },
-      "model": "oasiscraft:item/diamond/amuleto_basico"
-    },
-    {
-      "predicate": { "custom_model_data": 9038 },
-      "model": "oasiscraft:item/diamond/amuleto_esmeralda"
-    },
-    {
-      "predicate": { "custom_model_data": 9039 },
-      "model": "oasiscraft:item/diamond/amuleto_plata"
-    },
-    {
-      "predicate": { "custom_model_data": 9040 },
-      "model": "oasiscraft:item/diamond/caparazon_madera"
-    },
-    {
-      "predicate": { "custom_model_data": 9041 },
-      "model": "oasiscraft:item/diamond/caparazon_reliquia"
-    },
-    {
-      "predicate": { "custom_model_data": 9042 },
-      "model": "oasiscraft:item/diamond/carta_amarilla"
-    },
-    {
-      "predicate": { "custom_model_data": 9043 },
-      "model": "oasiscraft:item/diamond/carta_azul"
-    },
-    {
-      "predicate": { "custom_model_data": 9044 },
-      "model": "oasiscraft:item/diamond/carta_bless"
-    },
-    {
-      "predicate": { "custom_model_data": 9045 },
-      "model": "oasiscraft:item/diamond/carta_gris"
-    },
-    {
-      "predicate": { "custom_model_data": 9046 },
-      "model": "oasiscraft:item/diamond/carta_ice"
-    },
-    {
-      "predicate": { "custom_model_data": 9047 },
-      "model": "oasiscraft:item/diamond/carta_marron"
-    },
-    {
-      "predicate": { "custom_model_data": 9048 },
-      "model": "oasiscraft:item/diamond/carta_morada"
-    },
-    {
-      "predicate": { "custom_model_data": 9049 },
-      "model": "oasiscraft:item/diamond/carta_multiverse"
-    },
-    {
-      "predicate": { "custom_model_data": 9050 },
-      "model": "oasiscraft:item/diamond/carta_verde"
-    },
-    {
-      "predicate": { "custom_model_data": 9051 },
-      "model": "oasiscraft:item/diamond/carta_vulcan"
-    },
-    {
-      "predicate": { "custom_model_data": 9052 },
-      "model": "oasiscraft:item/diamond/daga_rastreador"
-    },
-    {
-      "predicate": { "custom_model_data": 9053 },
-      "model": "oasiscraft:item/diamond/lancera_oro"
-    },
-    {
-      "predicate": { "custom_model_data": 9054 },
-      "model": "oasiscraft:item/diamond/llave_bosque"
-    },
-    {
-      "predicate": { "custom_model_data": 9055 },
-      "model": "oasiscraft:item/diamond/varita_bosque"
-    },
-    {
-      "predicate": { "custom_model_data": 9056 },
-      "model": "oasiscraft:item/diamond/aretes_perla"
-    },
-    {
-      "predicate": { "custom_model_data": 9057 },
-      "model": "oasiscraft:item/diamond/cuero_dragon"
-    },
-    {
-      "predicate": { "custom_model_data": 9058 },
-      "model": "oasiscraft:item/diamond/faro_antiguo"
-    },
-    {
-      "predicate": { "custom_model_data": 9059 },
-      "model": "oasiscraft:item/diamond/fragmento_lactus"
-    },
-    {
-      "predicate": { "custom_model_data": 9060 },
-      "model": "oasiscraft:item/diamond/fragmento_raro1"
-    },
-    {
-      "predicate": { "custom_model_data": 9061 },
-      "model": "oasiscraft:item/diamond/fragmento_raro2"
-    },
-    {
-      "predicate": { "custom_model_data": 9062 },
-      "model": "oasiscraft:item/diamond/fragmento_raro3"
-    },
-    {
-      "predicate": { "custom_model_data": 9063 },
-      "model": "oasiscraft:item/diamond/fragmento_raro4"
-    },
-    {
-      "predicate": { "custom_model_data": 9064 },
-      "model": "oasiscraft:item/diamond/fragmento_raro5"
-    },
-    {
-      "predicate": { "custom_model_data": 9065 },
-      "model": "oasiscraft:item/diamond/fragmento_raro6"
-    },
-    {
-      "predicate": { "custom_model_data": 9066 },
-      "model": "oasiscraft:item/diamond/fragmento_raro7"
-    },
-    {
-      "predicate": { "custom_model_data": 9067 },
-      "model": "oasiscraft:item/diamond/frenillo"
-    },
-    {
-      "predicate": { "custom_model_data": 9068 },
-      "model": "oasiscraft:item/diamond/ojo_lvl1"
-    },
-    {
-      "predicate": { "custom_model_data": 9069 },
-      "model": "oasiscraft:item/diamond/ojo_lvl2"
-    },
-    {
-      "predicate": { "custom_model_data": 9070 },
-      "model": "oasiscraft:item/diamond/ojo_lvl3"
-    },
-    {
-      "predicate": { "custom_model_data": 9071 },
-      "model": "oasiscraft:item/diamond/piedras_gemelas"
-    },
-    {
-      "predicate": { "custom_model_data": 9072 },
-      "model": "oasiscraft:item/diamond/reliquia_preciada"
-    },
-    {
-      "predicate": { "custom_model_data": 9073 },
-      "model": "oasiscraft:item/diamond/tela_real"
-    },
-    {
-      "predicate": { "custom_model_data": 9074 },
-      "model": "oasiscraft:item/diamond/tuerca_madre"
-    },
-    {
-      "predicate": { "custom_model_data": 9075 },
-      "model": "oasiscraft:item/diamond/vateria_desconocida"
-    },
-    {
-      "predicate": { "custom_model_data": 9076 },
-      "model": "oasiscraft:item/diamond/verdadero_falso"
-    },
-    {
-      "predicate": { "custom_model_data": 9077 },
-      "model": "chests_pack:item/normal_key"
-    },
-    {
-      "predicate": { "custom_model_data": 9078 },
-      "model": "modelengine:quest_marker/available"
-    },
-    {
-      "predicate": { "custom_model_data": 9079 },
-      "model": "modelengine:quest_marker_parts/reward"
-    },
-    {
-      "predicate": { "custom_model_data": 9080 },
-      "model": "oasiscraft:item/diamond/accept"
-    },
-    {
-      "predicate": { "custom_model_data": 9081 },
-      "model": "oasiscraft:item/diamond/add"
-    },
-    {
-      "predicate": { "custom_model_data": 9082 },
-      "model": "oasiscraft:item/diamond/arrow_blue_left"
-    },
-    {
-      "predicate": { "custom_model_data": 9083 },
-      "model": "oasiscraft:item/diamond/arrow_blue_right"
-    },
-    {
-      "predicate": { "custom_model_data": 9084 },
-      "model": "oasiscraft:item/diamond/arrow_down"
-    },
-    {
-      "predicate": { "custom_model_data": 9085 },
-      "model": "oasiscraft:item/diamond/arrow_left"
-    },
-    {
-      "predicate": { "custom_model_data": 9086 },
-      "model": "oasiscraft:item/diamond/arrow_lower"
-    },
-    {
-      "predicate": { "custom_model_data": 9087 },
-      "model": "oasiscraft:item/diamond/arrow_play"
-    },
-    {
-      "predicate": { "custom_model_data": 9088 },
-      "model": "oasiscraft:item/diamond/arrow_raise"
-    },
-    {
-      "predicate": { "custom_model_data": 9089 },
-      "model": "oasiscraft:item/diamond/arrow_rotate_anticlockwise"
-    },
-    {
-      "predicate": { "custom_model_data": 9090 },
-      "model": "oasiscraft:item/diamond/arrow_up"
-    },
-    {
-      "predicate": { "custom_model_data": 9091 },
-      "model": "oasiscraft:item/diamond/book"
-    },
-    {
-      "predicate": { "custom_model_data": 9092 },
-      "model": "oasiscraft:item/diamond/button"
-    },
-    {
-      "predicate": { "custom_model_data": 9093 },
-      "model": "oasiscraft:item/diamond/button_xbox_a"
-    },
-    {
-      "predicate": { "custom_model_data": 9094 },
-      "model": "oasiscraft:item/diamond/button_xbox_b"
-    },
-    {
-      "predicate": { "custom_model_data": 9095 },
-      "model": "oasiscraft:item/diamond/button_xbox_x"
-    },
-    {
-      "predicate": { "custom_model_data": 9096 },
-      "model": "oasiscraft:item/diamond/button_xbox_y"
-    },
-    {
-      "predicate": { "custom_model_data": 9097 },
-      "model": "oasiscraft:item/diamond/camera"
-    },
-    {
-      "predicate": { "custom_model_data": 9098 },
-      "model": "oasiscraft:item/diamond/character"
-    },
-    {
-      "predicate": { "custom_model_data": 9099 },
-      "model": "oasiscraft:item/diamond/character_dialogue"
-    },
-    {
-      "predicate": { "custom_model_data": 9100 },
-      "model": "oasiscraft:item/diamond/arrow_right"
-    },
-    {
-      "predicate": { "custom_model_data": 9101 },
-      "model": "oasiscraft:item/diamond/rune (1)"
-    },
-    {
-      "predicate": { "custom_model_data": 9102 },
-      "model": "oasiscraft:item/diamond/rune (2)"
-    },
-    {
-      "predicate": { "custom_model_data": 9103 },
-      "model": "oasiscraft:item/diamond/rune (3)"
-    },
-    {
-      "predicate": { "custom_model_data": 9104 },
-      "model": "oasiscraft:item/diamond/rune (4)"
-    },
-    {
-      "predicate": { "custom_model_data": 9105 },
-      "model": "oasiscraft:item/diamond/rune (5)"
-    },
-    {
-      "predicate": { "custom_model_data": 9106 },
-      "model": "oasiscraft:item/diamond/rune (6)"
-    },
-    {
-      "predicate": { "custom_model_data": 9107 },
-      "model": "oasiscraft:item/diamond/rune (7)"
-    },
-    {
-      "predicate": { "custom_model_data": 9108 },
-      "model": "oasiscraft:item/diamond/rune (8)"
-    },
-    {
-      "predicate": { "custom_model_data": 9109 },
-      "model": "oasiscraft:item/diamond/rune (9)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9110
-      },
-      "model": "oasiscraft:item/diamond/runas (1)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9111
-      },
-      "model": "oasiscraft:item/diamond/runas (2)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9112
-      },
-      "model": "oasiscraft:item/diamond/runas (3)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9113
-      },
-      "model": "oasiscraft:item/diamond/runas (4)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9114
-      },
-      "model": "oasiscraft:item/diamond/runas (5)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9115
-      },
-      "model": "oasiscraft:item/diamond/runas (6)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9116
-      },
-      "model": "oasiscraft:item/diamond/runas (7)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9117
-      },
-      "model": "oasiscraft:item/diamond/runas (8)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9118
-      },
-      "model": "oasiscraft:item/diamond/runas (9)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9119
-      },
-      "model": "oasiscraft:item/diamond/runas (10)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9120
-      },
-      "model": "oasiscraft:item/diamond/runas (11)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9121
-      },
-      "model": "oasiscraft:item/diamond/runas (12)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9122
-      },
-      "model": "oasiscraft:item/diamond/runas (13)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9123
-      },
-      "model": "oasiscraft:item/diamond/runas (14)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9124
-      },
-      "model": "oasiscraft:item/diamond/runas (15)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9125
-      },
-      "model": "oasiscraft:item/diamond/runas (16)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9126
-      },
-      "model": "oasiscraft:item/diamond/runas (17)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9127
-      },
-      "model": "oasiscraft:item/diamond/runas (18)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9128
-      },
-      "model": "oasiscraft:item/diamond/runas (19)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9129
-      },
-      "model": "oasiscraft:item/diamond/runas (20)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9130
-      },
-      "model": "oasiscraft:item/diamond/runas (21)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9131
-      },
-      "model": "oasiscraft:item/diamond/runas (22)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9132
-      },
-      "model": "oasiscraft:item/diamond/runas (23)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9133
-      },
-      "model": "oasiscraft:item/diamond/runas (24)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9134
-      },
-      "model": "oasiscraft:item/diamond/runas (25)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9135
-      },
-      "model": "oasiscraft:item/diamond/runas (26)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9136
-      },
-      "model": "oasiscraft:item/diamond/runas (27)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9137
-      },
-      "model": "oasiscraft:item/diamond/runas (28)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9138
-      },
-      "model": "oasiscraft:item/diamond/runas (29)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9139
-      },
-      "model": "oasiscraft:item/diamond/runas (30)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9140
-      },
-      "model": "oasiscraft:item/diamond/runas (31)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9141
-      },
-      "model": "oasiscraft:item/diamond/runas (32)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9142
-      },
-      "model": "oasiscraft:item/diamond/runas (33)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9143
-      },
-      "model": "oasiscraft:item/diamond/runas (34)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9144
-      },
-      "model": "oasiscraft:item/diamond/runas (35)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9145
-      },
-      "model": "oasiscraft:item/diamond/runas (36)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9146
-      },
-      "model": "oasiscraft:item/diamond/runas (37)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9147
-      },
-      "model": "oasiscraft:item/diamond/runas (38)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9148
-      },
-      "model": "oasiscraft:item/diamond/runas (39)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9149
-      },
-      "model": "oasiscraft:item/diamond/runas (40)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9150
-      },
-      "model": "oasiscraft:item/diamond/runas (41)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9151
-      },
-      "model": "oasiscraft:item/diamond/runas (42)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9152
-      },
-      "model": "oasiscraft:item/diamond/runas (43)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9153
-      },
-      "model": "oasiscraft:item/diamond/runas (44)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9154
-      },
-      "model": "oasiscraft:item/diamond/runas (45)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9155
-      },
-      "model": "oasiscraft:item/diamond/runas (46)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9156
-      },
-      "model": "oasiscraft:item/diamond/runas (47)"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 9157
-      },
-      "model": "oasiscraft:item/diamond/runas (48)"
-    },
-    {
-      "predicate": { "custom_model_data": 9158 },
-      "model": "oasiscraft:item/diamond/piedra_runa_b"
-    },
-    {
-      "predicate": { "custom_model_data": 9159 },
-      "model": "oasiscraft:item/diamond/piedra_runa_c"
-    },
-    {
-      "predicate": { "custom_model_data": 9160 },
-      "model": "oasiscraft:item/diamond/piedra_runa_d"
-    }
-  ]
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/diamond"
+	},
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "oasiscraft:item/diamond/1"
+		},
+		{
+			"predicate": { "custom_model_data": 2 },
+			"model": "oasiscraft:item/diamond/2"
+		},
+		{
+			"predicate": { "custom_model_data": 3 },
+			"model": "oasiscraft:item/diamond/3"
+		},
+		{
+			"predicate": { "custom_model_data": 4 },
+			"model": "oasiscraft:item/diamond/4"
+		},
+		{
+			"predicate": { "custom_model_data": 5 },
+			"model": "oasiscraft:item/diamond/5"
+		},
+		{
+			"predicate": { "custom_model_data": 6 },
+			"model": "oasiscraft:item/diamond/6"
+		},
+		{
+			"predicate": { "custom_model_data": 7 },
+			"model": "oasiscraft:item/diamond/7"
+		},
+		{
+			"predicate": { "custom_model_data": 8 },
+			"model": "oasiscraft:item/diamond/8"
+		},
+		{
+			"predicate": { "custom_model_data": 9 },
+			"model": "oasiscraft:item/diamond/9"
+		},
+		{
+			"predicate": { "custom_model_data": 10 },
+			"model": "oasiscraft:item/diamond/q_start"
+		},
+		{
+			"predicate": { "custom_model_data": 11 },
+			"model": "oasiscraft:item/diamond/q_started"
+		},
+		{
+			"predicate": { "custom_model_data": 12 },
+			"model": "oasiscraft:item/diamond/q_reward"
+		},
+		{
+			"predicate": { "custom_model_data": 13 },
+			"model": "oasiscraft:item/diamond/PersonalInventory"
+		},
+		{
+			"predicate": { "custom_model_data": 14 },
+			"model": "oasiscraft:item/diamond/oasis_coin_A"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "oasiscraft:item/diamond/bat_horn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "oasiscraft:item/diamond/boar_leather"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "oasiscraft:item/diamond/magical_feather"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "oasiscraft:item/diamond/mushroom_of_life"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "oasiscraft:item/diamond/shiny_bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "oasiscraft:item/diamond/slime_goo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "oasiscraft:item/diamond/blue_slime_goo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "oasiscraft:item/diamond/snow_boar_leather"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "oasiscraft:item/diamond/mushroom_of_curse"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "oasiscraft:item/diamond/crimson_feather"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "oasiscraft:item/diamond/fire_feather"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "oasiscraft:item/diamond/glacial_feather"
+		},
+		{
+			"predicate": { "custom_model_data": 9001 },
+			"model": "oasiscraft:item/diamond/amuleto_chaman"
+		},
+		{
+			"predicate": { "custom_model_data": 9002 },
+			"model": "oasiscraft:item/diamond/amuleto_rojo"
+		},
+		{
+			"predicate": { "custom_model_data": 9003 },
+			"model": "oasiscraft:item/diamond/anillo_basico"
+		},
+		{
+			"predicate": { "custom_model_data": 9004 },
+			"model": "oasiscraft:item/diamond/anillo_cafeoro"
+		},
+		{
+			"predicate": { "custom_model_data": 9005 },
+			"model": "oasiscraft:item/diamond/anillo_real"
+		},
+		{
+			"predicate": { "custom_model_data": 9006 },
+			"model": "minecraft:item/diamond/arpa_oro"
+		},
+		{
+			"predicate": { "custom_model_data": 9007 },
+			"model": "oasiscraft:item/diamond/bumerang_amarillo"
+		},
+		{
+			"predicate": { "custom_model_data": 9008 },
+			"model": "oasiscraft:item/diamond/collar_oro"
+		},
+		{
+			"predicate": { "custom_model_data": 9009 },
+			"model": "oasiscraft:item/diamond/corazon_humano"
+		},
+		{
+			"predicate": { "custom_model_data": 9010 },
+			"model": "oasiscraft:item/diamond/corneta_oro"
+		},
+		{
+			"predicate": { "custom_model_data": 9011 },
+			"model": "oasiscraft:item/diamond/cuerda_larga"
+		},
+		{
+			"predicate": { "custom_model_data": 9012 },
+			"model": "oasiscraft:item/diamond/espejo_magico"
+		},
+		{
+			"predicate": { "custom_model_data": 9013 },
+			"model": "oasiscraft:item/diamond/estatua_azul"
+		},
+		{
+			"predicate": { "custom_model_data": 9014 },
+			"model": "oasiscraft:item/diamond/flema_verde"
+		},
+		{
+			"predicate": { "custom_model_data": 9015 },
+			"model": "oasiscraft:item/diamond/guantes_cuero"
+		},
+		{
+			"predicate": { "custom_model_data": 9016 },
+			"model": "oasiscraft:item/diamond/guantes_diamante"
+		},
+		{
+			"predicate": { "custom_model_data": 9017 },
+			"model": "oasiscraft:item/diamond/guantes_hierro"
+		},
+		{
+			"predicate": { "custom_model_data": 9018 },
+			"model": "oasiscraft:item/diamond/guantes_netherita"
+		},
+		{
+			"predicate": { "custom_model_data": 9019 },
+			"model": "oasiscraft:item/diamond/guantes_oro"
+		},
+		{
+			"predicate": { "custom_model_data": 9020 },
+			"model": "oasiscraft:item/diamond/lagrimas_angel"
+		},
+		{
+			"predicate": { "custom_model_data": 9021 },
+			"model": "oasiscraft:item/diamond/llave_vieja"
+		},
+		{
+			"predicate": { "custom_model_data": 9022 },
+			"model": "oasiscraft:item/diamond/piedra_runa"
+		},
+		{
+			"predicate": { "custom_model_data": 9023 },
+			"model": "oasiscraft:item/diamond/sand_clock"
+		},
+		{
+			"predicate": { "custom_model_data": 9024 },
+			"model": "oasiscraft:item/diamond/simbolo_culebra"
+		},
+		{
+			"predicate": { "custom_model_data": 9025 },
+			"model": "oasiscraft:item/diamond/algodon_blanco"
+		},
+		{
+			"predicate": { "custom_model_data": 9026 },
+			"model": "oasiscraft:item/diamond/diamante_naciendo"
+		},
+		{
+			"predicate": { "custom_model_data": 9027 },
+			"model": "oasiscraft:item/diamond/flauta_horizontal"
+		},
+		{
+			"predicate": { "custom_model_data": 9028 },
+			"model": "oasiscraft:item/diamond/flor_loto"
+		},
+		{
+			"predicate": { "custom_model_data": 9029 },
+			"model": "oasiscraft:item/diamond/hilo_aguja"
+		},
+		{
+			"predicate": { "custom_model_data": 9030 },
+			"model": "oasiscraft:item/diamond/libro_magico"
+		},
+		{
+			"predicate": { "custom_model_data": 9031 },
+			"model": "oasiscraft:item/diamond/mensaje_carta"
+		},
+		{
+			"predicate": { "custom_model_data": 9032 },
+			"model": "oasiscraft:item/diamond/mensaje_importante"
+		},
+		{
+			"predicate": { "custom_model_data": 9033 },
+			"model": "oasiscraft:item/diamond/monedero_cuero"
+		},
+		{
+			"predicate": { "custom_model_data": 9034 },
+			"model": "oasiscraft:item/diamond/pergamino_cifrado"
+		},
+		{
+			"predicate": { "custom_model_data": 9035 },
+			"model": "oasiscraft:item/diamond/polvo_netherita"
+		},
+		{
+			"predicate": { "custom_model_data": 9036 },
+			"model": "oasiscraft:item/diamond/raices_arbol"
+		},
+		{
+			"predicate": { "custom_model_data": 9037 },
+			"model": "oasiscraft:item/diamond/amuleto_basico"
+		},
+		{
+			"predicate": { "custom_model_data": 9038 },
+			"model": "oasiscraft:item/diamond/amuleto_esmeralda"
+		},
+		{
+			"predicate": { "custom_model_data": 9039 },
+			"model": "oasiscraft:item/diamond/amuleto_plata"
+		},
+		{
+			"predicate": { "custom_model_data": 9040 },
+			"model": "oasiscraft:item/diamond/caparazon_madera"
+		},
+		{
+			"predicate": { "custom_model_data": 9041 },
+			"model": "oasiscraft:item/diamond/caparazon_reliquia"
+		},
+		{
+			"predicate": { "custom_model_data": 9042 },
+			"model": "oasiscraft:item/diamond/carta_amarilla"
+		},
+		{
+			"predicate": { "custom_model_data": 9043 },
+			"model": "oasiscraft:item/diamond/carta_azul"
+		},
+		{
+			"predicate": { "custom_model_data": 9044 },
+			"model": "oasiscraft:item/diamond/carta_bless"
+		},
+		{
+			"predicate": { "custom_model_data": 9045 },
+			"model": "oasiscraft:item/diamond/carta_gris"
+		},
+		{
+			"predicate": { "custom_model_data": 9046 },
+			"model": "oasiscraft:item/diamond/carta_ice"
+		},
+		{
+			"predicate": { "custom_model_data": 9047 },
+			"model": "oasiscraft:item/diamond/carta_marron"
+		},
+		{
+			"predicate": { "custom_model_data": 9048 },
+			"model": "oasiscraft:item/diamond/carta_morada"
+		},
+		{
+			"predicate": { "custom_model_data": 9049 },
+			"model": "oasiscraft:item/diamond/carta_multiverse"
+		},
+		{
+			"predicate": { "custom_model_data": 9050 },
+			"model": "oasiscraft:item/diamond/carta_verde"
+		},
+		{
+			"predicate": { "custom_model_data": 9051 },
+			"model": "oasiscraft:item/diamond/carta_vulcan"
+		},
+		{
+			"predicate": { "custom_model_data": 9052 },
+			"model": "oasiscraft:item/diamond/daga_rastreador"
+		},
+		{
+			"predicate": { "custom_model_data": 9053 },
+			"model": "oasiscraft:item/diamond/lancera_oro"
+		},
+		{
+			"predicate": { "custom_model_data": 9054 },
+			"model": "oasiscraft:item/diamond/llave_bosque"
+		},
+		{
+			"predicate": { "custom_model_data": 9055 },
+			"model": "oasiscraft:item/diamond/varita_bosque"
+		},
+		{
+			"predicate": { "custom_model_data": 9056 },
+			"model": "oasiscraft:item/diamond/aretes_perla"
+		},
+		{
+			"predicate": { "custom_model_data": 9057 },
+			"model": "oasiscraft:item/diamond/cuero_dragon"
+		},
+		{
+			"predicate": { "custom_model_data": 9058 },
+			"model": "oasiscraft:item/diamond/faro_antiguo"
+		},
+		{
+			"predicate": { "custom_model_data": 9059 },
+			"model": "oasiscraft:item/diamond/fragmento_lactus"
+		},
+		{
+			"predicate": { "custom_model_data": 9060 },
+			"model": "oasiscraft:item/diamond/fragmento_raro1"
+		},
+		{
+			"predicate": { "custom_model_data": 9061 },
+			"model": "oasiscraft:item/diamond/fragmento_raro2"
+		},
+		{
+			"predicate": { "custom_model_data": 9062 },
+			"model": "oasiscraft:item/diamond/fragmento_raro3"
+		},
+		{
+			"predicate": { "custom_model_data": 9063 },
+			"model": "oasiscraft:item/diamond/fragmento_raro4"
+		},
+		{
+			"predicate": { "custom_model_data": 9064 },
+			"model": "oasiscraft:item/diamond/fragmento_raro5"
+		},
+		{
+			"predicate": { "custom_model_data": 9065 },
+			"model": "oasiscraft:item/diamond/fragmento_raro6"
+		},
+		{
+			"predicate": { "custom_model_data": 9066 },
+			"model": "oasiscraft:item/diamond/fragmento_raro7"
+		},
+		{
+			"predicate": { "custom_model_data": 9067 },
+			"model": "oasiscraft:item/diamond/frenillo"
+		},
+		{
+			"predicate": { "custom_model_data": 9068 },
+			"model": "oasiscraft:item/diamond/ojo_lvl1"
+		},
+		{
+			"predicate": { "custom_model_data": 9069 },
+			"model": "oasiscraft:item/diamond/ojo_lvl2"
+		},
+		{
+			"predicate": { "custom_model_data": 9070 },
+			"model": "oasiscraft:item/diamond/ojo_lvl3"
+		},
+		{
+			"predicate": { "custom_model_data": 9071 },
+			"model": "oasiscraft:item/diamond/piedras_gemelas"
+		},
+		{
+			"predicate": { "custom_model_data": 9072 },
+			"model": "oasiscraft:item/diamond/reliquia_preciada"
+		},
+		{
+			"predicate": { "custom_model_data": 9073 },
+			"model": "oasiscraft:item/diamond/tela_real"
+		},
+		{
+			"predicate": { "custom_model_data": 9074 },
+			"model": "oasiscraft:item/diamond/tuerca_madre"
+		},
+		{
+			"predicate": { "custom_model_data": 9075 },
+			"model": "oasiscraft:item/diamond/vateria_desconocida"
+		},
+		{
+			"predicate": { "custom_model_data": 9076 },
+			"model": "oasiscraft:item/diamond/verdadero_falso"
+		},
+		{
+			"predicate": { "custom_model_data": 9077 },
+			"model": "chests_pack:item/normal_key"
+		},
+		{
+			"predicate": { "custom_model_data": 9078 },
+			"model": "modelengine:quest_marker/available"
+		},
+		{
+			"predicate": { "custom_model_data": 9079 },
+			"model": "modelengine:quest_marker_parts/reward"
+		},
+		{
+			"predicate": { "custom_model_data": 9080 },
+			"model": "oasiscraft:item/diamond/accept"
+		},
+		{
+			"predicate": { "custom_model_data": 9081 },
+			"model": "oasiscraft:item/diamond/add"
+		},
+		{
+			"predicate": { "custom_model_data": 9082 },
+			"model": "oasiscraft:item/diamond/arrow_blue_left"
+		},
+		{
+			"predicate": { "custom_model_data": 9083 },
+			"model": "oasiscraft:item/diamond/arrow_blue_right"
+		},
+		{
+			"predicate": { "custom_model_data": 9084 },
+			"model": "oasiscraft:item/diamond/arrow_down"
+		},
+		{
+			"predicate": { "custom_model_data": 9085 },
+			"model": "oasiscraft:item/diamond/arrow_left"
+		},
+		{
+			"predicate": { "custom_model_data": 9086 },
+			"model": "oasiscraft:item/diamond/arrow_lower"
+		},
+		{
+			"predicate": { "custom_model_data": 9087 },
+			"model": "oasiscraft:item/diamond/arrow_play"
+		},
+		{
+			"predicate": { "custom_model_data": 9088 },
+			"model": "oasiscraft:item/diamond/arrow_raise"
+		},
+		{
+			"predicate": { "custom_model_data": 9089 },
+			"model": "oasiscraft:item/diamond/arrow_rotate_anticlockwise"
+		},
+		{
+			"predicate": { "custom_model_data": 9090 },
+			"model": "oasiscraft:item/diamond/arrow_up"
+		},
+		{
+			"predicate": { "custom_model_data": 9091 },
+			"model": "oasiscraft:item/diamond/book"
+		},
+		{
+			"predicate": { "custom_model_data": 9092 },
+			"model": "oasiscraft:item/diamond/button"
+		},
+		{
+			"predicate": { "custom_model_data": 9093 },
+			"model": "oasiscraft:item/diamond/button_xbox_a"
+		},
+		{
+			"predicate": { "custom_model_data": 9094 },
+			"model": "oasiscraft:item/diamond/button_xbox_b"
+		},
+		{
+			"predicate": { "custom_model_data": 9095 },
+			"model": "oasiscraft:item/diamond/button_xbox_x"
+		},
+		{
+			"predicate": { "custom_model_data": 9096 },
+			"model": "oasiscraft:item/diamond/button_xbox_y"
+		},
+		{
+			"predicate": { "custom_model_data": 9097 },
+			"model": "oasiscraft:item/diamond/camera"
+		},
+		{
+			"predicate": { "custom_model_data": 9098 },
+			"model": "oasiscraft:item/diamond/character"
+		},
+		{
+			"predicate": { "custom_model_data": 9099 },
+			"model": "oasiscraft:item/diamond/character_dialogue"
+		},
+		{
+			"predicate": { "custom_model_data": 9100 },
+			"model": "oasiscraft:item/diamond/arrow_right"
+		},
+		{
+			"predicate": { "custom_model_data": 9101 },
+			"model": "oasiscraft:item/diamond/rune (1)"
+		},
+		{
+			"predicate": { "custom_model_data": 9102 },
+			"model": "oasiscraft:item/diamond/rune (2)"
+		},
+		{
+			"predicate": { "custom_model_data": 9103 },
+			"model": "oasiscraft:item/diamond/rune (3)"
+		},
+		{
+			"predicate": { "custom_model_data": 9104 },
+			"model": "oasiscraft:item/diamond/rune (4)"
+		},
+		{
+			"predicate": { "custom_model_data": 9105 },
+			"model": "oasiscraft:item/diamond/rune (5)"
+		},
+		{
+			"predicate": { "custom_model_data": 9106 },
+			"model": "oasiscraft:item/diamond/rune (6)"
+		},
+		{
+			"predicate": { "custom_model_data": 9107 },
+			"model": "oasiscraft:item/diamond/rune (7)"
+		},
+		{
+			"predicate": { "custom_model_data": 9108 },
+			"model": "oasiscraft:item/diamond/rune (8)"
+		},
+		{
+			"predicate": { "custom_model_data": 9109 },
+			"model": "oasiscraft:item/diamond/rune (9)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9110
+			},
+			"model": "oasiscraft:item/diamond/runas (1)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9111
+			},
+			"model": "oasiscraft:item/diamond/runas (2)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9112
+			},
+			"model": "oasiscraft:item/diamond/runas (3)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9113
+			},
+			"model": "oasiscraft:item/diamond/runas (4)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9114
+			},
+			"model": "oasiscraft:item/diamond/runas (5)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9115
+			},
+			"model": "oasiscraft:item/diamond/runas (6)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9116
+			},
+			"model": "oasiscraft:item/diamond/runas (7)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9117
+			},
+			"model": "oasiscraft:item/diamond/runas (8)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9118
+			},
+			"model": "oasiscraft:item/diamond/runas (9)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9119
+			},
+			"model": "oasiscraft:item/diamond/runas (10)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9120
+			},
+			"model": "oasiscraft:item/diamond/runas (11)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9121
+			},
+			"model": "oasiscraft:item/diamond/runas (12)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9122
+			},
+			"model": "oasiscraft:item/diamond/runas (13)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9123
+			},
+			"model": "oasiscraft:item/diamond/runas (14)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9124
+			},
+			"model": "oasiscraft:item/diamond/runas (15)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9125
+			},
+			"model": "oasiscraft:item/diamond/runas (16)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9126
+			},
+			"model": "oasiscraft:item/diamond/runas (17)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9127
+			},
+			"model": "oasiscraft:item/diamond/runas (18)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9128
+			},
+			"model": "oasiscraft:item/diamond/runas (19)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9129
+			},
+			"model": "oasiscraft:item/diamond/runas (20)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9130
+			},
+			"model": "oasiscraft:item/diamond/runas (21)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9131
+			},
+			"model": "oasiscraft:item/diamond/runas (22)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9132
+			},
+			"model": "oasiscraft:item/diamond/runas (23)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9133
+			},
+			"model": "oasiscraft:item/diamond/runas (24)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9134
+			},
+			"model": "oasiscraft:item/diamond/runas (25)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9135
+			},
+			"model": "oasiscraft:item/diamond/runas (26)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9136
+			},
+			"model": "oasiscraft:item/diamond/runas (27)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9137
+			},
+			"model": "oasiscraft:item/diamond/runas (28)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9138
+			},
+			"model": "oasiscraft:item/diamond/runas (29)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9139
+			},
+			"model": "oasiscraft:item/diamond/runas (30)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9140
+			},
+			"model": "oasiscraft:item/diamond/runas (31)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9141
+			},
+			"model": "oasiscraft:item/diamond/runas (32)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9142
+			},
+			"model": "oasiscraft:item/diamond/runas (33)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9143
+			},
+			"model": "oasiscraft:item/diamond/runas (34)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9144
+			},
+			"model": "oasiscraft:item/diamond/runas (35)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9145
+			},
+			"model": "oasiscraft:item/diamond/runas (36)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9146
+			},
+			"model": "oasiscraft:item/diamond/runas (37)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9147
+			},
+			"model": "oasiscraft:item/diamond/runas (38)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9148
+			},
+			"model": "oasiscraft:item/diamond/runas (39)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9149
+			},
+			"model": "oasiscraft:item/diamond/runas (40)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9150
+			},
+			"model": "oasiscraft:item/diamond/runas (41)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9151
+			},
+			"model": "oasiscraft:item/diamond/runas (42)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9152
+			},
+			"model": "oasiscraft:item/diamond/runas (43)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9153
+			},
+			"model": "oasiscraft:item/diamond/runas (44)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9154
+			},
+			"model": "oasiscraft:item/diamond/runas (45)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9155
+			},
+			"model": "oasiscraft:item/diamond/runas (46)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9156
+			},
+			"model": "oasiscraft:item/diamond/runas (47)"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9157
+			},
+			"model": "oasiscraft:item/diamond/runas (48)"
+		},
+		{
+			"predicate": { "custom_model_data": 9158 },
+			"model": "oasiscraft:item/diamond/piedra_runa_b"
+		},
+		{
+			"predicate": { "custom_model_data": 9159 },
+			"model": "oasiscraft:item/diamond/piedra_runa_c"
+		},
+		{
+			"predicate": { "custom_model_data": 9160 },
+			"model": "oasiscraft:item/diamond/piedra_runa_d"
+		}
+	]
 }
