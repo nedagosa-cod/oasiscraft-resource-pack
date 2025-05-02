@@ -1,0 +1,7 @@
+{
+    "overlay": {
+        "texture": "taxal:textures/models/armor/gold_layer_2_overlay.png",
+        "emissive": true,
+		"transparency": "translucent"
+    }
+}

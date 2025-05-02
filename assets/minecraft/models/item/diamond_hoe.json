@@ -24,6 +24,18 @@
 
 		{ "predicate": { "custom_model_data": 15 }, "model": "oasiscraft:item/slots/fill" },
 		{
+			"predicate": { "custom_model_data": 16 },
+			"model": "lunar_studios:fflash/wizard_staves/amethyst_stave"
+		},
+		{
+			"predicate": { "custom_model_data": 17 },
+			"model": "lunar_studios:fflash/wizard_staves/electric_stave"
+		},
+		{
+			"predicate": { "custom_model_data": 18 },
+			"model": "lunar_studios:fflash/wizard_staves/fire_stave"
+		},
+		{
 			"predicate": {
 				"custom_model_data": 1001
 			},

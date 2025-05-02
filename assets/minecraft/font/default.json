@@ -653,6 +653,20 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "along:font/etiqueta_quests.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["◙"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["◘"]
+		},
+		{
+			"type": "bitmap",
 			"file": "along:font/space_split.png",
 			"ascent": -32768,
 			"height": -6,
@@ -1263,6 +1277,181 @@
 		{ "type": "bitmap", "file": "along:icons/runa (21).png", "ascent": 9, "height": 9, "chars": ["☽"] },
 		{ "type": "bitmap", "file": "along:icons/runa (22).png", "ascent": 9, "height": 9, "chars": ["☾"] },
 		{ "type": "bitmap", "file": "along:icons/runa (23).png", "ascent": 9, "height": 9, "chars": ["♁"] },
-		{ "type": "bitmap", "file": "along:icons/runa (24).png", "ascent": 9, "height": 9, "chars": ["♆"] }
+		{ "type": "bitmap", "file": "along:icons/runa (24).png", "ascent": 9, "height": 9, "chars": ["♆"] },
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_admin.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["Š"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_novato.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["‼"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_aprendiz.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["❂"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_caballero.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["✫"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_experto.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["✤"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_a_master.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["✣"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_b_master.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["✯"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_e_master.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["⋆"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_g_master.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["✙"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_completer.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["✑"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/prefix_trascender.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["≖"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (1).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["ↁ"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (2).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["ↂ"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (3).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["㊁"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (4).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["㊂"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (5).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["㊃"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (6).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓆁"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (7).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓄿"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (8).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅀"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (9).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅁"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/icon_prefix (10).png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅂"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/raza_humano.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅅"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/raza_nohumano.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅆"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/raza_orco.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅇"]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/raza_elfo.png",
+			"ascent": 9,
+			"height": 11,
+			"chars": ["𓅈"]
+		}
 	]
 }

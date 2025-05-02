@@ -1,1 +1,692 @@
-{"sources":[{ "source": "entity", "prefix": "entity/", "type": "directory" },{"type": "directory", "source": "items", "prefix": "items/"},{"source":"entity","prefix":"entity/","type":"directory"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/water_still","sprite":"magic_store:furnitures/blacksmith_pack/water_still","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/campfire_fire","sprite":"magic_store:furnitures/blacksmith_pack/campfire_fire","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/campfire_log_lit","sprite":"magic_store:furnitures/blacksmith_pack/campfire_log_lit","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/grinding_stone","sprite":"magic_store:furnitures/blacksmith_pack/grinding_stone","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/grinding_stone","sprite":"magic_store:furnitures/blacksmith_pack/grinding_stone","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/water_still","sprite":"magic_store:furnitures/blacksmith_pack/water_still","type":"single"},{"resource":"magic_store:furnitures/blacksmith_pack/blacksmith","sprite":"magic_store:furnitures/blacksmith_pack/blacksmith","type":"single"},{"type":"single","resource":"modelengine:entity/lr_tinkerertable"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_anvil"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_bed"},{"type":"single","resource":"modelengine:entity/lr_tinkerer"},{"type":"single","resource":"modelengine:entity/frost_goat"},{"type":"single","resource":"modelengine:entity/wartiger_armor"},{"type":"single","resource":"iawearables:back/red_backpack"},{"type":"single","resource":"modelengine:entity/bard_stool"},{"type":"single","resource":"modelengine:entity/mistsaber"},{"type":"single","resource":"modelengine:entity/stormsaber"},{"type":"single","resource":"modelengine:entity/couchmagical"},{"type":"single","resource":"iafestivities:halloween/pumpkin"},{"type":"single","resource":"modelengine:entity/wild_boar"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_weaponshelf"},{"type":"single","resource":"modelengine:entity/lr_fortuneteller"},{"type":"single","resource":"iawearables:hat/glasses"},{"type":"single","resource":"modelengine:entity/nocsy_otter_v2"},{"type":"single","resource":"iafestivities:christmas/candy"},{"type":"single","resource":"entity/villager/profession/farmer"},{"type":"single","resource":"modelengine:entity/tablemagical"},{"type":"single","resource":"_iainternal:icons/icon_arrow_chest"},{"type":"single","resource":"modelengine:entity/crimson_furbeak"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_egg"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_stump"},{"type":"single","resource":"modelengine:entity/rpg3_lever"},{"type":"single","resource":"modelengine:entity/jester_sad"},{"type":"single","resource":"modelengine:entity/check_point"},{"type":"single","resource":"iawearables:back/black_backpack"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/fountain_6"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_clothsline"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/fountain_4"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/fountain_5"},{"type":"single","resource":"iafestivities:halloween/bones_backpack/skull"},{"type":"single","resource":"modelengine:entity/chairmagical"},{"type":"single","resource":"modelengine:entity/paladin_wings"},{"type":"single","resource":"modelengine:entity/fisherman"},{"type":"single","resource":"iafestivities:halloween/pumpkin_side"},{"type":"single","resource":"modelengine:entity/firebat"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_necromancer_skin"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_barrel_01"},{"type":"single","resource":"modelengine:entity/cursed_shroom"},{"type":"single","resource":"modelengine:entity/rpg3_shrine"},{"type":"single","resource":"modelengine:entity/oni2"},{"type":"single","resource":"modelengine:entity/orc_archer"},{"type":"single","resource":"modelengine:entity/shroom"},{"type":"single","resource":"iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin_side"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_shadowspell"},{"type":"single","resource":"iawearables:back/blue_backpack"},{"type":"single","resource":"modelengine:entity/bard"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby2"},{"type":"single","resource":"modelengine:entity/hanging_skeleton"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby3"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby4"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby5"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby6"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby7"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby8"},{"type":"single","resource":"iafestivities:halloween/pumpkin_stem_connected"},{"type":"single","resource":"modelengine:entity/demonic_circle"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_camp_meat"},{"type":"single","resource":"modelengine:entity/yurei2"},{"type":"single","resource":"modelengine:entity/tengu"},{"type":"single","resource":"modelengine:entity/rpg3_rock"},{"type":"single","resource":"modelengine:entity/quest_marker"},{"type":"single","resource":"iafestivities:halloween/bat_wings"},{"type":"single","resource":"iafestivities:christmas/christmas_wreath"},{"type":"single","resource":"iawearables:back/black_cat_tail"},{"type":"single","resource":"modelengine:entity/moonsaber"},{"type":"single","resource":"iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin_stem_connected"},{"type":"single","resource":"modelengine:entity/fisherman_prop"},{"type":"single","resource":"_iainternal:icons/icon_left_blue"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_cupboard"},{"type":"single","resource":"iawearables:back/turquoise_backpack"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_grindstone"},{"type":"single","resource":"modelengine:entity/star_guardian"},{"type":"single","resource":"iafestivities:christmas/christmas_tree/red_orb"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_chair_double"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_warrior"},{"type":"single","resource":"modelengine:entity/moonsaber_armor"},{"type":"single","resource":"modelengine:entity/torch_pack"},{"type":"single","resource":"modelengine:entity/speed_pad_particle"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_skull_ring"},{"type":"single","resource":"modelengine:entity/nightsaber_armor"},{"type":"single","resource":"modelengine:entity/glacial_furbeak"},{"type":"single","resource":"modelengine:entity/combat_dummy"},{"type":"single","resource":"iawearables:hat/deadmau5_hat"},{"type":"single","resource":"magic_store:furnitures/blacksmith_pack/campfire_log_lit"},{"type":"single","resource":"iafestivities:christmas/christmas_candle/fire"},{"type":"single","resource":"modelengine:entity/dragon_statue"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/fountain_2"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/fountain_3"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/fountain_1"},{"type":"single","resource":"iafestivities:halloween/axe_hat"},{"type":"single","resource":"modelengine:entity/texture_caballero"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_toolrack"},{"type":"single","resource":"modelengine:entity/lol_torre_r"},{"type":"single","resource":"modelengine:entity/orc_minion"},{"type":"single","resource":"iawearables:back/demoniac_red_wings"},{"type":"single","resource":"modelengine:entity/pb_rpg3poison_emitter"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_roots"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_brute_skin"},{"type":"single","resource":"iafestivities:halloween/spider_backpack"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_log_with_axe"},{"type":"single","resource":"modelengine:entity/texture_warm"},{"type":"single","resource":"modelengine:entity/nocsy_dragon_saddled_version"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_necromancer_lantern_animated"},{"type":"single","resource":"modelengine:entity/texture"},{"type":"single","resource":"modelengine:entity/couchsmallmagical"},{"type":"single","resource":"modelengine:entity/bear_trap"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white_hang"},{"type":"single","resource":"modelengine:entity/invisible"},{"type":"single","resource":"modelengine:entity/nocsy_dragon_full"},{"type":"single","resource":"modelengine:entity/kindletronsr4"},{"type":"single","resource":"iawearables:hat/cigar"},{"type":"single","resource":"modelengine:entity/ghosth"},{"type":"single","resource":"iafestivities:christmas/christmas_tree/green_orb"},{"type":"single","resource":"modelengine:entity/onidung"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_baby"},{"type":"single","resource":"modelengine:entity/alarcomet"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_table_mini"},{"type":"single","resource":"_iainternal:icons/icon_right_blue"},{"type":"single","resource":"modelengine:entity/kappa"},{"type":"single","resource":"modelengine:entity/npcpackvol4_empty"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_furnace"},{"type":"single","resource":"modelengine:entity/lol_torre_a"},{"type":"single","resource":"modelengine:entity/jump_pad"},{"type":"single","resource":"iafestivities:halloween/decorative_pumpkin/fire"},{"type":"single","resource":"modelengine:entity/cobblestone"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_storage_axe"},{"type":"single","resource":"modelengine:entity/jester_mask"},{"type":"single","resource":"modelengine:entity/lr_fortuneteller_cloth"},{"type":"single","resource":"iawearables:hat/mining_helmet"},{"type":"single","resource":"modelengine:entity/lr_acolyte"},{"type":"single","resource":"modelengine:entity/texture_gosh"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_water_geyser"},{"type":"single","resource":"_iainternal:icons/icon_next_orange"},{"type":"single","resource":"modelengine:entity/roman_soldier"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_table_big"},{"type":"single","resource":"magic_store:furnitures/blacksmith_pack/blacksmith"},{"type":"single","resource":"modelengine:entity/lumberjack"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/water_fountain_1"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/water_fountain_2"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_carpet"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/water_fountain_3"},{"type":"single","resource":"modelengine:entity/lr_tinkerer_spanner"},{"type":"single","resource":"modelengine:entity/alar"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/water_fountain_4"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/water_fountain_5"},{"type":"single","resource":"modelengine:entity/blue_slime"},{"type":"single","resource":"elitecreatures:fountain_decoration_v1/water_fountain_6"},{"type":"single","resource":"modelengine:entity/jester_prop"},{"type":"single","resource":"modelengine:entity/healing_flower"},{"type":"single","resource":"modelengine:entity/speed_rex"},{"type":"single","resource":"iafestivities:christmas/christmas_candle/leaves"},{"type":"single","resource":"modelengine:entity/furbeak"},{"type":"single","resource":"modelengine:entity/jester"},{"type":"single","resource":"_iainternal:icons/icon_cancel"},{"type":"single","resource":"iawearables:hat/biker_helmet"},{"type":"single","resource":"modelengine:entity/ravenlord"},{"type":"single","resource":"iafestivities:halloween/witch_hat"},{"type":"single","resource":"modelengine:entity/ravenminion"},{"type":"single","resource":"modelengine:entity/quest_halfling"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_shopsign"},{"type":"single","resource":"modelengine:entity/quest_elf"},{"type":"single","resource":"modelengine:entity/orc_giant"},{"type":"single","resource":"iafestivities:halloween/bones_backpack/bone"},{"type":"single","resource":"iaalchemy:furniture/mysterious_stone/symbols"},{"type":"single","resource":"modelengine:entity/magnetic_bot"},{"type":"single","resource":"modelengine:entity/ender_dragon"},{"type":"single","resource":"modelengine:entity/orc_crossbow"},{"type":"single","resource":"modelengine:entity/timmy"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin3"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin2"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_cargo"},{"type":"single","resource":"iawearables:back/white_cat_tail"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin7"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin6"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin5"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_rocks"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin4"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin8"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_glass"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_chair_single"},{"type":"single","resource":"iawearables:back/purple_backpack"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_tornado"},{"type":"single","resource":"modelengine:entity/blackwar"},{"type":"single","resource":"modelengine:entity/frostsaber"},{"type":"single","resource":"modelengine:entity/blacksmith"},{"type":"single","resource":"modelengine:entity/orc_king"},{"type":"single","resource":"modelengine:entity/lr_tinkerer_robot"},{"type":"single","resource":"modelengine:entity/vasemagical"},{"type":"single","resource":"modelengine:entity/tablesmallmagical"},{"type":"single","resource":"modelengine:entity/ass_skeleton"},{"type":"single","resource":"modelengine:entity/gray_wizard"},{"type":"single","resource":"modelengine:entity/lr_assassin_parts"},{"type":"single","resource":"magic_store:furnitures/blacksmith_pack/water_still"},{"type":"single","resource":"modelengine:entity/texture_bankka"},{"type":"single","resource":"modelengine:entity/texture_chacha"},{"type":"single","resource":"iawearables:hat/cat_ears"},{"type":"single","resource":"modelengine:entity/frostsaber_armor"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_archer_end"},{"type":"single","resource":"elitecreatures:medieval_market_decoration_v1/medeivalmarket_02"},{"type":"single","resource":"iawearables:back/demoniac_black_wings"},{"type":"single","resource":"elitecreatures:medieval_market_decoration_v1/medeivalmarket_01"},{"type":"single","resource":"modelengine:entity/explosivebarrel"},{"type":"single","resource":"_iainternal:icons/icon_search"},{"type":"single","resource":"modelengine:entity/quest_dwarf"},{"type":"single","resource":"iawearables:back/demoniac_blue_wings"},{"type":"single","resource":"modelengine:entity/frobat"},{"type":"single","resource":"modelengine:entity/fan"},{"type":"single","resource":"modelengine:entity/rpg3_shrine2"},{"type":"single","resource":"modelengine:entity/lr_paladin"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_table_big"},{"type":"single","resource":"modelengine:entity/blitzcrank"},{"type":"single","resource":"modelengine:entity/gray_wizard_staff"},{"type":"single","resource":"modelengine:entity/alarminion"},{"type":"single","resource":"modelengine:entity/spike_trap"},{"type":"single","resource":"iawearables:hat/cool_sunglasses"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_skull"},{"type":"single","resource":"modelengine:entity/abyssion_wave"},{"type":"single","resource":"modelengine:entity/rpg3_speed_pad"},{"type":"single","resource":"modelengine:entity/lr_fortuneteller_cushion"},{"type":"single","resource":"iawearables:back/demoniac_purple_wings"},{"type":"single","resource":"magic_store:furnitures/blacksmith_pack/campfire_fire"},{"type":"single","resource":"modelengine:entity/rpg3_button"},{"type":"single","resource":"modelengine:entity/orc_warrior"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_brute2_skin"},{"type":"single","resource":"modelengine:entity/quest_bag"},{"type":"single","resource":"entity/enderdragon/dragon"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_flag"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_necromancer_red_flame_animated"},{"type":"single","resource":"modelengine:entity/rpg3_streetlamp"},{"type":"single","resource":"iawearables:back/demoniac_turquoise_wings"},{"type":"single","resource":"modelengine:entity/stormsaber_armor"},{"type":"single","resource":"modelengine:entity/nocsy_skeleton_brute_jaw"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_camp_pot"},{"type":"single","resource":"iawearables:back/brown_backpack"},{"type":"single","resource":"modelengine:entity/nightsaber"},{"type":"single","resource":"modelengine:entity/slime_pit"},{"type":"single","resource":"modelengine:entity/dragon_blue"},{"type":"single","resource":"modelengine:entity/muneco_navidad"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_table_small"},{"type":"single","resource":"iawearables:back/all_black_cat_tail"},{"type":"single","resource":"modelengine:entity/fire_furbeak"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_table"},{"type":"single","resource":"modelengine:entity/cabientmagical"},{"type":"single","resource":"modelengine:entity/helloeng"},{"type":"single","resource":"modelengine:entity/skull_warrior"},{"type":"single","resource":"iafestivities:halloween/cave_spider_backpack"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_tent"},{"type":"single","resource":"modelengine:entity/queen"},{"type":"single","resource":"iafestivities:christmas/christmas_tree/leaves"},{"type":"single","resource":"modelengine:entity/lr_fortuneteller_ball"},{"type":"single","resource":"modelengine:entity/halfling"},{"type":"single","resource":"elitecreatures:medieval_market_decoration_v2/medievalmarket_01"},{"type":"single","resource":"elitecreatures:medieval_market_decoration_v2/medievalmarket_02"},{"type":"single","resource":"elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_poisoncloud_animated"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_lantern"},{"type":"single","resource":"magic_store:furnitures/blacksmith_pack/grinding_stone"},{"type":"single","resource":"modelengine:entity/mistsaber_armor"},{"type":"single","resource":"modelengine:entity/slime"},{"type":"single","resource":"elitecreature:forest_decoration_v1/forest_barrel_beer"},{"type":"single","resource":"modelengine:entity/rpg3_barricade"},{"type":"single","resource":"_iainternal:icons/icon_back_orange"},{"type":"single","resource":"modelengine:entity/lr_assassin"},{"type":"single","resource":"iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin"},{"type":"single","resource":"modelengine:entity/snow_boar"},{"type":"single","resource":"modelengine:entity/nocsy_drakonin_firespell"},{"type":"single","resource":"iawearables:hat/ruby_pickaxe_hat"},{"type":"single","resource":"modelengine:entity/frostgoat"},{"type":"single","resource":"modelengine:entity/herobrine_bobber"},{"type":"single","resource":"modelengine:entity/leo"},{"type":"single","resource":"modelengine:entity/health_pack"}]}
+{
+	"sources": [
+		{ "source": "entity", "prefix": "entity/", "type": "directory" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/water_still", "sprite": "magic_store:furnitures/blacksmith_pack/water_still", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/campfire_fire", "sprite": "magic_store:furnitures/blacksmith_pack/campfire_fire", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/campfire_log_lit", "sprite": "magic_store:furnitures/blacksmith_pack/campfire_log_lit", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/grinding_stone", "sprite": "magic_store:furnitures/blacksmith_pack/grinding_stone", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/grinding_stone", "sprite": "magic_store:furnitures/blacksmith_pack/grinding_stone", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/water_still", "sprite": "magic_store:furnitures/blacksmith_pack/water_still", "type": "single" },
+		{ "resource": "magic_store:furnitures/blacksmith_pack/blacksmith", "sprite": "magic_store:furnitures/blacksmith_pack/blacksmith", "type": "single" },
+		{ "type": "single", "resource": "modelengine:entity/lr_tinkerertable" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_anvil" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_bed" },
+		{ "type": "single", "resource": "modelengine:entity/lr_tinkerer" },
+		{ "type": "single", "resource": "modelengine:entity/frost_goat" },
+		{ "type": "single", "resource": "modelengine:entity/wartiger_armor" },
+		{ "type": "single", "resource": "iawearables:back/red_backpack" },
+		{ "type": "single", "resource": "modelengine:entity/bard_stool" },
+		{ "type": "single", "resource": "minecraft:archer_texture/icon_windrazor" },
+		{ "type": "single", "resource": "modelengine:entity/mistsaber" },
+		{ "type": "single", "resource": "modelengine:entity/stormsaber" },
+		{ "type": "single", "resource": "modelengine:entity/couchmagical" },
+		{ "type": "single", "resource": "iafestivities:halloween/pumpkin" },
+		{ "type": "single", "resource": "modelengine:entity/wild_boar" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_weaponshelf" },
+		{ "type": "single", "resource": "modelengine:entity/lr_fortuneteller" },
+		{ "type": "single", "resource": "iawearables:hat/glasses" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_otter_v2" },
+		{ "type": "single", "resource": "iafestivities:christmas/candy" },
+		{ "type": "single", "resource": "entity/villager/profession/farmer" },
+		{ "type": "single", "resource": "modelengine:entity/tablemagical" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_arrow_chest" },
+		{ "type": "single", "resource": "modelengine:entity/crimson_furbeak" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_egg" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_stump" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_lever" },
+		{ "type": "single", "resource": "modelengine:entity/cajero_texture" },
+		{ "type": "single", "resource": "modelengine:entity/jester_sad" },
+		{ "type": "single", "resource": "modelengine:entity/check_point" },
+		{ "type": "single", "resource": "minecraft:archer_texture/quick_shot" },
+		{ "type": "single", "resource": "minecraft:archer_texture/hunters_focus" },
+		{ "type": "single", "resource": "iawearables:back/black_backpack" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/fountain_6" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_clothsline" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/fountain_4" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/fountain_5" },
+		{ "type": "single", "resource": "iafestivities:halloween/bones_backpack/skull" },
+		{ "type": "single", "resource": "modelengine:entity/chairmagical" },
+		{ "type": "single", "resource": "modelengine:entity/paladin_wings" },
+		{ "type": "single", "resource": "modelengine:entity/fisherman" },
+		{ "type": "single", "resource": "iafestivities:halloween/pumpkin_side" },
+		{ "type": "single", "resource": "modelengine:entity/firebat" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_necromancer_skin" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_barrel_01" },
+		{ "type": "single", "resource": "modelengine:entity/cursed_shroom" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_shrine" },
+		{ "type": "single", "resource": "modelengine:entity/oni2" },
+		{ "type": "single", "resource": "modelengine:entity/orc_archer" },
+		{ "type": "single", "resource": "modelengine:entity/shroom" },
+		{ "type": "single", "resource": "minecraft:archer_texture/dragon_spirit_3" },
+		{ "type": "single", "resource": "minecraft:archer_texture/dragon_spirit_4" },
+		{ "type": "single", "resource": "minecraft:archer_texture/dragon_spirit_1" },
+		{ "type": "single", "resource": "minecraft:archer_texture/dragon_spirit_2" },
+		{ "type": "single", "resource": "iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin_side" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_shadowspell" },
+		{ "type": "single", "resource": "iawearables:back/blue_backpack" },
+		{ "type": "single", "resource": "modelengine:entity/bard" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby2" },
+		{ "type": "single", "resource": "modelengine:entity/hanging_skeleton" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby3" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby4" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby5" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby6" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby7" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby8" },
+		{ "type": "single", "resource": "iafestivities:halloween/pumpkin_stem_connected" },
+		{ "type": "single", "resource": "modelengine:entity/demonic_circle" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_camp_meat" },
+		{ "type": "single", "resource": "modelengine:entity/yurei2" },
+		{ "type": "single", "resource": "modelengine:entity/tengu" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_rock" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_shiny" },
+		{ "type": "single", "resource": "modelengine:entity/quest_marker" },
+		{ "type": "single", "resource": "iafestivities:halloween/bat_wings" },
+		{ "type": "single", "resource": "iafestivities:christmas/christmas_wreath" },
+		{ "type": "single", "resource": "iawearables:back/black_cat_tail" },
+		{ "type": "single", "resource": "modelengine:entity/moonsaber" },
+		{ "type": "single", "resource": "iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin_stem_connected" },
+		{ "type": "single", "resource": "modelengine:entity/fisherman_prop" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_left_blue" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_cupboard" },
+		{ "type": "single", "resource": "minecraft:archer_texture/icon_deadly_javelin" },
+		{ "type": "single", "resource": "iawearables:back/turquoise_backpack" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_grindstone" },
+		{ "type": "single", "resource": "modelengine:entity/star_guardian" },
+		{ "type": "single", "resource": "iafestivities:christmas/christmas_tree/red_orb" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_chair_double" },
+		{ "type": "single", "resource": "modelengine:entity/soldado_herido" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_warrior" },
+		{ "type": "single", "resource": "modelengine:entity/moonsaber_armor" },
+		{ "type": "single", "resource": "modelengine:entity/torch_pack" },
+		{ "type": "single", "resource": "modelengine:entity/speed_pad_particle" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_skull_ring" },
+		{ "type": "single", "resource": "modelengine:entity/nightsaber_armor" },
+		{ "type": "single", "resource": "modelengine:entity/glacial_furbeak" },
+		{ "type": "single", "resource": "modelengine:entity/combat_dummy" },
+		{ "type": "single", "resource": "iawearables:hat/deadmau5_hat" },
+		{ "type": "single", "resource": "magic_store:furnitures/blacksmith_pack/campfire_log_lit" },
+		{ "type": "single", "resource": "modelengine:entity/minero_alive" },
+		{ "type": "single", "resource": "iafestivities:christmas/christmas_candle/fire" },
+		{ "type": "single", "resource": "modelengine:entity/dragon_statue" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/fountain_2" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/fountain_3" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/fountain_1" },
+		{ "type": "single", "resource": "iafestivities:halloween/axe_hat" },
+		{ "type": "single", "resource": "modelengine:entity/texture_caballero" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_toolrack" },
+		{ "type": "single", "resource": "modelengine:entity/quick_shot" },
+		{ "type": "single", "resource": "modelengine:entity/lol_torre_r" },
+		{ "type": "single", "resource": "modelengine:entity/orc_minion" },
+		{ "type": "single", "resource": "iawearables:back/demoniac_red_wings" },
+		{ "type": "single", "resource": "modelengine:entity/pb_rpg3poison_emitter" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_roots" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_brute_skin" },
+		{ "type": "single", "resource": "iafestivities:halloween/spider_backpack" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_log_with_axe" },
+		{ "type": "single", "resource": "modelengine:entity/texture_warm" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_dragon_saddled_version" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_necromancer_lantern_animated" },
+		{ "type": "single", "resource": "modelengine:entity/animate_cajero" },
+		{ "type": "single", "resource": "modelengine:entity/texture" },
+		{ "type": "single", "resource": "modelengine:entity/couchsmallmagical" },
+		{ "type": "single", "resource": "modelengine:entity/bear_trap" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white_hang" },
+		{ "type": "single", "resource": "modelengine:entity/invisible" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_dragon_full" },
+		{ "type": "single", "resource": "modelengine:entity/kindletronsr4" },
+		{ "type": "single", "resource": "iawearables:hat/cigar" },
+		{ "type": "single", "resource": "modelengine:entity/ghosth" },
+		{ "type": "single", "resource": "iafestivities:christmas/christmas_tree/green_orb" },
+		{ "type": "single", "resource": "modelengine:entity/onidung" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_baby" },
+		{ "type": "single", "resource": "modelengine:entity/alarcomet" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_table_mini" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_right_blue" },
+		{ "type": "single", "resource": "modelengine:entity/kappa" },
+		{ "type": "single", "resource": "modelengine:entity/npcpackvol4_empty" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_furnace" },
+		{ "type": "single", "resource": "modelengine:entity/lol_torre_a" },
+		{ "type": "single", "resource": "modelengine:entity/jump_pad" },
+		{ "type": "single", "resource": "iafestivities:halloween/decorative_pumpkin/fire" },
+		{ "type": "single", "resource": "modelengine:entity/cobblestone" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_storage_axe" },
+		{ "type": "single", "resource": "modelengine:entity/jester_mask" },
+		{ "type": "single", "resource": "modelengine:entity/lr_fortuneteller_cloth" },
+		{ "type": "single", "resource": "iawearables:hat/mining_helmet" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow" },
+		{ "type": "single", "resource": "modelengine:entity/lr_acolyte" },
+		{ "type": "single", "resource": "modelengine:entity/texture_gosh" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_water_geyser" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_next_orange" },
+		{ "type": "single", "resource": "modelengine:entity/roman_soldier" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_table_big" },
+		{ "type": "single", "resource": "magic_store:furnitures/blacksmith_pack/blacksmith" },
+		{ "type": "single", "resource": "modelengine:entity/lumberjack" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/water_fountain_1" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/water_fountain_2" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_carpet" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/water_fountain_3" },
+		{ "type": "single", "resource": "modelengine:entity/lr_tinkerer_spanner" },
+		{ "type": "single", "resource": "modelengine:entity/alar" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/water_fountain_4" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/water_fountain_5" },
+		{ "type": "single", "resource": "modelengine:entity/blue_slime" },
+		{ "type": "single", "resource": "elitecreatures:fountain_decoration_v1/water_fountain_6" },
+		{ "type": "single", "resource": "modelengine:entity/jester_prop" },
+		{ "type": "single", "resource": "modelengine:entity/healing_flower" },
+		{ "type": "single", "resource": "modelengine:entity/speed_rex" },
+		{ "type": "single", "resource": "iafestivities:christmas/christmas_candle/leaves" },
+		{ "type": "single", "resource": "modelengine:entity/furbeak" },
+		{ "type": "single", "resource": "modelengine:entity/jester" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_cancel" },
+		{ "type": "single", "resource": "iawearables:hat/biker_helmet" },
+		{ "type": "single", "resource": "modelengine:entity/ravenlord" },
+		{ "type": "single", "resource": "iafestivities:halloween/witch_hat" },
+		{ "type": "single", "resource": "modelengine:entity/ravenminion" },
+		{ "type": "single", "resource": "modelengine:entity/quest_halfling" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_shopsign" },
+		{ "type": "single", "resource": "modelengine:entity/quest_elf" },
+		{ "type": "single", "resource": "modelengine:entity/orc_giant" },
+		{ "type": "single", "resource": "iafestivities:halloween/bones_backpack/bone" },
+		{ "type": "single", "resource": "iaalchemy:furniture/mysterious_stone/symbols" },
+		{ "type": "single", "resource": "modelengine:entity/magnetic_bot" },
+		{ "type": "single", "resource": "modelengine:entity/ender_dragon" },
+		{ "type": "single", "resource": "modelengine:entity/orc_crossbow" },
+		{ "type": "single", "resource": "modelengine:entity/timmy" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin3" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin2" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_cargo" },
+		{ "type": "single", "resource": "iawearables:back/white_cat_tail" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin7" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin6" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin5" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_rocks" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin4" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin8" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_glass" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_chair_single" },
+		{ "type": "single", "resource": "iawearables:back/purple_backpack" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_tornado" },
+		{ "type": "single", "resource": "minecraft:archer_texture/backstep2" },
+		{ "type": "single", "resource": "minecraft:archer_texture/backstep3" },
+		{ "type": "single", "resource": "modelengine:entity/blackwar" },
+		{ "type": "single", "resource": "modelengine:entity/frostsaber" },
+		{ "type": "single", "resource": "minecraft:archer_texture/backstep1" },
+		{ "type": "single", "resource": "minecraft:archer_texture/backstep4" },
+		{ "type": "single", "resource": "minecraft:archer_texture/backstep5" },
+		{ "type": "single", "resource": "minecraft:archer_texture/icon_quick_shot" },
+		{ "type": "single", "resource": "modelengine:entity/blacksmith" },
+		{ "type": "single", "resource": "modelengine:entity/orc_king" },
+		{ "type": "single", "resource": "modelengine:entity/dragon_arrow" },
+		{ "type": "single", "resource": "modelengine:entity/lr_tinkerer_robot" },
+		{ "type": "single", "resource": "modelengine:entity/vasemagical" },
+		{ "type": "single", "resource": "modelengine:entity/tablesmallmagical" },
+		{ "type": "single", "resource": "minecraft:archer_texture/dragon_arrow" },
+		{ "type": "single", "resource": "modelengine:entity/ass_skeleton" },
+		{ "type": "single", "resource": "modelengine:entity/gray_wizard" },
+		{ "type": "single", "resource": "modelengine:entity/lr_assassin_parts" },
+		{ "type": "single", "resource": "magic_store:furnitures/blacksmith_pack/water_still" },
+		{ "type": "single", "resource": "modelengine:entity/texture_bankka" },
+		{ "type": "single", "resource": "modelengine:entity/texture_chacha" },
+		{ "type": "single", "resource": "iawearables:hat/cat_ears" },
+		{ "type": "single", "resource": "modelengine:entity/frostsaber_armor" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_archer_end" },
+		{ "type": "single", "resource": "elitecreatures:medieval_market_decoration_v1/medeivalmarket_02" },
+		{ "type": "single", "resource": "iawearables:back/demoniac_black_wings" },
+		{ "type": "single", "resource": "elitecreatures:medieval_market_decoration_v1/medeivalmarket_01" },
+		{ "type": "single", "resource": "modelengine:entity/explosivebarrel" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_search" },
+		{ "type": "single", "resource": "modelengine:entity/quest_dwarf" },
+		{ "type": "single", "resource": "iawearables:back/demoniac_blue_wings" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_1" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_4" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_3" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_dragon_2" },
+		{ "type": "single", "resource": "modelengine:entity/frobat" },
+		{ "type": "single", "resource": "modelengine:entity/fan" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_shrine2" },
+		{ "type": "single", "resource": "modelengine:entity/lr_paladin" },
+		{ "type": "single", "resource": "minecraft:archer_texture/javelin" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_table_big" },
+		{ "type": "single", "resource": "modelengine:entity/blitzcrank" },
+		{ "type": "single", "resource": "modelengine:entity/gray_wizard_staff" },
+		{ "type": "single", "resource": "modelengine:entity/alarminion" },
+		{ "type": "single", "resource": "modelengine:entity/spike_trap" },
+		{ "type": "single", "resource": "minecraft:archer_texture/icon_hunters_focus" },
+		{ "type": "single", "resource": "iawearables:hat/cool_sunglasses" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_skull" },
+		{ "type": "single", "resource": "modelengine:entity/abyssion_wave" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_speed_pad" },
+		{ "type": "single", "resource": "modelengine:entity/lr_fortuneteller_cushion" },
+		{ "type": "single", "resource": "iawearables:back/demoniac_purple_wings" },
+		{ "type": "single", "resource": "magic_store:furnitures/blacksmith_pack/campfire_fire" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_button" },
+		{ "type": "single", "resource": "modelengine:entity/orc_warrior" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_brute2_skin" },
+		{ "type": "single", "resource": "modelengine:entity/quest_bag" },
+		{ "type": "single", "resource": "entity/enderdragon/dragon" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_flag" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_necromancer_red_flame_animated" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_streetlamp" },
+		{ "type": "single", "resource": "iawearables:back/demoniac_turquoise_wings" },
+		{ "type": "single", "resource": "modelengine:entity/stormsaber_armor" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_skeleton_brute_jaw" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_camp_pot" },
+		{ "type": "single", "resource": "iawearables:back/brown_backpack" },
+		{ "type": "single", "resource": "modelengine:entity/nightsaber" },
+		{ "type": "single", "resource": "minecraft:archer_texture/icon_backstep" },
+		{ "type": "single", "resource": "modelengine:entity/slime_pit" },
+		{ "type": "single", "resource": "modelengine:entity/dragon_blue" },
+		{ "type": "single", "resource": "modelengine:entity/muneco_navidad" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_table_small" },
+		{ "type": "single", "resource": "iawearables:back/all_black_cat_tail" },
+		{ "type": "single", "resource": "modelengine:entity/fire_furbeak" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_table" },
+		{ "type": "single", "resource": "modelengine:entity/cabientmagical" },
+		{ "type": "single", "resource": "modelengine:entity/helloeng" },
+		{ "type": "single", "resource": "modelengine:entity/skull_warrior" },
+		{ "type": "single", "resource": "iafestivities:halloween/cave_spider_backpack" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_tent" },
+		{ "type": "single", "resource": "modelengine:entity/queen" },
+		{ "type": "single", "resource": "iafestivities:christmas/christmas_tree/leaves" },
+		{ "type": "single", "resource": "modelengine:entity/lr_fortuneteller_ball" },
+		{ "type": "single", "resource": "modelengine:entity/halfling" },
+		{ "type": "single", "resource": "elitecreatures:medieval_market_decoration_v2/medievalmarket_01" },
+		{ "type": "single", "resource": "elitecreatures:medieval_market_decoration_v2/medievalmarket_02" },
+		{ "type": "single", "resource": "minecraft:archer_texture/hunters_focus_2" },
+		{ "type": "single", "resource": "elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white" },
+		{ "type": "single", "resource": "minecraft:archer_texture/hunters_focus_1" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_poisoncloud_animated" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_lantern" },
+		{ "type": "single", "resource": "minecraft:archer_texture/icon_dragon_piercer" },
+		{ "type": "single", "resource": "magic_store:furnitures/blacksmith_pack/grinding_stone" },
+		{ "type": "single", "resource": "modelengine:entity/mistsaber_armor" },
+		{ "type": "single", "resource": "modelengine:entity/slime" },
+		{ "type": "single", "resource": "elitecreature:forest_decoration_v1/forest_barrel_beer" },
+		{ "type": "single", "resource": "modelengine:entity/rpg3_barricade" },
+		{ "type": "single", "resource": "_iainternal:icons/icon_back_orange" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_4" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_3" },
+		{ "type": "single", "resource": "modelengine:entity/lr_assassin" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_2" },
+		{ "type": "single", "resource": "iafestivities:halloween/dark_jack_o_lantern_backpack/pumpkin" },
+		{ "type": "single", "resource": "modelengine:entity/snow_boar" },
+		{ "type": "single", "resource": "minecraft:archer_texture/archer_bow_spirit_1" },
+		{ "type": "single", "resource": "modelengine:entity/nocsy_drakonin_firespell" },
+		{ "type": "single", "resource": "iawearables:hat/ruby_pickaxe_hat" },
+		{ "type": "single", "resource": "modelengine:entity/frostgoat" },
+		{ "type": "single", "resource": "modelengine:entity/herobrine_bobber" },
+		{ "type": "single", "resource": "modelengine:entity/leo" },
+		{ "type": "single", "resource": "modelengine:entity/health_pack" },
+		{ "type": "single", "resource": "minecraft:mage_texture/arcane_missile" },
+		{ "type": "single", "resource": "minecraft:mage_texture/blink1" },
+		{ "type": "single", "resource": "minecraft:mage_texture/blink2" },
+		{ "type": "single", "resource": "minecraft:mage_texture/blink3" },
+		{ "type": "single", "resource": "minecraft:mage_texture/blink4" },
+		{ "type": "single", "resource": "minecraft:mage_texture/blink5" },
+		{ "type": "single", "resource": "minecraft:mage_texture/blink6" },
+		{ "type": "single", "resource": "minecraft:mage_texture/fireball" },
+		{ "type": "single", "resource": "minecraft:mage_texture/fireball_a" },
+		{ "type": "single", "resource": "minecraft:mage_texture/frost_nova" },
+		{ "type": "single", "resource": "minecraft:mage_texture/ground_crack_1" },
+		{ "type": "single", "resource": "minecraft:mage_texture/ground_crack_2" },
+		{ "type": "single", "resource": "minecraft:mage_texture/ground_crack_3" },
+		{ "type": "single", "resource": "minecraft:mage_texture/ground_crack_4" },
+		{ "type": "single", "resource": "minecraft:mage_texture/ground_crack_5" },
+		{
+			"type": "single",
+			"resource": "minecraft:mage_texture/ground_crack_explode_1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:mage_texture/ground_crack_explode_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:mage_texture/ground_crack_explode_3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:mage_texture/icon_arcane_missile"
+		},
+		{ "type": "single", "resource": "minecraft:mage_texture/icon_blink" },
+		{ "type": "single", "resource": "minecraft:mage_texture/icon_fireball" },
+		{ "type": "single", "resource": "minecraft:mage_texture/icon_frost_nova" },
+		{
+			"type": "single",
+			"resource": "minecraft:mage_texture/icon_inferno_chains"
+		},
+		{ "type": "single", "resource": "minecraft:mage_texture/icon_meteor" },
+		{ "type": "single", "resource": "minecraft:mage_texture/inferno_chains" },
+		{ "type": "single", "resource": "minecraft:mage_texture/inferno_chains_1" },
+		{ "type": "single", "resource": "minecraft:mage_texture/inferno_chains_2" },
+		{ "type": "single", "resource": "minecraft:mage_texture/inferno_chains_3" },
+		{ "type": "single", "resource": "minecraft:mage_texture/mage_staff" },
+		{ "type": "single", "resource": "minecraft:mage_texture/mage_staff_shiny" },
+		{ "type": "single", "resource": "minecraft:mage_texture/meteor" },
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_blade"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_blade_shiny"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_dagger_a"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_dash1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_impact1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_dash2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_impact2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_dash3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_impact3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_dash4"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_impact4"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_slash1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_slash2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_slash3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_slash4"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_slash5"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_slash6"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_spin1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_spin2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_spin3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_spin4"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_spin5"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/assassin_spin6"
+		},
+		{ "type": "single", "resource": "minecraft:assassin_texture/assassin_x_1" },
+		{ "type": "single", "resource": "minecraft:assassin_texture/assassin_x2" },
+		{ "type": "single", "resource": "minecraft:assassin_texture/assassin_x3" },
+		{ "type": "single", "resource": "minecraft:assassin_texture/assassin_x4" },
+		{ "type": "single", "resource": "minecraft:assassin_texture/assassin_x5" },
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/icon_assassins_blade"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/icon_blade_dance"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/icon_blade_slash"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/icon_dagger_throw"
+		},
+		{ "type": "single", "resource": "minecraft:assassin_texture/icon_dash" },
+		{
+			"type": "single",
+			"resource": "minecraft:assassin_texture/icon_shadow_walk"
+		},
+		{ "type": "single", "resource": "minecraft:warrior_texture/chain_hook" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/charge1" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/charge2" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/charge3" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/charge4" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/charge5" },
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/icon_brutal_strike"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/icon_chain_hook"
+		},
+		{ "type": "single", "resource": "minecraft:warrior_texture/icon_charge" },
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/icon_judgement"
+		},
+		{ "type": "single", "resource": "minecraft:warrior_texture/icon_rampage" },
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/icon_shield_barrier"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/shield_barrier_1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/shield_barrier_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/shield_barrier_3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/shield_barrier"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/judgement_sword_1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/judgement_sword_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/judgement_sword_3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/judgement_sword"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust1_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust2_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust3_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust4"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust4_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust5"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust5_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust6"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_thrust6_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash1"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash1_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash2_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash3"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash3_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash4"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash4_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash5"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash5_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash6"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash6_2"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash7"
+		},
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_slash7_2"
+		},
+		{ "type": "single", "resource": "minecraft:warrior_texture/warrior_sword" },
+		{
+			"type": "single",
+			"resource": "minecraft:warrior_texture/warrior_sword_shiny"
+		},
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind1" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind1_2" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind2" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind2_2" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind3" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind3_2" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind4" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind4_2" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind5" },
+		{ "type": "single", "resource": "minecraft:warrior_texture/whirlwind5_2" },
+		{ "type": "directory", "source": "fflash", "prefix": "fflash/" }
+	],
+	"mcmodels": "bce186ef93bbf40a5371f31fb0e792fc"
+}

@@ -11,76 +11,148 @@
 			"model": "oasiscraft:item/coal/aureola"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 950
-			},
-			"model": "oasiscraft:item/coal/bat_horn"
+			"predicate": { "custom_model_data": 950 },
+			"model": "rpgmobs_1:loots/bat_horn"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 951
-			},
-			"model": "oasiscraft:item/coal/boar_leather"
+			"predicate": { "custom_model_data": 951 },
+			"model": "rpgmobs_1:loots/boar_leather"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 952
-			},
-			"model": "oasiscraft:item/coal/magical_feather"
+			"predicate": { "custom_model_data": 952 },
+			"model": "rpgmobs_1:loots/magical_feather"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 953
-			},
-			"model": "oasiscraft:item/coal/mushroom_of_life"
+			"predicate": { "custom_model_data": 953 },
+			"model": "rpgmobs_1:loots/mushroom_of_life"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 954
-			},
-			"model": "oasiscraft:item/coal/shiny_bone"
+			"predicate": { "custom_model_data": 954 },
+			"model": "rpgmobs_1:loots/shiny_bone"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 955
-			},
-			"model": "oasiscraft:item/coal/slime_goo"
+			"predicate": { "custom_model_data": 955 },
+			"model": "rpgmobs_1:loots/slime_goo"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 956
-			},
-			"model": "oasiscraft:item/coal/blue_slime_goo"
+			"predicate": { "custom_model_data": 956 },
+			"model": "rpgmobs_1:loots/blue_slime_goo"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 957
-			},
-			"model": "oasiscraft:item/coal/snow_boar_leather"
+			"predicate": { "custom_model_data": 957 },
+			"model": "rpgmobs_1:loots/snow_boar_leather"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 958
-			},
-			"model": "oasiscraft:item/coal/mushroom_of_curse"
+			"predicate": { "custom_model_data": 958 },
+			"model": "rpgmobs_1:loots/mushroom_of_curse"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 959
-			},
-			"model": "oasiscraft:item/coal/crimson_feather"
+			"predicate": { "custom_model_data": 959 },
+			"model": "rpgmobs_1:loots/crimson_feather"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 960
-			},
-			"model": "oasiscraft:item/coal/fire_feather"
+			"predicate": { "custom_model_data": 960 },
+			"model": "rpgmobs_1:loots/fire_feather"
 		},
 		{
-			"predicate": {
-				"custom_model_data": 961
-			},
-			"model": "oasiscraft:item/coal/glacial_feather"
+			"predicate": { "custom_model_data": 961 },
+			"model": "rpgmobs_1:loots/glacial_feather"
+		},
+		{
+			"predicate": { "custom_model_data": 2034 },
+			"model": "assassin_model/icon_assassins_blade"
+		},
+		{
+			"predicate": { "custom_model_data": 2035 },
+			"model": "assassin_model/icon_blade_dance"
+		},
+		{
+			"predicate": { "custom_model_data": 2036 },
+			"model": "assassin_model/icon_blade_slash"
+		},
+		{
+			"predicate": { "custom_model_data": 2037 },
+			"model": "assassin_model/icon_dagger_throw"
+		},
+		{
+			"predicate": { "custom_model_data": 2038 },
+			"model": "assassin_model/icon_dash"
+		},
+		{
+			"predicate": { "custom_model_data": 2039 },
+			"model": "assassin_model/icon_shadow_walk"
+		},
+		{
+			"predicate": { "custom_model_data": 2052 },
+			"model": "warrior_model/icon_brutal_strike"
+		},
+		{
+			"predicate": { "custom_model_data": 2053 },
+			"model": "warrior_model/icon_chain_hook"
+		},
+		{
+			"predicate": { "custom_model_data": 2054 },
+			"model": "warrior_model/icon_charge"
+		},
+		{
+			"predicate": { "custom_model_data": 2055 },
+			"model": "warrior_model/icon_judgement"
+		},
+		{
+			"predicate": { "custom_model_data": 2056 },
+			"model": "warrior_model/icon_rampage"
+		},
+		{
+			"predicate": { "custom_model_data": 2057 },
+			"model": "warrior_model/icon_shield_barrier"
+		},
+		{
+			"predicate": { "custom_model_data": 2058 },
+			"model": "archer_model/icon_backstep"
+		},
+		{
+			"predicate": { "custom_model_data": 2059 },
+			"model": "archer_model/icon_deadly_javelin"
+		},
+		{
+			"predicate": { "custom_model_data": 2060 },
+			"model": "archer_model/icon_dragon_piercer"
+		},
+		{
+			"predicate": { "custom_model_data": 2061 },
+			"model": "archer_model/icon_hunters_focus"
+		},
+		{
+			"predicate": { "custom_model_data": 2062 },
+			"model": "archer_model/icon_quick_shot"
+		},
+		{
+			"predicate": { "custom_model_data": 2063 },
+			"model": "archer_model/icon_windrazor"
+		},
+		{
+			"predicate": { "custom_model_data": 2064 },
+			"model": "mage_model/icon_arcane_missile"
+		},
+		{
+			"predicate": { "custom_model_data": 2065 },
+			"model": "mage_model/icon_blink"
+		},
+		{
+			"predicate": { "custom_model_data": 2066 },
+			"model": "mage_model/icon_fireball"
+		},
+		{
+			"predicate": { "custom_model_data": 2067 },
+			"model": "mage_model/icon_frost_nova"
+		},
+		{
+			"predicate": { "custom_model_data": 2068 },
+			"model": "mage_model/icon_inferno_chains"
+		},
+		{
+			"predicate": { "custom_model_data": 2069 },
+			"model": "mage_model/icon_meteor"
 		},
 		{
 			"predicate": { "custom_model_data": 10000 },
@@ -191,5 +263,6 @@
 			"model": "magic_store:furnitures/blacksmith_pack/blacksmith_weapon_stand_1_2x1"
 		},
 		{ "predicate": { "custom_model_data": 10027 }, "model": "item/coal" }
-	]
+	],
+	"mcmodels": "c7472d36aa4ef971310a778da4df1929"
 }

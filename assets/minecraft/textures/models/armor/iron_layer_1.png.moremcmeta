@@ -1,0 +1,7 @@
+{
+    "overlay": {
+        "texture": "taxal:textures/models/armor/iron_layer_1_overlay.png",
+        "emissive": true,
+		"transparency": "translucent"
+    }
+}
