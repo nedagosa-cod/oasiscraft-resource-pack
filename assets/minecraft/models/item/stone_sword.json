@@ -1,53 +1,27 @@
 {
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "item/stone_sword"
-	},
+	"parent": "minecraft:item/handheld",
+	"textures": { "layer0": "minecraft:item/stone_sword" },
 	"overrides": [
 		{
-			"predicate": { "custom_model_data": 2011 },
-			"model": "assassin_model/assassin_blade"
-		},
-		{
-			"predicate": { "custom_model_data": 2012 },
-			"model": "assassin_model/assassin_blade_shiny"
-		},
-		{
-			"predicate": { "custom_model_data": 2017 },
-			"model": "warrior_model/warrior_sword"
-		},
-		{
-			"predicate": { "custom_model_data": 2018 },
-			"model": "warrior_model/warrior_sword_shiny"
-		},
-		{
-			"predicate": { "custom_model_data": 2019 },
-			"model": "archer_model/archer_bow"
-		},
-		{
-			"predicate": { "custom_model_data": 2020 },
-			"model": "archer_model/archer_bow_shiny"
-		},
-		{
-			"predicate": { "custom_model_data": 2021 },
-			"model": "mage_model/mage_staff"
-		},
-		{
-			"predicate": { "custom_model_data": 2022 },
-			"model": "mage_model/mage_staff_shiny"
-		},
-		{
 			"predicate": { "custom_model_data": 5600 },
-			"model": "oasiscraft:item/stone_sword/orc_axe"
+			"model": "orc_model/orc_axe"
 		},
 		{
 			"predicate": { "custom_model_data": 5601 },
-			"model": "oasiscraft:item/stone_sword/orc_club"
+			"model": "orc_model/orc_club"
 		},
 		{
 			"predicate": { "custom_model_data": 5602 },
-			"model": "oasiscraft:item/stone_sword/orc_glaive"
-		}
-	],
-	"mcmodels": "c7472d36aa4ef971310a778da4df1929"
+			"model": "orc_model/orc_glaive"
+		},
+		{ "predicate": { "custom_model_data": 2011 }, "model": "assassin:assassin_model/assassin_blade" },
+		{ "predicate": { "custom_model_data": 2012 }, "model": "assassin:assassin_model/assassin_blade_shiny" },
+		{ "predicate": { "custom_model_data": 2017 }, "model": "warrior:warrior_model/warrior_sword" },
+		{ "predicate": { "custom_model_data": 2018 }, "model": "warrior:warrior_model/warrior_sword_shiny" },
+		{ "predicate": { "custom_model_data": 2019 }, "model": "archer:archer_model/archer_bow" },
+		{ "predicate": { "custom_model_data": 2020 }, "model": "archer:archer_model/archer_bow_shiny" },
+		{ "predicate": { "custom_model_data": 2021 }, "model": "mage:mage_model/mage_staff" },
+		{ "predicate": { "custom_model_data": 2022 }, "model": "mage:mage_model/mage_staff_shiny" },
+		{ "predicate": { "custom_model_data": 2023 }, "model": "item/stone_sword" }
+	]
 }

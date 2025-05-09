@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "rpgmobs_1:rpgmob1_texture/mushroom_of_curse"
-  }
-}
-
+{"parent":"minecraft:item/generated","textures":{"layer0":"rpgmobs_1:rpgmob1_texture/mushroom_of_curse"},"mcmodels":"9024a231f647d0e1c06561b1e703c133"}

@@ -1,6 +1,1 @@
-{
-  "pack": {
-    "pack_format": 15,
-    "description": "Oasis Craft"
-  }
-}
+{"pack":{"pack_format":32,"description":"ItemsAdder"},"overlays":{"entries":[{"directory":"ia_overlay_1_21_2_plus","formats":[42,9999]},{"directory":"ia_overlay_1_21_4","formats":[44,9999]}]}}

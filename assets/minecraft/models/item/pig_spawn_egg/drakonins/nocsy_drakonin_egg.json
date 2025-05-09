@@ -2,9 +2,7 @@
   "credit": "Made with Blockbench",
   "parent": "nocsy_drakonin_egg",
   "texture_size": [128, 128],
-  "textures": {
-    "1": "oasiscraft:item/nocsy/nocsy_drakonin_egg"
-  },
+  "textures": { "1": "nocsy/nocsy_drakonin_egg" },
   "elements": [
     {
       "from": [-1.5, 0.2, -1.5],
@@ -305,14 +303,8 @@
       "translation": [0, 0.75, 0],
       "scale": [0.7, 0.7, 0.7]
     },
-    "head": {
-      "translation": [0, 18.5, 0],
-      "scale": [1.66, 1.66, 1.66]
-    },
-    "fixed": {
-      "rotation": [-90, 0, 0],
-      "translation": [0, 0, -8.75]
-    }
+    "head": { "translation": [0, 18.5, 0], "scale": [1.66, 1.66, 1.66] },
+    "fixed": { "rotation": [-90, 0, 0], "translation": [0, 0, -8.75] }
   },
   "groups": [
     {
@@ -334,11 +326,7 @@
         }
       ]
     },
-    {
-      "name": "hitbox",
-      "origin": [0, 8, 0],
-      "color": 0,
-      "children": [17]
-    }
-  ]
+    { "name": "hitbox", "origin": [0, 8, 0], "color": 0, "children": [17] }
+  ],
+  "mcmodels": "fafd65ebe9608cabe760a382613276da"
 }

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"model":"item/ender_pearl","type":"model"},"entries":[{"threshold":10000,"model":{"model":"iaalchemy:ia_auto_gen/mysterious_amulet","type":"model"}},{"threshold":10001,"model":{"model":"item/ender_pearl","type":"model"}}]}}

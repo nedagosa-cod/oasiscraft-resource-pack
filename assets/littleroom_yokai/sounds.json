@@ -94,6 +94,11 @@
 			"littleroom/yokai/yurei/startle"
 		 ]
 	},
+	"littleroom.yokai.yurei.sting":{
+		 "sounds": [
+			"littleroom/yokai/yurei/sting"
+		 ]
+	},
 	"littleroom.yokai.yurei.swipe":{
 		 "sounds": [
 			"littleroom/yokai/yurei/swipe"

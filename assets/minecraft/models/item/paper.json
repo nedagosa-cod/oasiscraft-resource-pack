@@ -1,561 +1,519 @@
 {
 	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "item/paper"
-	},
+	"textures": { "layer0": "minecraft:item/paper" },
 	"overrides": [
-		{
-			"predicate": { "custom_model_data": 16 },
-			"model": "littleroom_npcpack3:bard_hat"
-		},
-		{
-			"predicate": { "custom_model_data": 17 },
-			"model": "littleroom_npcpack3:bard_lute"
-		},
-		{
-			"predicate": { "custom_model_data": 18 },
-			"model": "littleroom_npcpack3:fisherman_disguise"
-		},
-		{
-			"predicate": { "custom_model_data": 19 },
-			"model": "littleroom_npcpack3:lumberjack_beanie"
-		},
-		{
-			"predicate": { "custom_model_data": 20 },
-			"model": "littleroom_npcpack3:lumberjack_disguise"
-		},
-		{
-			"predicate": { "custom_model_data": 21 },
-			"model": "littleroom_npcpack3:queen_wig"
-		},
-		{
-			"predicate": { "custom_model_data": 22 },
-			"model": "littleroom_npcpack3:roman_soldier_helmet"
-		},
-		{
-			"predicate": { "custom_model_data": 23 },
-			"model": "littleroom_npcpack3:jester_staff"
-		},
-		{
-			"predicate": { "custom_model_data": 24 },
-			"model": "littleroom_yokai:tengumask"
-		},
-		{
-			"predicate": { "custom_model_data": 25 },
-			"model": "littleroom_yokai:onimask"
-		},
-		{
-			"predicate": { "custom_model_data": 26 },
-			"model": "littleroom_yokai:kappamask"
-		},
-		{
-			"predicate": { "custom_model_data": 27 },
-			"model": "littleroom_yokai:yureimask"
-		},
-		{
-			"predicate": { "custom_model_data": 28 },
-			"model": "littleroom_yokai:ofuda"
-		},
-		{
-			"predicate": { "custom_model_data": 2108 },
-			"model": "assassin_model/assassin_dagger_a"
-		},
-		{
-			"predicate": { "custom_model_data": 2109 },
-			"model": "assassin_model/assassin_dash_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2110 },
-			"model": "assassin_model/assassin_dash_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2111 },
-			"model": "assassin_model/assassin_dash_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2112 },
-			"model": "assassin_model/assassin_dash_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2113 },
-			"model": "assassin_model/assassin_impact_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2114 },
-			"model": "assassin_model/assassin_impact_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2115 },
-			"model": "assassin_model/assassin_impact_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2116 },
-			"model": "assassin_model/assassin_impact_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2117 },
-			"model": "assassin_model/assassin_slash_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2118 },
-			"model": "assassin_model/assassin_slash_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2119 },
-			"model": "assassin_model/assassin_slash_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2120 },
-			"model": "assassin_model/assassin_slash_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2121 },
-			"model": "assassin_model/assassin_slash_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2122 },
-			"model": "assassin_model/assassin_slash_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2123 },
-			"model": "assassin_model/assassin_spin_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2124 },
-			"model": "assassin_model/assassin_spin_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2125 },
-			"model": "assassin_model/assassin_spin_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2126 },
-			"model": "assassin_model/assassin_spin_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2127 },
-			"model": "assassin_model/assassin_spin_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2128 },
-			"model": "assassin_model/assassin_spin_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2129 },
-			"model": "assassin_model/assassin_x_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2130 },
-			"model": "assassin_model/assassin_x_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2131 },
-			"model": "assassin_model/assassin_x_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2132 },
-			"model": "assassin_model/assassin_x_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2133 },
-			"model": "assassin_model/assassin_x_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2177 },
-			"model": "warrior_model/chain_hook_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2178 },
-			"model": "warrior_model/chain_hook_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2179 },
-			"model": "warrior_model/chain_hook_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2180 },
-			"model": "warrior_model/chain_hook_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2181 },
-			"model": "warrior_model/chain_hook_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2182 },
-			"model": "warrior_model/charge_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2183 },
-			"model": "warrior_model/charge_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2184 },
-			"model": "warrior_model/charge_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2185 },
-			"model": "warrior_model/charge_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2186 },
-			"model": "warrior_model/charge_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2187 },
-			"model": "warrior_model/judgement_sword_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2188 },
-			"model": "warrior_model/judgement_sword_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2189 },
-			"model": "warrior_model/judgement_sword_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2190 },
-			"model": "warrior_model/judgement_sword_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2191 },
-			"model": "warrior_model/shield_barrier_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2192 },
-			"model": "warrior_model/shield_barrier_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2193 },
-			"model": "warrior_model/shield_barrier_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2194 },
-			"model": "warrior_model/shield_barrier_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2195 },
-			"model": "warrior_model/warrior_pierce_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2196 },
-			"model": "warrior_model/warrior_pierce_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2197 },
-			"model": "warrior_model/warrior_pierce_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2198 },
-			"model": "warrior_model/warrior_pierce_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2199 },
-			"model": "warrior_model/warrior_pierce_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2200 },
-			"model": "warrior_model/warrior_pierce_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2201 },
-			"model": "warrior_model/warrior_slash_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2202 },
-			"model": "warrior_model/warrior_slash_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2203 },
-			"model": "warrior_model/warrior_slash_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2204 },
-			"model": "warrior_model/warrior_slash_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2205 },
-			"model": "warrior_model/warrior_slash_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2206 },
-			"model": "warrior_model/warrior_slash_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2207 },
-			"model": "warrior_model/warrior_slash_7"
-		},
-		{
-			"predicate": { "custom_model_data": 2208 },
-			"model": "warrior_model/whirlwind_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2209 },
-			"model": "warrior_model/whirlwind_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2210 },
-			"model": "warrior_model/whirlwind_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2211 },
-			"model": "warrior_model/whirlwind_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2212 },
-			"model": "warrior_model/whirlwind_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2213 },
-			"model": "warrior_model/judgement_shield_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2214 },
-			"model": "warrior_model/shield_barrier_1_broken"
-		},
-		{
-			"predicate": { "custom_model_data": 2215 },
-			"model": "warrior_model/shield_barrier_2_broken"
-		},
-		{
-			"predicate": { "custom_model_data": 2216 },
-			"model": "warrior_model/shield_barrier_3_broken"
-		},
-		{
-			"predicate": { "custom_model_data": 2217 },
-			"model": "warrior_model/judgement_shield_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2218 },
-			"model": "warrior_model/judgement_shield_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2219 },
-			"model": "warrior_model/judgement_shield_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2220 },
-			"model": "archer_model/archer_bow_spirit_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2221 },
-			"model": "archer_model/archer_bow_spirit_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2222 },
-			"model": "archer_model/archer_bow_spirit_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2223 },
-			"model": "archer_model/archer_bow_spirit_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2224 },
-			"model": "archer_model/archer_bow_spirit_dragon_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2225 },
-			"model": "archer_model/archer_bow_spirit_dragon_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2226 },
-			"model": "archer_model/archer_bow_spirit_dragon_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2227 },
-			"model": "archer_model/archer_bow_spirit_dragon_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2228 },
-			"model": "archer_model/backstep_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2229 },
-			"model": "archer_model/backstep_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2230 },
-			"model": "archer_model/backstep_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2231 },
-			"model": "archer_model/backstep_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2232 },
-			"model": "archer_model/backstep_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2233 },
-			"model": "archer_model/dragon_arrow"
-		},
-		{
-			"predicate": { "custom_model_data": 2234 },
-			"model": "archer_model/dragon_spirit_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2235 },
-			"model": "archer_model/dragon_spirit_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2236 },
-			"model": "archer_model/dragon_spirit_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2237 },
-			"model": "archer_model/dragon_spirit_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2238 },
-			"model": "archer_model/dragon_spirit_open"
-		},
-		{
-			"predicate": { "custom_model_data": 2239 },
-			"model": "archer_model/hunters_focus_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2240 },
-			"model": "archer_model/hunters_focus_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2241 },
-			"model": "archer_model/hunters_focus_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2242 },
-			"model": "archer_model/javelin"
-		},
-		{
-			"predicate": { "custom_model_data": 2243 },
-			"model": "archer_model/quick_shot"
-		},
-		{
-			"predicate": { "custom_model_data": 2244 },
-			"model": "mage_model/arcane_missile"
-		},
-		{
-			"predicate": { "custom_model_data": 2245 },
-			"model": "mage_model/blink_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2246 },
-			"model": "mage_model/blink_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2247 },
-			"model": "mage_model/blink_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2248 },
-			"model": "mage_model/blink_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2249 },
-			"model": "mage_model/blink_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2250 },
-			"model": "mage_model/blink_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2251 },
-			"model": "mage_model/fireball"
-		},
-		{
-			"predicate": { "custom_model_data": 2252 },
-			"model": "mage_model/frost_nova_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2253 },
-			"model": "mage_model/frost_nova_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2254 },
-			"model": "mage_model/frost_nova_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2255 },
-			"model": "mage_model/frost_nova_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2256 },
-			"model": "mage_model/frost_nova_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2257 },
-			"model": "mage_model/frost_nova_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2258 },
-			"model": "mage_model/ground_crack_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2259 },
-			"model": "mage_model/ground_crack_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2260 },
-			"model": "mage_model/ground_crack_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2261 },
-			"model": "mage_model/ground_crack_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2262 },
-			"model": "mage_model/ground_crack_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2263 },
-			"model": "mage_model/ground_crack_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2264 },
-			"model": "mage_model/ground_crack_explode_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2265 },
-			"model": "mage_model/ground_crack_explode_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2266 },
-			"model": "mage_model/ground_crack_explode_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2267 },
-			"model": "mage_model/inferno_chains_1"
-		},
-		{
-			"predicate": { "custom_model_data": 2268 },
-			"model": "mage_model/inferno_chains_2"
-		},
-		{
-			"predicate": { "custom_model_data": 2269 },
-			"model": "mage_model/inferno_chains_3"
-		},
-		{
-			"predicate": { "custom_model_data": 2270 },
-			"model": "mage_model/inferno_chains_4"
-		},
-		{
-			"predicate": { "custom_model_data": 2271 },
-			"model": "mage_model/inferno_chains_5"
-		},
-		{
-			"predicate": { "custom_model_data": 2272 },
-			"model": "mage_model/inferno_chains_6"
-		},
-		{
-			"predicate": { "custom_model_data": 2273 },
-			"model": "mage_model/inferno_chains_7"
-		},
-		{ "predicate": { "custom_model_data": 2274 }, "model": "mage_model/meteor" },
+		{ "predicate": { "custom_model_data": 1 }, "model": "littleroom_yokai:tengumask" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "littleroom_yokai:onimask" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "littleroom_yokai:kappamask" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "littleroom_yokai:yureimask" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "littleroom_yokai:ofuda" },
 		{
 			"predicate": { "custom_model_data": 5600 },
-			"model": "oasiscraft:item/orc_model/orc_skull"
+			"model": "orc_model/orc_skull"
 		},
 		{
 			"predicate": { "custom_model_data": 5601 },
-			"model": "oasiscraft:item/orc_model/orc_stone"
+			"model": "orc_model/orc_stone"
+		},
+		{
+			"predicate": { "custom_model_data": 2108 },
+			"model": "assassin:assassin_model/assassin_dagger_a"
+		},
+		{
+			"predicate": { "custom_model_data": 2109 },
+			"model": "assassin:assassin_model/assassin_dash_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2110 },
+			"model": "assassin:assassin_model/assassin_dash_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2111 },
+			"model": "assassin:assassin_model/assassin_dash_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2112 },
+			"model": "assassin:assassin_model/assassin_dash_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2113 },
+			"model": "assassin:assassin_model/assassin_impact_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2114 },
+			"model": "assassin:assassin_model/assassin_impact_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2115 },
+			"model": "assassin:assassin_model/assassin_impact_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2116 },
+			"model": "assassin:assassin_model/assassin_impact_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2117 },
+			"model": "assassin:assassin_model/assassin_slash_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2118 },
+			"model": "assassin:assassin_model/assassin_slash_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2119 },
+			"model": "assassin:assassin_model/assassin_slash_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2120 },
+			"model": "assassin:assassin_model/assassin_slash_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2121 },
+			"model": "assassin:assassin_model/assassin_slash_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2122 },
+			"model": "assassin:assassin_model/assassin_slash_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2123 },
+			"model": "assassin:assassin_model/assassin_spin_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2124 },
+			"model": "assassin:assassin_model/assassin_spin_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2125 },
+			"model": "assassin:assassin_model/assassin_spin_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2126 },
+			"model": "assassin:assassin_model/assassin_spin_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2127 },
+			"model": "assassin:assassin_model/assassin_spin_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2128 },
+			"model": "assassin:assassin_model/assassin_spin_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2129 },
+			"model": "assassin:assassin_model/assassin_x_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2130 },
+			"model": "assassin:assassin_model/assassin_x_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2131 },
+			"model": "assassin:assassin_model/assassin_x_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2132 },
+			"model": "assassin:assassin_model/assassin_x_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2133 },
+			"model": "assassin:assassin_model/assassin_x_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2177 },
+			"model": "warrior:warrior_model/chain_hook_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2178 },
+			"model": "warrior:warrior_model/chain_hook_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2179 },
+			"model": "warrior:warrior_model/chain_hook_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2180 },
+			"model": "warrior:warrior_model/chain_hook_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2181 },
+			"model": "warrior:warrior_model/chain_hook_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2182 },
+			"model": "warrior:warrior_model/charge_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2183 },
+			"model": "warrior:warrior_model/charge_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2184 },
+			"model": "warrior:warrior_model/charge_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2185 },
+			"model": "warrior:warrior_model/charge_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2186 },
+			"model": "warrior:warrior_model/charge_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2187 },
+			"model": "warrior:warrior_model/judgement_sword_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2188 },
+			"model": "warrior:warrior_model/judgement_sword_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2189 },
+			"model": "warrior:warrior_model/judgement_sword_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2190 },
+			"model": "warrior:warrior_model/judgement_sword_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2191 },
+			"model": "warrior:warrior_model/shield_barrier_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2192 },
+			"model": "warrior:warrior_model/shield_barrier_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2193 },
+			"model": "warrior:warrior_model/shield_barrier_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2194 },
+			"model": "warrior:warrior_model/shield_barrier_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2195 },
+			"model": "warrior:warrior_model/warrior_pierce_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2196 },
+			"model": "warrior:warrior_model/warrior_pierce_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2197 },
+			"model": "warrior:warrior_model/warrior_pierce_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2198 },
+			"model": "warrior:warrior_model/warrior_pierce_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2199 },
+			"model": "warrior:warrior_model/warrior_pierce_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2200 },
+			"model": "warrior:warrior_model/warrior_pierce_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2201 },
+			"model": "warrior:warrior_model/warrior_slash_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2202 },
+			"model": "warrior:warrior_model/warrior_slash_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2203 },
+			"model": "warrior:warrior_model/warrior_slash_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2204 },
+			"model": "warrior:warrior_model/warrior_slash_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2205 },
+			"model": "warrior:warrior_model/warrior_slash_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2206 },
+			"model": "warrior:warrior_model/warrior_slash_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2207 },
+			"model": "warrior:warrior_model/warrior_slash_7"
+		},
+		{
+			"predicate": { "custom_model_data": 2208 },
+			"model": "warrior:warrior_model/whirlwind_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2209 },
+			"model": "warrior:warrior_model/whirlwind_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2210 },
+			"model": "warrior:warrior_model/whirlwind_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2211 },
+			"model": "warrior:warrior_model/whirlwind_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2212 },
+			"model": "warrior:warrior_model/whirlwind_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2213 },
+			"model": "warrior:warrior_model/judgement_shield_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2214 },
+			"model": "warrior:warrior_model/shield_barrier_1_broken"
+		},
+		{
+			"predicate": { "custom_model_data": 2215 },
+			"model": "warrior:warrior_model/shield_barrier_2_broken"
+		},
+		{
+			"predicate": { "custom_model_data": 2216 },
+			"model": "warrior:warrior_model/shield_barrier_3_broken"
+		},
+		{
+			"predicate": { "custom_model_data": 2217 },
+			"model": "warrior:warrior_model/judgement_shield_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2218 },
+			"model": "warrior:warrior_model/judgement_shield_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2219 },
+			"model": "warrior:warrior_model/judgement_shield_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2220 },
+			"model": "archer:archer_model/archer_bow_spirit_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2221 },
+			"model": "archer:archer_model/archer_bow_spirit_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2222 },
+			"model": "archer:archer_model/archer_bow_spirit_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2223 },
+			"model": "archer:archer_model/archer_bow_spirit_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2224 },
+			"model": "archer:archer_model/archer_bow_spirit_dragon_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2225 },
+			"model": "archer:archer_model/archer_bow_spirit_dragon_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2226 },
+			"model": "archer:archer_model/archer_bow_spirit_dragon_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2227 },
+			"model": "archer:archer_model/archer_bow_spirit_dragon_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2228 },
+			"model": "archer:archer_model/backstep_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2229 },
+			"model": "archer:archer_model/backstep_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2230 },
+			"model": "archer:archer_model/backstep_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2231 },
+			"model": "archer:archer_model/backstep_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2232 },
+			"model": "archer:archer_model/backstep_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2233 },
+			"model": "archer:archer_model/dragon_arrow"
+		},
+		{
+			"predicate": { "custom_model_data": 2234 },
+			"model": "archer:archer_model/dragon_spirit_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2235 },
+			"model": "archer:archer_model/dragon_spirit_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2236 },
+			"model": "archer:archer_model/dragon_spirit_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2237 },
+			"model": "archer:archer_model/dragon_spirit_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2238 },
+			"model": "archer:archer_model/dragon_spirit_open"
+		},
+		{
+			"predicate": { "custom_model_data": 2239 },
+			"model": "archer:archer_model/hunters_focus_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2240 },
+			"model": "archer:archer_model/hunters_focus_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2241 },
+			"model": "archer:archer_model/hunters_focus_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2242 },
+			"model": "archer:archer_model/javelin"
+		},
+		{
+			"predicate": { "custom_model_data": 2243 },
+			"model": "archer:archer_model/quick_shot"
+		},
+		{
+			"predicate": { "custom_model_data": 2244 },
+			"model": "mage:mage_model/arcane_missile"
+		},
+		{
+			"predicate": { "custom_model_data": 2245 },
+			"model": "mage:mage_model/blink_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2246 },
+			"model": "mage:mage_model/blink_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2247 },
+			"model": "mage:mage_model/blink_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2248 },
+			"model": "mage:mage_model/blink_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2249 },
+			"model": "mage:mage_model/blink_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2250 },
+			"model": "mage:mage_model/blink_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2251 },
+			"model": "mage:mage_model/fireball"
+		},
+		{
+			"predicate": { "custom_model_data": 2252 },
+			"model": "mage:mage_model/frost_nova_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2253 },
+			"model": "mage:mage_model/frost_nova_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2254 },
+			"model": "mage:mage_model/frost_nova_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2255 },
+			"model": "mage:mage_model/frost_nova_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2256 },
+			"model": "mage:mage_model/frost_nova_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2257 },
+			"model": "mage:mage_model/frost_nova_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2258 },
+			"model": "mage:mage_model/ground_crack_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2259 },
+			"model": "mage:mage_model/ground_crack_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2260 },
+			"model": "mage:mage_model/ground_crack_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2261 },
+			"model": "mage:mage_model/ground_crack_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2262 },
+			"model": "mage:mage_model/ground_crack_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2263 },
+			"model": "mage:mage_model/ground_crack_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2264 },
+			"model": "mage:mage_model/ground_crack_explode_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2265 },
+			"model": "mage:mage_model/ground_crack_explode_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2266 },
+			"model": "mage:mage_model/ground_crack_explode_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2267 },
+			"model": "mage:mage_model/inferno_chains_1"
+		},
+		{
+			"predicate": { "custom_model_data": 2268 },
+			"model": "mage:mage_model/inferno_chains_2"
+		},
+		{
+			"predicate": { "custom_model_data": 2269 },
+			"model": "mage:mage_model/inferno_chains_3"
+		},
+		{
+			"predicate": { "custom_model_data": 2270 },
+			"model": "mage:mage_model/inferno_chains_4"
+		},
+		{
+			"predicate": { "custom_model_data": 2271 },
+			"model": "mage:mage_model/inferno_chains_5"
+		},
+		{
+			"predicate": { "custom_model_data": 2272 },
+			"model": "mage:mage_model/inferno_chains_6"
+		},
+		{
+			"predicate": { "custom_model_data": 2273 },
+			"model": "mage:mage_model/inferno_chains_7"
+		},
+		{
+			"predicate": { "custom_model_data": 2274 },
+			"model": "mage:mage_model/meteor"
+		},
+		{
+			"predicate": { "custom_model_data": 95500 },
+			"model": "item/pig_spawn_egg/drakonins/nocsy_drakonin_egg"
 		},
 		{
 			"predicate": { "custom_model_data": 10000 },
@@ -587,641 +545,640 @@
 		},
 		{
 			"predicate": { "custom_model_data": 10007 },
-			"model": "iasurvival:ia_auto_gen/modern_sandstone"
-		},
-		{
-			"predicate": { "custom_model_data": 10008 },
 			"model": "iaalchemy:ia_auto_gen/nether_alchemy_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10009 },
-			"model": "iafestivities:christmas/christmas_wreath"
-		},
-		{
-			"predicate": { "custom_model_data": 10010 },
-			"model": "iafestivities:christmas/christmas_candle"
-		},
-		{
-			"predicate": { "custom_model_data": 10011 },
-			"model": "iasurvival:ia_auto_gen/dark_amethyst_prism_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10012 },
-			"model": "iasurvival:ia_auto_gen/cassiterite_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10013 },
-			"model": "iafestivities:christmas/christmas_tree"
-		},
-		{
-			"predicate": { "custom_model_data": 10014 },
-			"model": "iasurvival:ia_auto_gen/end_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10015 },
-			"model": "iafestivities:halloween/decorative_pumpkin"
-		},
-		{
-			"predicate": { "custom_model_data": 10016 },
-			"model": "iasurvival:ia_auto_gen/coal_dirt_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10017 },
-			"model": "iasurvival:ia_auto_gen/nice_wood"
-		},
-		{
-			"predicate": { "custom_model_data": 10018 },
-			"model": "iasurvival:ia_auto_gen/iron_dirt_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10019 },
-			"model": "iasurvival:ia_auto_gen/dark_amethyst_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10020 },
-			"model": "iasurvival:ia_auto_gen/forgotten_crying_obsidian"
-		},
-		{
-			"predicate": { "custom_model_data": 10021 },
-			"model": "iasurvival:ia_auto_gen/cassiterite_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10022 },
-			"model": "iasurvival:ia_auto_gen/spinel_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10023 },
-			"model": "iasurvival:ia_auto_gen/aqua_aura_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10024 },
-			"model": "iasurvival:ia_auto_gen/ruby_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10025 },
-			"model": "iasurvival:ia_auto_gen/spinel_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10026 },
-			"model": "iasurvival:ia_auto_gen/ruby_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10027 },
-			"model": "iasurvival:ia_auto_gen/gold_dirt_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10028 },
-			"model": "iasurvival:ia_auto_gen/turquoise_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10029 },
-			"model": "iafestivities:christmas/decorative_candy_cane"
-		},
-		{
-			"predicate": { "custom_model_data": 10030 },
-			"model": "iasurvival:ia_auto_gen/aqua_aura_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10031 },
-			"model": "iasurvival:ia_auto_gen/crystal_block"
-		},
-		{
-			"predicate": { "custom_model_data": 10032 },
-			"model": "iaalchemy:item/energy_extractor"
-		},
-		{
-			"predicate": { "custom_model_data": 10033 },
-			"model": "iasurvival:ia_auto_gen/customization_table"
-		},
-		{
-			"predicate": { "custom_model_data": 10034 },
-			"model": "iaalchemy:item/energy_converter"
-		},
-		{
-			"predicate": { "custom_model_data": 10035 },
-			"model": "iasurvival:ia_auto_gen/dark_amethyst_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10036 },
-			"model": "mcicons:ia_auto_gen/icon_left_gray"
-		},
-		{
-			"predicate": { "custom_model_data": 10037 },
-			"model": "mcicons:ia_auto_gen/icon_left_blue"
-		},
-		{
-			"predicate": { "custom_model_data": 10038 },
-			"model": "mcicons:ia_auto_gen/icon_right_gray"
-		},
-		{
-			"predicate": { "custom_model_data": 10039 },
-			"model": "mcicons:ia_auto_gen/icon_right_blue"
-		},
-		{
-			"predicate": { "custom_model_data": 10040 },
-			"model": "mcicons:ia_auto_gen/icon_up_gray"
-		},
-		{
-			"predicate": { "custom_model_data": 10041 },
-			"model": "mcicons:ia_auto_gen/icon_up_blue"
-		},
-		{
-			"predicate": { "custom_model_data": 10042 },
-			"model": "mcicons:ia_auto_gen/icon_down_gray"
-		},
-		{
-			"predicate": { "custom_model_data": 10043 },
-			"model": "mcicons:ia_auto_gen/icon_down_blue"
-		},
-		{
-			"predicate": { "custom_model_data": 10044 },
-			"model": "mcicons:ia_auto_gen/icon_next_white"
-		},
-		{
-			"predicate": { "custom_model_data": 10045 },
-			"model": "mcicons:ia_auto_gen/icon_next_orange"
-		},
-		{
-			"predicate": { "custom_model_data": 10046 },
-			"model": "mcicons:ia_auto_gen/icon_back_white"
-		},
-		{
-			"predicate": { "custom_model_data": 10047 },
-			"model": "mcicons:ia_auto_gen/icon_back_orange"
-		},
-		{
-			"predicate": { "custom_model_data": 10048 },
-			"model": "mcicons:ia_auto_gen/icon_cancel"
-		},
-		{
-			"predicate": { "custom_model_data": 10049 },
-			"model": "mcicons:ia_auto_gen/icon_confirm"
-		},
-		{
-			"predicate": { "custom_model_data": 10050 },
-			"model": "mcicons:ia_auto_gen/icon_lock"
-		},
-		{
-			"predicate": { "custom_model_data": 10051 },
-			"model": "mcicons:ia_auto_gen/icon_unlock"
-		},
-		{
-			"predicate": { "custom_model_data": 10052 },
-			"model": "mcicons:ia_auto_gen/icon_web"
-		},
-		{
-			"predicate": { "custom_model_data": 10053 },
-			"model": "mcicons:ia_auto_gen/icon_ender_chest"
-		},
-		{
-			"predicate": { "custom_model_data": 10054 },
-			"model": "mcicons:ia_auto_gen/icon_refresh"
-		},
-		{
-			"predicate": { "custom_model_data": 10055 },
-			"model": "mcicons:ia_auto_gen/icon_time_day"
-		},
-		{
-			"predicate": { "custom_model_data": 10056 },
-			"model": "mcicons:ia_auto_gen/icon_time_midnight"
-		},
-		{
-			"predicate": { "custom_model_data": 10057 },
-			"model": "mcicons:ia_auto_gen/icon_time_night"
-		},
-		{
-			"predicate": { "custom_model_data": 10058 },
-			"model": "mcicons:ia_auto_gen/icon_time_noon"
-		},
-		{
-			"predicate": { "custom_model_data": 10059 },
-			"model": "mcicons:ia_auto_gen/icon_time_sunrise"
-		},
-		{
-			"predicate": { "custom_model_data": 10060 },
-			"model": "mcicons:ia_auto_gen/icon_time_sunset"
-		},
-		{
-			"predicate": { "custom_model_data": 10061 },
-			"model": "mcicons:ia_auto_gen/icon_toggle_off"
-		},
-		{
-			"predicate": { "custom_model_data": 10062 },
-			"model": "mcicons:ia_auto_gen/icon_toggle_on"
-		},
-		{
-			"predicate": { "custom_model_data": 10063 },
-			"model": "mcicons:ia_auto_gen/icon_arrow_chest"
-		},
-		{
-			"predicate": { "custom_model_data": 10064 },
-			"model": "mcicons:ia_auto_gen/icon_plus"
-		},
-		{
-			"predicate": { "custom_model_data": 10065 },
-			"model": "mcicons:ia_auto_gen/icon_color_picker"
-		},
-		{
-			"predicate": { "custom_model_data": 10066 },
-			"model": "mcicons:ia_auto_gen/icon_comment"
-		},
-		{
-			"predicate": { "custom_model_data": 10067 },
-			"model": "mcicons:ia_auto_gen/icon_search"
-		},
-		{
-			"predicate": { "custom_model_data": 10068 },
-			"model": "iasurvival:ia_auto_gen/turquoise_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10069 },
-			"model": "iasurvival:ia_auto_gen/restoration_table"
-		},
-		{
-			"predicate": { "custom_model_data": 10070 },
-			"model": "iasurvival:ia_auto_gen/modern_stone"
-		},
-		{
-			"predicate": { "custom_model_data": 10071 },
-			"model": "iasurvival:ia_auto_gen/blaze_powder_ore"
-		},
-		{
-			"predicate": { "custom_model_data": 10072 },
-			"model": "iasurvival:ia_auto_gen/modern_quartz"
-		},
-		{
-			"predicate": { "custom_model_data": 10073 },
-			"model": "iasurvival:ia_auto_gen/nice_stone"
-		},
-		{
-			"predicate": { "custom_model_data": 10074 },
-			"model": "magicalfurnitures:item/tablesmallmagical"
-		},
-		{
-			"predicate": { "custom_model_data": 10075 },
-			"model": "magicalfurnitures:item/tablemagical"
-		},
-		{
-			"predicate": { "custom_model_data": 10076 },
+			"predicate": { "custom_model_data": 10008 },
 			"model": "iaalchemy:ia_auto_gen/mysterious_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10077 },
-			"model": "magicalfurnitures:item/couchsmallmagical"
-		},
-		{
-			"predicate": { "custom_model_data": 10078 },
-			"model": "magicalfurnitures:item/vasemagical"
-		},
-		{
-			"predicate": { "custom_model_data": 10079 },
-			"model": "magicalfurnitures:item/chairmagical"
-		},
-		{
-			"predicate": { "custom_model_data": 10080 },
+			"predicate": { "custom_model_data": 10009 },
 			"model": "iaalchemy:item/mysterious_stone"
 		},
 		{
-			"predicate": { "custom_model_data": 10081 },
-			"model": "magicalfurnitures:item/couchmagical"
+			"predicate": { "custom_model_data": 10010 },
+			"model": "iaalchemy:item/energy_converter"
 		},
 		{
-			"predicate": { "custom_model_data": 10082 },
+			"predicate": { "custom_model_data": 10011 },
 			"model": "iaalchemy:item/alchemy_candles"
 		},
 		{
-			"predicate": { "custom_model_data": 10083 },
-			"model": "magicalfurnitures:item/cabientmagical"
+			"predicate": { "custom_model_data": 10012 },
+			"model": "iaalchemy:item/energy_extractor"
 		},
 		{
-			"predicate": { "custom_model_data": 10084 },
-			"model": "elitecreatures:medieval_market_decoration_v1/barrel"
+			"predicate": { "custom_model_data": 10013 },
+			"model": "iasurvival:ia_auto_gen/modern_sandstone"
 		},
 		{
-			"predicate": { "custom_model_data": 10085 },
-			"model": "elitecreatures:medieval_market_decoration_v1/barrelberry"
+			"predicate": { "custom_model_data": 10014 },
+			"model": "iafestivities:christmas/christmas_wreath"
 		},
 		{
-			"predicate": { "custom_model_data": 10086 },
-			"model": "elitecreatures:medieval_market_decoration_v1/barrelsword"
+			"predicate": { "custom_model_data": 10015 },
+			"model": "iafestivities:christmas/christmas_candle"
 		},
 		{
-			"predicate": { "custom_model_data": 10087 },
-			"model": "elitecreatures:medieval_market_decoration_v1/boardsign"
+			"predicate": { "custom_model_data": 10016 },
+			"model": "iasurvival:ia_auto_gen/dark_amethyst_prism_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10088 },
-			"model": "elitecreatures:medieval_market_decoration_v1/campfire_1"
+			"predicate": { "custom_model_data": 10017 },
+			"model": "iasurvival:ia_auto_gen/cassiterite_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10089 },
-			"model": "elitecreatures:medieval_market_decoration_v1/campfire_2"
+			"predicate": { "custom_model_data": 10018 },
+			"model": "iafestivities:christmas/christmas_tree"
 		},
 		{
-			"predicate": { "custom_model_data": 10090 },
-			"model": "elitecreatures:medieval_market_decoration_v1/cargo_1"
+			"predicate": { "custom_model_data": 10019 },
+			"model": "iasurvival:ia_auto_gen/end_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10091 },
-			"model": "elitecreatures:medieval_market_decoration_v1/cargo_2"
+			"predicate": { "custom_model_data": 10020 },
+			"model": "iafestivities:halloween/decorative_pumpkin"
 		},
 		{
-			"predicate": { "custom_model_data": 10092 },
-			"model": "elitecreatures:medieval_market_decoration_v1/cart_1"
+			"predicate": { "custom_model_data": 10021 },
+			"model": "iasurvival:ia_auto_gen/coal_dirt_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10093 },
-			"model": "elitecreatures:medieval_market_decoration_v1/cart_2"
+			"predicate": { "custom_model_data": 10022 },
+			"model": "iasurvival:ia_auto_gen/nice_wood"
 		},
 		{
-			"predicate": { "custom_model_data": 10094 },
-			"model": "elitecreatures:medieval_market_decoration_v1/chair"
+			"predicate": { "custom_model_data": 10023 },
+			"model": "iasurvival:ia_auto_gen/iron_dirt_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10095 },
-			"model": "elitecreatures:medieval_market_decoration_v1/crate"
+			"predicate": { "custom_model_data": 10024 },
+			"model": "iasurvival:ia_auto_gen/dark_amethyst_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10096 },
-			"model": "elitecreatures:medieval_market_decoration_v1/earthenware"
+			"predicate": { "custom_model_data": 10025 },
+			"model": "iasurvival:ia_auto_gen/forgotten_crying_obsidian"
 		},
 		{
-			"predicate": { "custom_model_data": 10097 },
-			"model": "elitecreatures:medieval_market_decoration_v1/fishtub"
+			"predicate": { "custom_model_data": 10026 },
+			"model": "iasurvival:ia_auto_gen/cassiterite_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10098 },
-			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_1"
+			"predicate": { "custom_model_data": 10027 },
+			"model": "iasurvival:ia_auto_gen/spinel_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10099 },
-			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_2"
+			"predicate": { "custom_model_data": 10028 },
+			"model": "iasurvival:ia_auto_gen/aqua_aura_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10100 },
-			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_3"
+			"predicate": { "custom_model_data": 10029 },
+			"model": "iasurvival:ia_auto_gen/ruby_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10101 },
-			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_4"
+			"predicate": { "custom_model_data": 10030 },
+			"model": "iasurvival:ia_auto_gen/spinel_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10102 },
-			"model": "elitecreatures:medieval_market_decoration_v1/pole"
+			"predicate": { "custom_model_data": 10031 },
+			"model": "iasurvival:ia_auto_gen/ruby_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10103 },
-			"model": "elitecreatures:medieval_market_decoration_v1/shark"
+			"predicate": { "custom_model_data": 10032 },
+			"model": "iasurvival:ia_auto_gen/gold_dirt_ore"
 		},
 		{
-			"predicate": { "custom_model_data": 10104 },
-			"model": "elitecreatures:medieval_market_decoration_v1/shelf_1"
+			"predicate": { "custom_model_data": 10033 },
+			"model": "iasurvival:ia_auto_gen/turquoise_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10105 },
-			"model": "elitecreatures:medieval_market_decoration_v1/shelf_2"
+			"predicate": { "custom_model_data": 10034 },
+			"model": "iafestivities:christmas/decorative_candy_cane"
 		},
 		{
-			"predicate": { "custom_model_data": 10106 },
-			"model": "elitecreatures:medieval_market_decoration_v1/table_1"
+			"predicate": { "custom_model_data": 10035 },
+			"model": "iasurvival:ia_auto_gen/aqua_aura_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10107 },
-			"model": "elitecreatures:medieval_market_decoration_v1/table_2"
+			"predicate": { "custom_model_data": 10036 },
+			"model": "iasurvival:ia_auto_gen/crystal_block"
 		},
 		{
-			"predicate": { "custom_model_data": 10108 },
-			"model": "elitecreatures:medieval_market_decoration_v1/waterwell"
+			"predicate": { "custom_model_data": 10037 },
+			"model": "iasurvival:ia_auto_gen/customization_table"
 		},
 		{
-			"predicate": { "custom_model_data": 10109 },
+			"predicate": { "custom_model_data": 10038 },
+			"model": "iasurvival:ia_auto_gen/dark_amethyst_ore"
+		},
+		{
+			"predicate": { "custom_model_data": 10039 },
+			"model": "iasurvival:ia_auto_gen/restoration_table"
+		},
+		{
+			"predicate": { "custom_model_data": 10040 },
+			"model": "iasurvival:ia_auto_gen/turquoise_ore"
+		},
+		{
+			"predicate": { "custom_model_data": 10041 },
+			"model": "iasurvival:ia_auto_gen/modern_stone"
+		},
+		{
+			"predicate": { "custom_model_data": 10042 },
+			"model": "iasurvival:ia_auto_gen/blaze_powder_ore"
+		},
+		{
+			"predicate": { "custom_model_data": 10043 },
+			"model": "iasurvival:ia_auto_gen/modern_quartz"
+		},
+		{
+			"predicate": { "custom_model_data": 10044 },
+			"model": "iasurvival:ia_auto_gen/nice_stone"
+		},
+		{
+			"predicate": { "custom_model_data": 10045 },
+			"model": "mcicons:ia_auto_gen/icon_left_gray"
+		},
+		{
+			"predicate": { "custom_model_data": 10046 },
+			"model": "mcicons:ia_auto_gen/icon_left_blue"
+		},
+		{
+			"predicate": { "custom_model_data": 10047 },
+			"model": "mcicons:ia_auto_gen/icon_right_gray"
+		},
+		{
+			"predicate": { "custom_model_data": 10048 },
+			"model": "mcicons:ia_auto_gen/icon_right_blue"
+		},
+		{
+			"predicate": { "custom_model_data": 10049 },
+			"model": "mcicons:ia_auto_gen/icon_up_gray"
+		},
+		{
+			"predicate": { "custom_model_data": 10050 },
+			"model": "mcicons:ia_auto_gen/icon_up_blue"
+		},
+		{
+			"predicate": { "custom_model_data": 10051 },
+			"model": "mcicons:ia_auto_gen/icon_down_gray"
+		},
+		{
+			"predicate": { "custom_model_data": 10052 },
+			"model": "mcicons:ia_auto_gen/icon_down_blue"
+		},
+		{
+			"predicate": { "custom_model_data": 10053 },
+			"model": "mcicons:ia_auto_gen/icon_next_white"
+		},
+		{
+			"predicate": { "custom_model_data": 10054 },
+			"model": "mcicons:ia_auto_gen/icon_next_orange"
+		},
+		{
+			"predicate": { "custom_model_data": 10055 },
+			"model": "mcicons:ia_auto_gen/icon_back_white"
+		},
+		{
+			"predicate": { "custom_model_data": 10056 },
+			"model": "mcicons:ia_auto_gen/icon_back_orange"
+		},
+		{
+			"predicate": { "custom_model_data": 10057 },
+			"model": "mcicons:ia_auto_gen/icon_cancel"
+		},
+		{
+			"predicate": { "custom_model_data": 10058 },
+			"model": "mcicons:ia_auto_gen/icon_confirm"
+		},
+		{
+			"predicate": { "custom_model_data": 10059 },
+			"model": "mcicons:ia_auto_gen/icon_lock"
+		},
+		{
+			"predicate": { "custom_model_data": 10060 },
+			"model": "mcicons:ia_auto_gen/icon_unlock"
+		},
+		{
+			"predicate": { "custom_model_data": 10061 },
+			"model": "mcicons:ia_auto_gen/icon_web"
+		},
+		{
+			"predicate": { "custom_model_data": 10062 },
+			"model": "mcicons:ia_auto_gen/icon_ender_chest"
+		},
+		{
+			"predicate": { "custom_model_data": 10063 },
+			"model": "mcicons:ia_auto_gen/icon_refresh"
+		},
+		{
+			"predicate": { "custom_model_data": 10064 },
+			"model": "mcicons:ia_auto_gen/icon_time_day"
+		},
+		{
+			"predicate": { "custom_model_data": 10065 },
+			"model": "mcicons:ia_auto_gen/icon_time_midnight"
+		},
+		{
+			"predicate": { "custom_model_data": 10066 },
+			"model": "mcicons:ia_auto_gen/icon_time_night"
+		},
+		{
+			"predicate": { "custom_model_data": 10067 },
+			"model": "mcicons:ia_auto_gen/icon_time_noon"
+		},
+		{
+			"predicate": { "custom_model_data": 10068 },
+			"model": "mcicons:ia_auto_gen/icon_time_sunrise"
+		},
+		{
+			"predicate": { "custom_model_data": 10069 },
+			"model": "mcicons:ia_auto_gen/icon_time_sunset"
+		},
+		{
+			"predicate": { "custom_model_data": 10070 },
+			"model": "mcicons:ia_auto_gen/icon_toggle_off"
+		},
+		{
+			"predicate": { "custom_model_data": 10071 },
+			"model": "mcicons:ia_auto_gen/icon_toggle_on"
+		},
+		{
+			"predicate": { "custom_model_data": 10072 },
+			"model": "mcicons:ia_auto_gen/icon_arrow_chest"
+		},
+		{
+			"predicate": { "custom_model_data": 10073 },
+			"model": "mcicons:ia_auto_gen/icon_plus"
+		},
+		{
+			"predicate": { "custom_model_data": 10074 },
+			"model": "mcicons:ia_auto_gen/icon_color_picker"
+		},
+		{
+			"predicate": { "custom_model_data": 10075 },
+			"model": "mcicons:ia_auto_gen/icon_comment"
+		},
+		{
+			"predicate": { "custom_model_data": 10076 },
+			"model": "mcicons:ia_auto_gen/icon_search"
+		},
+		{
+			"predicate": { "custom_model_data": 10077 },
 			"model": "elitecreatures:fountain_decoration_v1/fountain_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10110 },
+			"predicate": { "custom_model_data": 10078 },
 			"model": "elitecreatures:fountain_decoration_v1/fountain_2"
 		},
 		{
-			"predicate": { "custom_model_data": 10111 },
+			"predicate": { "custom_model_data": 10079 },
 			"model": "elitecreatures:fountain_decoration_v1/fountain_3"
 		},
 		{
-			"predicate": { "custom_model_data": 10112 },
+			"predicate": { "custom_model_data": 10080 },
 			"model": "elitecreatures:fountain_decoration_v1/fountain_4"
 		},
 		{
-			"predicate": { "custom_model_data": 10113 },
+			"predicate": { "custom_model_data": 10081 },
 			"model": "elitecreatures:fountain_decoration_v1/fountain_5"
 		},
 		{
-			"predicate": { "custom_model_data": 10114 },
+			"predicate": { "custom_model_data": 10082 },
 			"model": "elitecreatures:fountain_decoration_v1/fountain_6"
 		},
 		{
-			"predicate": { "custom_model_data": 10115 },
+			"predicate": { "custom_model_data": 10083 },
+			"model": "elitecreatures:forest_decoration_v1/forest_barrel_01"
+		},
+		{
+			"predicate": { "custom_model_data": 10084 },
+			"model": "elitecreatures:forest_decoration_v1/forest_barrel_beer"
+		},
+		{
+			"predicate": { "custom_model_data": 10085 },
+			"model": "elitecreatures:forest_decoration_v1/forest_camp_meat"
+		},
+		{
+			"predicate": { "custom_model_data": 10086 },
+			"model": "elitecreatures:forest_decoration_v1/forest_camp_pot"
+		},
+		{
+			"predicate": { "custom_model_data": 10087 },
+			"model": "elitecreatures:forest_decoration_v1/forest_cargo"
+		},
+		{
+			"predicate": { "custom_model_data": 10088 },
+			"model": "elitecreatures:forest_decoration_v1/forest_clothsline"
+		},
+		{
+			"predicate": { "custom_model_data": 10089 },
+			"model": "elitecreatures:forest_decoration_v1/forest_flag"
+		},
+		{
+			"predicate": { "custom_model_data": 10090 },
+			"model": "elitecreatures:forest_decoration_v1/forest_glass"
+		},
+		{
+			"predicate": { "custom_model_data": 10091 },
+			"model": "elitecreatures:forest_decoration_v1/forest_lantern"
+		},
+		{
+			"predicate": { "custom_model_data": 10092 },
+			"model": "elitecreatures:forest_decoration_v1/forest_log_with_axe"
+		},
+		{
+			"predicate": { "custom_model_data": 10093 },
+			"model": "elitecreatures:forest_decoration_v1/forest_storage_axe"
+		},
+		{
+			"predicate": { "custom_model_data": 10094 },
+			"model": "elitecreatures:forest_decoration_v1/forest_stump"
+		},
+		{
+			"predicate": { "custom_model_data": 10095 },
+			"model": "elitecreatures:forest_decoration_v1/forest_table"
+		},
+		{
+			"predicate": { "custom_model_data": 10096 },
+			"model": "elitecreatures:forest_decoration_v1/forest_table_big"
+		},
+		{
+			"predicate": { "custom_model_data": 10097 },
+			"model": "elitecreatures:forest_decoration_v1/forest_table_small"
+		},
+		{
+			"predicate": { "custom_model_data": 10098 },
+			"model": "elitecreatures:forest_decoration_v1/forest_tent"
+		},
+		{
+			"predicate": { "custom_model_data": 10099 },
+			"model": "elitecreatures:blacksmith_decoration_v1/weaponshelf"
+		},
+		{
+			"predicate": { "custom_model_data": 10100 },
+			"model": "elitecreatures:blacksmith_decoration_v1/anvil"
+		},
+		{
+			"predicate": { "custom_model_data": 10101 },
+			"model": "elitecreatures:blacksmith_decoration_v1/bed"
+		},
+		{
+			"predicate": { "custom_model_data": 10102 },
+			"model": "elitecreatures:blacksmith_decoration_v1/carpet"
+		},
+		{
+			"predicate": { "custom_model_data": 10103 },
+			"model": "elitecreatures:blacksmith_decoration_v1/chair_double"
+		},
+		{
+			"predicate": { "custom_model_data": 10104 },
+			"model": "elitecreatures:blacksmith_decoration_v1/chair_single"
+		},
+		{
+			"predicate": { "custom_model_data": 10105 },
+			"model": "elitecreatures:blacksmith_decoration_v1/cupboard"
+		},
+		{
+			"predicate": { "custom_model_data": 10106 },
+			"model": "elitecreatures:blacksmith_decoration_v1/flag_red_white"
+		},
+		{
+			"predicate": { "custom_model_data": 10107 },
+			"model": "elitecreatures:blacksmith_decoration_v1/flag_red_white_hang"
+		},
+		{
+			"predicate": { "custom_model_data": 10108 },
+			"model": "elitecreatures:blacksmith_decoration_v1/furnace"
+		},
+		{
+			"predicate": { "custom_model_data": 10109 },
+			"model": "elitecreatures:blacksmith_decoration_v1/grindstone"
+		},
+		{
+			"predicate": { "custom_model_data": 10110 },
+			"model": "elitecreatures:blacksmith_decoration_v1/shopsign"
+		},
+		{
+			"predicate": { "custom_model_data": 10111 },
+			"model": "elitecreatures:blacksmith_decoration_v1/table_big"
+		},
+		{
+			"predicate": { "custom_model_data": 10112 },
+			"model": "elitecreatures:blacksmith_decoration_v1/table_mini"
+		},
+		{
+			"predicate": { "custom_model_data": 10113 },
+			"model": "elitecreatures:blacksmith_decoration_v1/toolrack"
+		},
+		{
+			"predicate": { "custom_model_data": 10114 },
 			"model": "elitecreatures:medieval_market_decoration_v2/barrel_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10116 },
+			"predicate": { "custom_model_data": 10115 },
 			"model": "elitecreatures:medieval_market_decoration_v2/barrel_2"
 		},
 		{
-			"predicate": { "custom_model_data": 10117 },
+			"predicate": { "custom_model_data": 10116 },
 			"model": "elitecreatures:medieval_market_decoration_v2/board_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10118 },
+			"predicate": { "custom_model_data": 10117 },
 			"model": "elitecreatures:medieval_market_decoration_v2/boardsign_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10119 },
+			"predicate": { "custom_model_data": 10118 },
 			"model": "elitecreatures:medieval_market_decoration_v2/box_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10120 },
+			"predicate": { "custom_model_data": 10119 },
 			"model": "elitecreatures:medieval_market_decoration_v2/cargo_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10121 },
+			"predicate": { "custom_model_data": 10120 },
 			"model": "elitecreatures:medieval_market_decoration_v2/cargo_2"
 		},
 		{
-			"predicate": { "custom_model_data": 10122 },
+			"predicate": { "custom_model_data": 10121 },
 			"model": "elitecreatures:medieval_market_decoration_v2/chair_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10123 },
+			"predicate": { "custom_model_data": 10122 },
 			"model": "elitecreatures:medieval_market_decoration_v2/chair_2"
 		},
 		{
-			"predicate": { "custom_model_data": 10124 },
+			"predicate": { "custom_model_data": 10123 },
 			"model": "elitecreatures:medieval_market_decoration_v2/crate_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10125 },
+			"predicate": { "custom_model_data": 10124 },
 			"model": "elitecreatures:medieval_market_decoration_v2/crate_2"
 		},
 		{
-			"predicate": { "custom_model_data": 10126 },
+			"predicate": { "custom_model_data": 10125 },
 			"model": "elitecreatures:medieval_market_decoration_v2/crate_3"
 		},
 		{
-			"predicate": { "custom_model_data": 10127 },
+			"predicate": { "custom_model_data": 10126 },
 			"model": "elitecreatures:medieval_market_decoration_v2/crate_4"
 		},
 		{
-			"predicate": { "custom_model_data": 10128 },
+			"predicate": { "custom_model_data": 10127 },
 			"model": "elitecreatures:medieval_market_decoration_v2/marketstall_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10129 },
+			"predicate": { "custom_model_data": 10128 },
 			"model": "elitecreatures:medieval_market_decoration_v2/marketstall_2"
 		},
 		{
-			"predicate": { "custom_model_data": 10130 },
+			"predicate": { "custom_model_data": 10129 },
 			"model": "elitecreatures:medieval_market_decoration_v2/marketstall_3"
 		},
 		{
-			"predicate": { "custom_model_data": 10131 },
+			"predicate": { "custom_model_data": 10130 },
 			"model": "elitecreatures:medieval_market_decoration_v2/marketstall_4"
 		},
 		{
-			"predicate": { "custom_model_data": 10132 },
+			"predicate": { "custom_model_data": 10131 },
 			"model": "elitecreatures:medieval_market_decoration_v2/shelf_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10133 },
+			"predicate": { "custom_model_data": 10132 },
 			"model": "elitecreatures:medieval_market_decoration_v2/table_1"
 		},
 		{
-			"predicate": { "custom_model_data": 10134 },
+			"predicate": { "custom_model_data": 10133 },
 			"model": "elitecreatures:medieval_market_decoration_v2/table_2"
 		},
 		{
+			"predicate": { "custom_model_data": 10134 },
+			"model": "elitecreatures:medieval_market_decoration_v1/barrel"
+		},
+		{
 			"predicate": { "custom_model_data": 10135 },
-			"model": "elitecreature:forest_decoration_v1/forest_barrel_01"
+			"model": "elitecreatures:medieval_market_decoration_v1/barrelberry"
 		},
 		{
 			"predicate": { "custom_model_data": 10136 },
-			"model": "elitecreature:forest_decoration_v1/forest_barrel_beer"
+			"model": "elitecreatures:medieval_market_decoration_v1/barrelsword"
 		},
 		{
 			"predicate": { "custom_model_data": 10137 },
-			"model": "elitecreature:forest_decoration_v1/forest_camp_meat"
+			"model": "elitecreatures:medieval_market_decoration_v1/boardsign"
 		},
 		{
 			"predicate": { "custom_model_data": 10138 },
-			"model": "elitecreature:forest_decoration_v1/forest_camp_pot"
+			"model": "elitecreatures:medieval_market_decoration_v1/campfire_1"
 		},
 		{
 			"predicate": { "custom_model_data": 10139 },
-			"model": "elitecreature:forest_decoration_v1/forest_cargo"
+			"model": "elitecreatures:medieval_market_decoration_v1/campfire_2"
 		},
 		{
 			"predicate": { "custom_model_data": 10140 },
-			"model": "elitecreature:forest_decoration_v1/forest_clothsline"
+			"model": "elitecreatures:medieval_market_decoration_v1/cargo_1"
 		},
 		{
 			"predicate": { "custom_model_data": 10141 },
-			"model": "elitecreature:forest_decoration_v1/forest_flag"
+			"model": "elitecreatures:medieval_market_decoration_v1/cargo_2"
 		},
 		{
 			"predicate": { "custom_model_data": 10142 },
-			"model": "elitecreature:forest_decoration_v1/forest_glass"
+			"model": "elitecreatures:medieval_market_decoration_v1/cart_1"
 		},
 		{
 			"predicate": { "custom_model_data": 10143 },
-			"model": "elitecreature:forest_decoration_v1/forest_lantern"
+			"model": "elitecreatures:medieval_market_decoration_v1/cart_2"
 		},
 		{
 			"predicate": { "custom_model_data": 10144 },
-			"model": "elitecreature:forest_decoration_v1/forest_log_with_axe"
+			"model": "elitecreatures:medieval_market_decoration_v1/chair"
 		},
 		{
 			"predicate": { "custom_model_data": 10145 },
-			"model": "elitecreature:forest_decoration_v1/forest_storage_axe"
+			"model": "elitecreatures:medieval_market_decoration_v1/crate"
 		},
 		{
 			"predicate": { "custom_model_data": 10146 },
-			"model": "elitecreature:forest_decoration_v1/forest_stump"
+			"model": "elitecreatures:medieval_market_decoration_v1/earthenware"
 		},
 		{
 			"predicate": { "custom_model_data": 10147 },
-			"model": "elitecreature:forest_decoration_v1/forest_table"
+			"model": "elitecreatures:medieval_market_decoration_v1/fishtub"
 		},
 		{
 			"predicate": { "custom_model_data": 10148 },
-			"model": "elitecreature:forest_decoration_v1/forest_table_big"
+			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_1"
 		},
 		{
 			"predicate": { "custom_model_data": 10149 },
-			"model": "elitecreature:forest_decoration_v1/forest_table_small"
+			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_2"
 		},
 		{
 			"predicate": { "custom_model_data": 10150 },
-			"model": "elitecreature:forest_decoration_v1/forest_tent"
+			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_3"
 		},
 		{
 			"predicate": { "custom_model_data": 10151 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_weaponshelf"
+			"model": "elitecreatures:medieval_market_decoration_v1/marketstall_4"
 		},
 		{
 			"predicate": { "custom_model_data": 10152 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_anvil"
+			"model": "elitecreatures:medieval_market_decoration_v1/pole"
 		},
 		{
 			"predicate": { "custom_model_data": 10153 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_bed"
+			"model": "elitecreatures:medieval_market_decoration_v1/shark"
 		},
 		{
 			"predicate": { "custom_model_data": 10154 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_carpet"
+			"model": "elitecreatures:medieval_market_decoration_v1/shelf_1"
 		},
 		{
 			"predicate": { "custom_model_data": 10155 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_chair_double"
+			"model": "elitecreatures:medieval_market_decoration_v1/shelf_2"
 		},
 		{
 			"predicate": { "custom_model_data": 10156 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_chair_single"
+			"model": "elitecreatures:medieval_market_decoration_v1/table_1"
 		},
 		{
 			"predicate": { "custom_model_data": 10157 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_cupboard"
+			"model": "elitecreatures:medieval_market_decoration_v1/table_2"
 		},
 		{
 			"predicate": { "custom_model_data": 10158 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white"
+			"model": "elitecreatures:medieval_market_decoration_v1/waterwell"
 		},
 		{
 			"predicate": { "custom_model_data": 10159 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_flag_red_white_hang"
+			"model": "magicalfurnitures:vasemagical"
 		},
 		{
 			"predicate": { "custom_model_data": 10160 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_furnace"
+			"model": "magicalfurnitures:tablemagical"
 		},
 		{
 			"predicate": { "custom_model_data": 10161 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_grindstone"
+			"model": "magicalfurnitures:chairmagical"
 		},
 		{
 			"predicate": { "custom_model_data": 10162 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_shopsign"
+			"model": "magicalfurnitures:couchsmallmagical"
 		},
 		{
 			"predicate": { "custom_model_data": 10163 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_table_big"
+			"model": "magicalfurnitures:couchmagical"
 		},
 		{
 			"predicate": { "custom_model_data": 10164 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_table_mini"
+			"model": "magicalfurnitures:tablesmallmagical"
 		},
 		{
 			"predicate": { "custom_model_data": 10165 },
-			"model": "elitecreature:blacksmith_decoration_v1/blacksmith_toolrack"
+			"model": "magicalfurnitures:cabientmagical"
 		},
 		{ "predicate": { "custom_model_data": 10166 }, "model": "item/paper" }
-	],
-	"mcmodels": "c7472d36aa4ef971310a778da4df1929"
+	]
 }

@@ -51,115 +51,115 @@
     },
     {
       "predicate": { "custom_model_data": 10000 },
-      "model": "iasurvival:ia_auto_gen/black_bow"
-    },
-    {
-      "predicate": { "pulling": 1, "custom_model_data": 10000 },
-      "model": "iasurvival:ia_auto_gen/black_bow_0"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10000 },
-      "model": "iasurvival:ia_auto_gen/black_bow_1"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10000 },
-      "model": "iasurvival:ia_auto_gen/black_bow_2"
-    },
-    {
-      "predicate": { "custom_model_data": 10001 },
-      "model": "iasurvival:ia_auto_gen/red_bow"
-    },
-    {
-      "predicate": { "pulling": 1, "custom_model_data": 10001 },
-      "model": "iasurvival:ia_auto_gen/red_bow_0"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10001 },
-      "model": "iasurvival:ia_auto_gen/red_bow_1"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10001 },
-      "model": "iasurvival:ia_auto_gen/red_bow_2"
-    },
-    {
-      "predicate": { "custom_model_data": 10002 },
-      "model": "iasurvival:ia_auto_gen/green_bow"
-    },
-    {
-      "predicate": { "pulling": 1, "custom_model_data": 10002 },
-      "model": "iasurvival:ia_auto_gen/green_bow_0"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10002 },
-      "model": "iasurvival:ia_auto_gen/green_bow_1"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10002 },
-      "model": "iasurvival:ia_auto_gen/green_bow_2"
-    },
-    {
-      "predicate": { "custom_model_data": 10003 },
-      "model": "iasurvival:ia_auto_gen/blue_bow"
-    },
-    {
-      "predicate": { "pulling": 1, "custom_model_data": 10003 },
-      "model": "iasurvival:ia_auto_gen/blue_bow_0"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10003 },
-      "model": "iasurvival:ia_auto_gen/blue_bow_1"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10003 },
-      "model": "iasurvival:ia_auto_gen/blue_bow_2"
-    },
-    {
-      "predicate": { "custom_model_data": 10004 },
-      "model": "iasurvival:ia_auto_gen/purple_bow"
-    },
-    {
-      "predicate": { "pulling": 1, "custom_model_data": 10004 },
-      "model": "iasurvival:ia_auto_gen/purple_bow_0"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10004 },
-      "model": "iasurvival:ia_auto_gen/purple_bow_1"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10004 },
-      "model": "iasurvival:ia_auto_gen/purple_bow_2"
-    },
-    {
-      "predicate": { "custom_model_data": 10005 },
-      "model": "iasurvival:ia_auto_gen/cyan_bow"
-    },
-    {
-      "predicate": { "pulling": 1, "custom_model_data": 10005 },
-      "model": "iasurvival:ia_auto_gen/cyan_bow_0"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10005 },
-      "model": "iasurvival:ia_auto_gen/cyan_bow_1"
-    },
-    {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10005 },
-      "model": "iasurvival:ia_auto_gen/cyan_bow_2"
-    },
-    {
-      "predicate": { "custom_model_data": 10006 },
       "model": "iaalchemy:ia_auto_gen/astral_bow"
     },
     {
-      "predicate": { "pulling": 1, "custom_model_data": 10006 },
+      "predicate": { "pulling": 1, "custom_model_data": 10000 },
       "model": "iaalchemy:ia_auto_gen/astral_bow_0"
     },
     {
-      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10006 },
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10000 },
       "model": "iaalchemy:ia_auto_gen/astral_bow_1"
     },
     {
-      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10006 },
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10000 },
       "model": "iaalchemy:ia_auto_gen/astral_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/black_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/black_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/black_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10001 },
+      "model": "iasurvival:ia_auto_gen/black_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/red_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/red_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/red_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10002 },
+      "model": "iasurvival:ia_auto_gen/red_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/green_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/green_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/green_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10003 },
+      "model": "iasurvival:ia_auto_gen/green_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/blue_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/blue_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/blue_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10004 },
+      "model": "iasurvival:ia_auto_gen/blue_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/purple_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/purple_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/purple_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10005 },
+      "model": "iasurvival:ia_auto_gen/purple_bow_2"
+    },
+    {
+      "predicate": { "custom_model_data": 10006 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow"
+    },
+    {
+      "predicate": { "pulling": 1, "custom_model_data": 10006 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow_0"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.65, "custom_model_data": 10006 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow_1"
+    },
+    {
+      "predicate": { "pulling": 1, "pull": 0.9, "custom_model_data": 10006 },
+      "model": "iasurvival:ia_auto_gen/cyan_bow_2"
     },
     {
       "predicate": { "custom_model_data": 10007 },
