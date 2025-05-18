@@ -22,6 +22,18 @@
 		{ "predicate": { "custom_model_data": 2020 }, "model": "archer:archer_model/archer_bow_shiny" },
 		{ "predicate": { "custom_model_data": 2021 }, "model": "mage:mage_model/mage_staff" },
 		{ "predicate": { "custom_model_data": 2022 }, "model": "mage:mage_model/mage_staff_shiny" },
-		{ "predicate": { "custom_model_data": 2023 }, "model": "item/stone_sword" }
+		{ "predicate": { "custom_model_data": 2023 }, "model": "item/stone_sword" },
+		{
+			"predicate": { "custom_model_data": 5600 },
+			"model": "oasiscraft:item/stone_sword/orc_axe"
+		},
+		{
+			"predicate": { "custom_model_data": 5601 },
+			"model": "oasiscraft:item/stone_sword/orc_club"
+		},
+		{
+			"predicate": { "custom_model_data": 5602 },
+			"model": "oasiscraft:item/stone_sword/orc_glaive"
+		}
 	]
 }

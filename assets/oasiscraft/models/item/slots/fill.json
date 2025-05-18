@@ -1,9 +1,9 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "items/slots/fill"
+		"layer0": "oasiscraft:item/rpg_inventory/fill"
 	},
-	"display":{
-		"gui": {"rotation": [ 0, 0, 0 ], "translation": [ 0, 0, 0 ], "scale": [ 1.1, 1.1, 1.1 ]}
+	"display": {
+		"gui": { "rotation": [0, 0, 0], "translation": [0, 0, 0], "scale": [1.1, 1.1, 1.1] }
 	}
 }

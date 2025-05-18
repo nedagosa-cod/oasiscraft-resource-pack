@@ -9,27 +9,27 @@
 		{ "predicate": { "custom_model_data": 3 }, "model": "littleroom_yokai:tengublade" },
 		{
 			"predicate": { "custom_model_data": 4 },
-			"model": "item/voxelspawns/vs_ashbringer"
+			"model": "minecraft:item/voxelspawns/vs_ashbringer"
 		},
 		{
 			"predicate": { "custom_model_data": 5 },
-			"model": "item/voxelspawns/vs_eswords_1"
+			"model": "minecraft:item/voxelspawns/vs_eswords_1"
 		},
 		{
 			"predicate": { "custom_model_data": 6 },
-			"model": "item/voxelspawns/vs_eswords_2"
+			"model": "minecraft:item/voxelspawns/vs_eswords_2"
 		},
 		{
 			"predicate": { "custom_model_data": 7 },
-			"model": "item/voxelspawns/vs_eswords_3"
+			"model": "minecraft:item/voxelspawns/vs_eswords_3"
 		},
 		{
 			"predicate": { "custom_model_data": 8 },
-			"model": "item/voxelspawns/vs_eswords_4"
+			"model": "minecraft:item/voxelspawns/vs_eswords_4"
 		},
 		{
 			"predicate": { "custom_model_data": 9 },
-			"model": "item/voxelspawns/vs_eswords_5"
+			"model": "minecraft:item/voxelspawns/vs_eswords_5"
 		}
 	]
 }

@@ -9,11 +9,11 @@
 		{ "predicate": { "custom_model_data": 5 }, "model": "littleroom_yokai:ofuda" },
 		{
 			"predicate": { "custom_model_data": 5600 },
-			"model": "orc_model/orc_skull"
+			"model": "minecraft:orc_model/orc_skull"
 		},
 		{
 			"predicate": { "custom_model_data": 5601 },
-			"model": "orc_model/orc_stone"
+			"model": "minecraft:orc_model/orc_stone"
 		},
 		{
 			"predicate": { "custom_model_data": 2108 },

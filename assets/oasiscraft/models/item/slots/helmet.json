@@ -1,6 +1,6 @@
 {
-	"parent": "item/handheld",
+	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "items/slots/helmet"
+		"layer0": "oasiscraft:item/rpg_inventory/helmet"
 	}
 }
